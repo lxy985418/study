@@ -8576,7 +8576,7 @@
       "projectRoot": "E:\\文档\\公考学习",
       "entryRelativePath": "README.md",
       "authoritativeRelativePath": "学习记录/学习记录.json",
-      "remoteStatus": "authenticated_private_repo_verified_upload_pending",
+      "remoteStatus": "synced",
       "masteryClaim": false
     }
   },
@@ -9062,16 +9062,17 @@
     "authoritativeRelativePath": "学习记录/学习记录.json",
     "humanEntryRelativePath": "学习记录/当前进度.md",
     "legacyWorkingRecordRole": "compatibility_mirror_not_independent_source",
-    "remoteStatus": "authenticated_private_repo_verified_upload_pending",
+    "remoteStatus": "synced",
     "requiredVisibility": "private",
     "remoteCreated": false,
-    "remotePushed": false,
+    "remotePushed": true,
     "updatedDate": "2026-11-18",
     "remoteUrl": "https://github.com/lxy985418/study.git",
     "remoteWebUrl": "https://github.com/lxy985418/study",
     "remoteExists": true,
     "verifiedVisibility": "private",
     "authenticatedAccount": "lxy985418",
-    "branch": "main"
+    "branch": "main",
+    "lastVerifiedContentCommit": "669ab6c79bb761f6aba9e2a678c9b5ce3ad5733a"
   }
 }
