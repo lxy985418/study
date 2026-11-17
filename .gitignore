@@ -1,0 +1,14 @@
+.obsidian/
+归档历史/
+tmp/
+__pycache__/
+*.tmp
+*.bak
+*.pdf
+*.mp3
+*.mp4
+*.zip
+*.7z
+*.html
+.env
+.env.*

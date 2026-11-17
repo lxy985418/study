@@ -1,0 +1,5131 @@
+{
+  "profile": {
+    "exam": "事业编联考（按现有四川省属资料准备）",
+    "examDate": "2026-12-26",
+    "dateSource": "用户提供，未宣称已核实公告",
+    "minutesPerDay": 120,
+    "additionalTime": "按用户最新要求，每天两小时",
+    "scope": "法律＋政治专项",
+    "dailyAllocation": {
+      "law": 90,
+      "politics": 30
+    },
+    "optionalExtraMinutes": 0,
+    "otherSubjects": "公文、经济、管理、文史科技省情、职测综测尚未纳入完整逐日安排",
+    "reviewIncluded": true
+  },
+  "startedAt": "2026-11-14",
+  "lastSession": "2026-11-14",
+  "diagnostic": {
+    "status": "graded_followup_needs_reteaching",
+    "questions": 3,
+    "score": 1,
+    "scoreMeaning": "结论正确题数；第2题理由需补纯获利益条件",
+    "answers": [
+      {
+        "question": 1,
+        "userAnswer": "不完全能力责任人，未成年",
+        "conclusionCorrect": false,
+        "expected": "视为完全民事行为能力人",
+        "reason": "已满16周岁且以自己的劳动收入为主要生活来源"
+      },
+      {
+        "question": 2,
+        "userAnswer": "不用，赠与",
+        "conclusionCorrect": true,
+        "reasonComplete": false,
+        "expected": "纯获利益，可独立实施；不以赠与名称概括一切情形"
+      },
+      {
+        "question": 3,
+        "userAnswer": "无效，丙是无完全能力责任人",
+        "conclusionCorrect": false,
+        "expected": "限制民事行为能力人；超出能力的行为效力待定，审同意或追认"
+      }
+    ]
+  },
+  "completedLessons": [],
+  "weakPoints": [
+    {
+      "id": "M01-labor-exception",
+      "topic": "16周岁以上劳动收入主要生活来源的例外",
+      "status": "initial_understanding_review_due",
+      "observations": [
+        "两次将有劳动收入误作以劳动收入为主要生活来源",
+        "能解释兼职收入不是主要生活来源，简化变式正确",
+        "年龄门槛变式正确；劳动例外初步理解，待次日不提示复测",
+        "综合解释时将钱的来源误作所有交易效力的决定条件，需分两步教学",
+        "混合复测中再次正确识别兼职非主要来源，不追溯改初诊成绩"
+      ]
+    },
+    {
+      "id": "M01-effect-pending",
+      "topic": "限制行为能力与无行为能力、待追认与无效的区别",
+      "status": "initial_understanding_review_due",
+      "observations": [
+        "能判断超出能力交易经法定代理人追认后有效；待适龄日常交易变式",
+        "超范围追认及适龄日常交易均答对；主动提出适应范围认定问题",
+        "综合解释时将钱的来源误作所有交易效力的决定条件，需分两步教学",
+        "7岁无行为能力不套追认、已满8岁适龄文具有效，两题连续判断正确",
+        "已正确区分成年人赠出非纯获利益，以及15岁适龄有偿买卖可独立实施；待无提示复测"
+      ]
+    },
+    {
+      "id": "M01-terms",
+      "topic": "民事行为能力术语",
+      "status": "needs_review"
+    },
+    {
+      "id": "M01-scope-test",
+      "topic": "年龄智力适应范围的综合判断标准",
+      "status": "initial_understanding_review_due",
+      "observations": [
+        "能否定付得起即相适应，但需纠正金额完全无关的绝对表述",
+        "综合解释时将钱的来源误作所有交易效力的决定条件，需分两步教学",
+        "父母给钱的适龄文具题判断正确；理由仍以小额概括，需补生活关联及理解后果",
+        "已正确区分成年人赠出非纯获利益，以及15岁适龄有偿买卖可独立实施；待无提示复测"
+      ]
+    },
+    {
+      "id": "M01-fact-discipline",
+      "topic": "不能将高价直接推定为无法理解；不自行补题设事实",
+      "status": "newly_explained"
+    },
+    {
+      "id": "M01-fetus-scope",
+      "topic": "胎儿在继承受赠等利益保护中视为有权利能力；娩出死体自始不存在",
+      "status": "needs_qualification_and_retest"
+    },
+    {
+      "id": "M01-pure-benefit",
+      "topic": "独立接受无义务赠与须用纯获利益规则解释，不能只答有民事权利能力",
+      "status": "initial_understanding_review_due",
+      "observations": [
+        "将行为能力判断替代纯获利益判断；需要分开利益性质与独立实施资格",
+        "已正确区分成年人赠出非纯获利益，以及15岁适龄有偿买卖可独立实施；待无提示复测"
+      ]
+    },
+    {
+      "id": "M01-adult-discernment",
+      "topic": "不能辨认与不能完全辨认，以及无效与效力待定的对应",
+      "status": "initial_understanding_review_due",
+      "observations": [
+        "两次混淆成年人辨认程度与效力；对照讲解后追认有效及无能力不可追认两题正确，需无提示复测"
+      ]
+    },
+    {
+      "id": "M02-revocable-vs-void",
+      "topic": "欺诈等可撤销行为与当然无效的区别",
+      "status": "needs_independent_retest",
+      "observations": [
+        "首次将商家欺诈判为无效；讲解后正确理解可选择保留交易。"
+      ]
+    },
+    {
+      "id": "M02-unfairness",
+      "topic": "显失公平的利用行为与成立时利益明显失衡",
+      "status": "initial_understanding_review_due",
+      "observations": [
+        "单纯低价不能撤销题正确；主动问危困标准；随后正常市价变式结论及理由均正确。"
+      ]
+    },
+    {
+      "id": "M02-revocation-holder",
+      "topic": "由受欺诈方行使撤销权，区分欺诈方与受欺诈方",
+      "status": "initial_understanding_review_due",
+      "observations": [
+        "混合复测第3题结论正确，但将甲的撤销权误写为由欺诈人乙行使；已指出，尚待复测确认是否为笔误。",
+        "换角度复测正确说明撤销权属于受欺诈甲；仍待隔日无提示复测。"
+      ]
+    },
+    {
+      "id": "M02-third-party-fraud",
+      "topic": "第三人欺诈须合同对方知道或者应当知道，第三人胁迫不要求知情",
+      "status": "initial_understanding_review_due",
+      "observations": [
+        "两类结论正确；欺诈理由仅答需要知道，已补应当知道条件，待收尾题检查。",
+        "无规则提示的应当知道变式判断及理由正确，待隔日复测。"
+      ]
+    },
+    {
+      "id": "M03-parent-capacity",
+      "topic": "父母健在不等于有监护能力；临时照料不自动改变监护人",
+      "status": "needs_independent_retest",
+      "observations": [
+        "首题理由仅答父母健在，已补有监护能力要件，尚待无提示复测。"
+      ]
+    },
+    {
+      "id": "M03-property-reason",
+      "topic": "财产处分应以维护被监护人利益说明，不能以纯获利益或权利能力替代理由",
+      "status": "needs_independent_retest",
+      "observations": [
+        "奢侈品题结论正确但理由误用此前模块；必要合理房屋维修改写题判断正确，仍需无提示迁移。"
+      ]
+    },
+    {
+      "id": "M03-designation-procedure",
+      "topic": "指定监护的两条路径，直接向法院申请不以居委会等先指定为前提",
+      "status": "initial_understanding_review_due",
+      "observations": [
+        "首次误判必须先居委会且将申请指定误称上诉；纠正后正面问题回答正确。",
+        "M03七题混测中本项结论及核心理由正确，仍保留隔日复测。"
+      ]
+    },
+    {
+      "id": "M03-minor-guardian-order",
+      "topic": "未成年人监护顺位与第三顺位的同意条件",
+      "status": "initial_understanding_review_due",
+      "observations": [
+        "混测选外祖母正确但顺序叙述将父母再列入、写成兄弟姐妹及居委会指定；逐项纠正后姐姐与邻居比较正确。",
+        "M03七题混测中本项结论及核心理由正确，仍保留隔日复测。"
+      ]
+    },
+    {
+      "id": "M03-missing-vs-death",
+      "topic": "失踪不等于死亡；继承并非一律须法院宣告死亡",
+      "status": "needs_terminology_review",
+      "observations": [
+        "失踪继承题结论正确，但理由概括为未宣告死亡不得继承，需区分实际死亡与宣告死亡。",
+        "收尾死亡日期题结论正确，但理由把一般情形宣告死亡简写成失踪；需明确失踪宣告本身不确定死亡日期。"
+      ]
+    }
+  ],
+  "reviewQueue": [
+    {
+      "date": "2026-11-15",
+      "lesson": "M01",
+      "focus": [
+        "劳动收入主要生活来源",
+        "纯获利益",
+        "追认",
+        "成年人辨认能力与交易效力"
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "lesson": "M01",
+      "focus": [
+        "年龄与交易效力变式"
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "lesson": "M01",
+      "focus": [
+        "混合小测"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "lesson": "M02",
+      "focus": [
+        "四种可撤销事由",
+        "可撤销与无效区别",
+        "显失公平两方面条件",
+        "撤销权期限与起算点",
+        "放弃撤销权",
+        "撤销权主体",
+        "违法不当然导致合同无效",
+        "虚假表示与隐藏行为",
+        "部分无效",
+        "第三人欺诈的应当知道",
+        "催告30日的沉默效果",
+        "善意相对人撤销的时间及通知方式",
+        "追认后不再享有善意相对人该项撤销权"
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "lesson": "M03",
+      "focus": [
+        "未成年与成年监护人法定顺序",
+        "父母健在与监护能力区别",
+        "财产处分与真实意愿",
+        "意定监护开始履职时间",
+        "撤销资格不免抚养等义务",
+        "指定监护可直接申请法院",
+        "遗嘱指定与意定监护区别",
+        "对被监护人故意犯罪排除资格恢复",
+        "未成年监护顺位完整表述及第三顺位同意条件",
+        "有权代理、普通无权代理、表见代理效果对照",
+        "表见代理须善意无过失，不能只凭自称不知道",
+        "双方代理须被代理双方同意或追认",
+        "转委托紧急例外须维护被代理人利益且确有必要",
+        "法人和法定代表人",
+        "非营利不等于不收费，须看目的和不分配利润",
+        "居村委属特别法人而非机关法人",
+        "子公司与分公司资格及责任",
+        "分公司营业执照不代表法人资格",
+        "吊销营业执照与法人终止",
+        "个人独资企业投资人的无限责任",
+        "单股东有限公司与个人独资企业不能仅凭出资人数区分",
+        "失踪代管与继承、实际死亡与宣告死亡",
+        "宣告死亡4年2年及证明不可能生存例外",
+        "死亡宣告撤销后的返还、适当补偿与损害赔偿",
+        "宣告死亡日期与申请时间条件区别",
+        "婚姻自行恢复与两类例外",
+        "依法收养不因未经归来本人同意而无效",
+        "表见代理规范术语",
+        "一般宣告死亡与宣告失踪不可混称",
+        "单一股东有限公司与个人独资企业"
+      ]
+    }
+  ],
+  "nextLesson": "11月15日：法律M01—M03无提示复习与错因补课；政治先复习入门，再进入P01",
+  "days": [
+    {
+      "day": 1,
+      "date": "2026-11-14",
+      "lawRef": "M01—M03",
+      "lawTopic": "今日实际进度：M01、M02、M03主干已讲，M03收尾结论7/7，待隔日复习",
+      "lawTask": "保留已做练习；不重讲已会内容，记录理由错误和待复习点。",
+      "politicsId": "P00",
+      "politicsTopic": "导学与入门诊断",
+      "politicsSource": "目录＋政治入门诊断",
+      "politicsTask": "今天法律已超前；政治仅做5题摸底，可留到明天课前，不记已完成。",
+      "reviewDates": [],
+      "status": "instruction_covered_review_due",
+      "politicsStatus": "intro_instruction_covered_review_due",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "今日实际进度：M01、M02主干已讲；M03已到宣告失踪；政治：导学与入门诊断",
+      "ref": "M01—M03 / P00",
+      "lawStatus": "instruction_covered_review_due"
+    },
+    {
+      "day": 2,
+      "date": "2026-11-15",
+      "lawRef": "M01—M03",
+      "lawTopic": "M01—M03隔日无提示复测与错因补课",
+      "lawTask": "先做新变式，重点辨行为能力、效力与撤销权、监护顺序、表见代理、宣告制度；理由不完整处优先补讲。",
+      "politicsId": "P01",
+      "politicsTopic": "新思想：形成发展和历史地位",
+      "politicsSource": "第三篇·第一章",
+      "politicsTask": "建立理论框架；区分形成发展、历史地位和常见提法。",
+      "reviewDates": [
+        "2026-11-14"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "M01、M02隔日复测＋M03宣告制度续学；政治：新思想：形成发展和历史地位",
+      "ref": "M01—M03 / P01"
+    },
+    {
+      "day": 3,
+      "date": "2026-11-16",
+      "lawRef": "M03",
+      "lawTopic": "监护、代理、法人混测与宣告制度收尾",
+      "lawTask": "已讲内容先测后补；未过关处纠错，按原讲义查漏，不重头上课。",
+      "politicsId": "P02",
+      "politicsTopic": "坚持党的全面领导",
+      "politicsSource": "第三篇·第二章",
+      "politicsTask": "整理领导地位、制度优势等对应表述，做4—6题辨析。",
+      "reviewDates": [
+        "2026-11-15"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "监护、代理、法人混测与宣告制度收尾；政治：坚持党的全面领导",
+      "ref": "M03 / P02"
+    },
+    {
+      "day": 4,
+      "date": "2026-11-17",
+      "lawRef": "M04",
+      "lawTopic": "民法：诉讼时效时间线",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P03",
+      "politicsTopic": "新时代坚持和发展中国特色社会主义",
+      "politicsSource": "第三篇·第三章",
+      "politicsTask": "用时间线区分新时代、主要矛盾与相关理论表述。",
+      "reviewDates": [
+        "2026-11-16",
+        "2026-11-14"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "民法：诉讼时效时间线；政治：新时代坚持和发展中国特色社会主义",
+      "ref": "M04 / P03"
+    },
+    {
+      "day": 5,
+      "date": "2026-11-18",
+      "lawRef": "M05",
+      "lawTopic": "民法：物权变动与占有",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P04",
+      "politicsTopic": "中国式现代化",
+      "politicsSource": "第三篇·第四章",
+      "politicsTask": "分清中国特色、本质要求、重大原则，避免张冠李戴。",
+      "reviewDates": [
+        "2026-11-17",
+        "2026-11-15"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "民法：物权变动与占有；政治：中国式现代化",
+      "ref": "M05 / P04"
+    },
+    {
+      "day": 6,
+      "date": "2026-11-19",
+      "lawRef": "M06",
+      "lawTopic": "民法：善意取得及抵押质押留置",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P05",
+      "politicsTopic": "坚持以人民为中心",
+      "politicsSource": "第三篇·第五章",
+      "politicsTask": "把人民立场与具体案例对应，练选择理由。",
+      "reviewDates": [
+        "2026-11-18",
+        "2026-11-16"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "民法：善意取得及抵押质押留置；政治：坚持以人民为中心",
+      "ref": "M06 / P05"
+    },
+    {
+      "day": 7,
+      "date": "2026-11-20",
+      "lawRef": "M01—M06",
+      "lawTopic": "民法周测与错因归类",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P06",
+      "politicsTopic": "全面深化改革开放＋周复习",
+      "politicsSource": "第三篇·第六章",
+      "politicsTask": "对照改革的目标、方法；回忆本周6张关键词卡。",
+      "reviewDates": [
+        "2026-11-19",
+        "2026-11-17"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "民法周测与错因归类；政治：全面深化改革开放＋周复习",
+      "ref": "M01—M06 / P06"
+    },
+    {
+      "day": 8,
+      "date": "2026-11-21",
+      "lawRef": "M07",
+      "lawTopic": "民法：合同订立、成立与生效",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P07",
+      "politicsTopic": "全面依法治国",
+      "politicsSource": "第三篇·第七章",
+      "politicsTask": "区分理论总目标、原则与具体法律规则。",
+      "reviewDates": [
+        "2026-11-20",
+        "2026-11-18",
+        "2026-11-14"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "民法：合同订立、成立与生效；政治：全面依法治国",
+      "ref": "M07 / P07"
+    },
+    {
+      "day": 9,
+      "date": "2026-11-22",
+      "lawRef": "M07",
+      "lawTopic": "民法：合同履行、债权债务转移",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P08",
+      "politicsTopic": "全面从严治党",
+      "politicsSource": "第三篇·第八章",
+      "politicsTask": "梳理党的建设、纪律、作风、反腐相关概念。",
+      "reviewDates": [
+        "2026-11-21",
+        "2026-11-19",
+        "2026-11-15"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "民法：合同履行、债权债务转移；政治：全面从严治党",
+      "ref": "M07 / P08"
+    },
+    {
+      "day": 10,
+      "date": "2026-11-23",
+      "lawRef": "M08",
+      "lawTopic": "民法：违约、定金、保证与典型合同",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P09",
+      "politicsTopic": "推动高质量发展",
+      "politicsSource": "第三篇·第九章对应节",
+      "politicsTask": "区分发展理念、发展格局、发展阶段及高质量发展。",
+      "reviewDates": [
+        "2026-11-22",
+        "2026-11-20",
+        "2026-11-16"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "民法：违约、定金、保证与典型合同；政治：推动高质量发展",
+      "ref": "M08 / P09"
+    },
+    {
+      "day": 11,
+      "date": "2026-11-24",
+      "lawRef": "M09",
+      "lawTopic": "民法：侵权归责与救助",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P10",
+      "politicsTopic": "全过程人民民主与文化强国",
+      "politicsSource": "第三篇·第九章对应节",
+      "politicsTask": "各抓一张核心框架卡；合计做4—6道对应辨析。",
+      "reviewDates": [
+        "2026-11-23",
+        "2026-11-21",
+        "2026-11-17"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "民法：侵权归责与救助；政治：全过程人民民主与文化强国",
+      "ref": "M09 / P10"
+    },
+    {
+      "day": 12,
+      "date": "2026-11-25",
+      "lawRef": "M10",
+      "lawTopic": "民法：学校、公共场所与典型侵权",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P11",
+      "politicsTopic": "民生社会建设与生态文明",
+      "politicsSource": "第三篇·第九章对应节",
+      "politicsTask": "将目标、原则与案例配对，梳理相近词。",
+      "reviewDates": [
+        "2026-11-24",
+        "2026-11-22",
+        "2026-11-18"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "民法：学校、公共场所与典型侵权；政治：民生社会建设与生态文明",
+      "ref": "M10 / P11"
+    },
+    {
+      "day": 13,
+      "date": "2026-11-26",
+      "lawRef": "M11",
+      "lawTopic": "民法：人格、婚姻、继承及补充知识",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P12",
+      "politicsTopic": "教育科技人才与国家安全",
+      "politicsSource": "第三篇·第十、十一章",
+      "politicsTask": "各抓核心定位及关系，不把几个概念互相替换。",
+      "reviewDates": [
+        "2026-11-25",
+        "2026-11-23",
+        "2026-11-19"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "民法：人格、婚姻、继承及补充知识；政治：教育科技人才与国家安全",
+      "ref": "M11 / P12"
+    },
+    {
+      "day": 14,
+      "date": "2026-11-27",
+      "lawRef": "M01—M11",
+      "lawTopic": "民法综合小考及一周错题复测",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P13",
+      "politicsTopic": "国防军队、统一与人类命运共同体",
+      "politicsSource": "第三篇·第十二至十四章",
+      "politicsTask": "先建三个主题的主干，每个主题练1—2道题。",
+      "reviewDates": [
+        "2026-11-26",
+        "2026-11-24",
+        "2026-11-20"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "民法综合小考及一周错题复测；政治：国防军队、统一与人类命运共同体",
+      "ref": "M01—M11 / P13"
+    },
+    {
+      "day": 15,
+      "date": "2026-11-28",
+      "lawRef": "C01",
+      "lawTopic": "刑法：适用范围、年龄与责任能力",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P14",
+      "politicsTopic": "斗争精神、立场观点方法＋新思想复测",
+      "politicsSource": "第三篇·第十五、十六章",
+      "politicsTask": "区分六个必须坚持等提法；做6—8道阶段题。",
+      "reviewDates": [
+        "2026-11-27",
+        "2026-11-25",
+        "2026-11-21",
+        "2026-11-14"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "刑法：适用范围、年龄与责任能力；政治：斗争精神、立场观点方法＋新思想复测",
+      "ref": "C01 / P14"
+    },
+    {
+      "day": 16,
+      "date": "2026-11-29",
+      "lawRef": "C01",
+      "lawTopic": "刑法：主观、不作为与因果关系",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P15",
+      "politicsTopic": "马原导论与哲学基本问题",
+      "politicsSource": "第一篇·导论、哲学绪论",
+      "politicsTask": "辨理论构成、物质意识与思维存在的基本关系。",
+      "reviewDates": [
+        "2026-11-28",
+        "2026-11-26",
+        "2026-11-22",
+        "2026-11-15"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "刑法：主观、不作为与因果关系；政治：马原导论与哲学基本问题",
+      "ref": "C01 / P15"
+    },
+    {
+      "day": 17,
+      "date": "2026-11-30",
+      "lawRef": "C02",
+      "lawTopic": "刑法：正当防卫、紧急避险",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P16",
+      "politicsTopic": "辩证唯物论",
+      "politicsSource": "第一篇·第二章第二节",
+      "politicsTask": "用客观条件与主观能动性的案例说明原理。",
+      "reviewDates": [
+        "2026-11-29",
+        "2026-11-27",
+        "2026-11-23",
+        "2026-11-16"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "刑法：正当防卫、紧急避险；政治：辩证唯物论",
+      "ref": "C02 / P16"
+    },
+    {
+      "day": 18,
+      "date": "2026-12-01",
+      "lawRef": "C02",
+      "lawTopic": "刑法：犯罪形态、共同犯罪",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P17",
+      "politicsTopic": "唯物辩证法：联系与发展",
+      "politicsSource": "第一篇·第二章第三节",
+      "politicsTask": "从材料中找联系、发展观点，不凭关键词机械选。",
+      "reviewDates": [
+        "2026-11-30",
+        "2026-11-28",
+        "2026-11-24",
+        "2026-11-17"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "刑法：犯罪形态、共同犯罪；政治：唯物辩证法：联系与发展",
+      "ref": "C02 / P17"
+    },
+    {
+      "day": 19,
+      "date": "2026-12-02",
+      "lawRef": "C03—C04",
+      "lawTopic": "刑法：刑罚量刑与假释订正",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P18",
+      "politicsTopic": "唯物辩证法：矛盾",
+      "politicsSource": "第一篇·第二章第三节",
+      "politicsTask": "区分普遍特殊、主次矛盾及矛盾主次方面。",
+      "reviewDates": [
+        "2026-12-01",
+        "2026-11-29",
+        "2026-11-25",
+        "2026-11-18"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "刑法：刑罚量刑与假释订正；政治：唯物辩证法：矛盾",
+      "ref": "C03—C04 / P18"
+    },
+    {
+      "day": 20,
+      "date": "2026-12-03",
+      "lawRef": "C05",
+      "lawTopic": "刑法：财产犯罪区别",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P19",
+      "politicsTopic": "唯物辩证法：量变质变等规律",
+      "politicsSource": "第一篇·第二章第三节",
+      "politicsTask": "按条件、过程、结果匹配案例，辨绝对化选项。",
+      "reviewDates": [
+        "2026-12-02",
+        "2026-11-30",
+        "2026-11-26",
+        "2026-11-19"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "刑法：财产犯罪区别；政治：唯物辩证法：量变质变等规律",
+      "ref": "C05 / P19"
+    },
+    {
+      "day": 21,
+      "date": "2026-12-04",
+      "lawRef": "C01—C05",
+      "lawTopic": "刑法总则与财产罪小考",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P20",
+      "politicsTopic": "认识论",
+      "politicsSource": "第一篇·第二章第四节",
+      "politicsTask": "区分实践与认识、真理与检验标准。",
+      "reviewDates": [
+        "2026-12-03",
+        "2026-12-01",
+        "2026-11-27",
+        "2026-11-20"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "刑法总则与财产罪小考；政治：认识论",
+      "ref": "C01—C05 / P20"
+    },
+    {
+      "day": 22,
+      "date": "2026-12-05",
+      "lawRef": "C06",
+      "lawTopic": "刑法：公共安全、食品药品与金融边界",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P21",
+      "politicsTopic": "唯物史观",
+      "politicsSource": "第一篇·第二章第五节",
+      "politicsTask": "比较社会存在意识、社会基本矛盾、人民群众作用。",
+      "reviewDates": [
+        "2026-12-04",
+        "2026-12-02",
+        "2026-11-28",
+        "2026-11-21"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "刑法：公共安全、食品药品与金融边界；政治：唯物史观",
+      "ref": "C06 / P21"
+    },
+    {
+      "day": 23,
+      "date": "2026-12-06",
+      "lawRef": "C07",
+      "lawTopic": "刑法：职务犯罪、渎职及新解释",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P22",
+      "politicsTopic": "科学社会主义＋马原复测",
+      "politicsSource": "第一篇·第三章及前章复习",
+      "politicsTask": "以主讲义框架为范围；做8道新题，解释依据。",
+      "reviewDates": [
+        "2026-12-05",
+        "2026-12-03",
+        "2026-11-29",
+        "2026-11-22"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "刑法：职务犯罪、渎职及新解释；政治：科学社会主义＋马原复测",
+      "ref": "C07 / P22"
+    },
+    {
+      "day": 24,
+      "date": "2026-12-07",
+      "lawRef": "C06＋原讲义",
+      "lawTopic": "刑法：其他重要分则与混合案例",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P23",
+      "politicsTopic": "毛泽东思想：形成与新民主主义革命",
+      "politicsSource": "第二篇·导论、第二章",
+      "politicsTask": "建立形成发展及革命理论的时间线和关系图。",
+      "reviewDates": [
+        "2026-12-06",
+        "2026-12-04",
+        "2026-11-30",
+        "2026-11-23"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "刑法：其他重要分则与混合案例；政治：毛泽东思想：形成与新民主主义革命",
+      "ref": "C06＋原讲义 / P23"
+    },
+    {
+      "day": 25,
+      "date": "2026-12-08",
+      "lawRef": "A01—A02",
+      "lawTopic": "行政法：主体与行为分类",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P24",
+      "politicsTopic": "毛泽东思想：改造建设与活的灵魂",
+      "politicsSource": "第二篇·第二章",
+      "politicsTask": "区分革命、改造、建设；回忆活的灵魂。",
+      "reviewDates": [
+        "2026-12-07",
+        "2026-12-05",
+        "2026-12-01",
+        "2026-11-24"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "行政法：主体与行为分类；政治：毛泽东思想：改造建设与活的灵魂",
+      "ref": "A01—A02 / P24"
+    },
+    {
+      "day": 26,
+      "date": "2026-12-09",
+      "lawRef": "A02—A03",
+      "lawTopic": "行政法：许可与处罚、不罚从宽",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P25",
+      "politicsTopic": "邓小平理论",
+      "politicsSource": "第二篇·第三章",
+      "politicsTask": "按回答的问题、基本路线、发展战略等整理。",
+      "reviewDates": [
+        "2026-12-08",
+        "2026-12-06",
+        "2026-12-02",
+        "2026-11-25"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "行政法：许可与处罚、不罚从宽；政治：邓小平理论",
+      "ref": "A02—A03 / P25"
+    },
+    {
+      "day": 27,
+      "date": "2026-12-10",
+      "lawRef": "A04",
+      "lawTopic": "行政法：简易程序、听证与缴款",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P26",
+      "politicsTopic": "三个代表重要思想与科学发展观",
+      "politicsSource": "第二篇·第四、第五章",
+      "politicsTask": "各建一张定位、内容、意义卡，练对应关系。",
+      "reviewDates": [
+        "2026-12-09",
+        "2026-12-07",
+        "2026-12-03",
+        "2026-11-26"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "行政法：简易程序、听证与缴款；政治：三个代表重要思想与科学发展观",
+      "ref": "A04 / P26"
+    },
+    {
+      "day": 28,
+      "date": "2026-12-11",
+      "lawRef": "A05—A06",
+      "lawTopic": "行政法：强制与复议入门",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P27",
+      "politicsTopic": "政治理论第一轮综合测验",
+      "politicsSource": "前三篇＋对应带背",
+      "politicsTask": "8—10题限时，分别记录新思想、马原、毛中特错因。",
+      "reviewDates": [
+        "2026-12-10",
+        "2026-12-08",
+        "2026-12-04",
+        "2026-11-27"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "行政法：强制与复议入门；政治：政治理论第一轮综合测验",
+      "ref": "A05—A06 / P27"
+    },
+    {
+      "day": 29,
+      "date": "2026-12-12",
+      "lawRef": "A06",
+      "lawTopic": "行政法：复议诉讼与2026条例",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "T01",
+      "politicsTopic": "时政核对：重要会议与中央部署",
+      "politicsSource": "学习当天核实的官方发布",
+      "politicsTask": "记录事件日期、发布日期、正式名称和核心表述；不凭记忆出题。",
+      "reviewDates": [
+        "2026-12-11",
+        "2026-12-09",
+        "2026-12-05",
+        "2026-11-28"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "行政法：复议诉讼与2026条例；政治：时政核对：重要会议与中央部署",
+      "ref": "A06 / T01"
+    },
+    {
+      "day": 30,
+      "date": "2026-12-13",
+      "lawRef": "A01—A06",
+      "lawTopic": "行政法综合小考及民刑回顾",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "T02",
+      "politicsTopic": "时政核对：经济社会重要政策",
+      "politicsSource": "学习当天核实的官方发布",
+      "politicsTask": "区分政策目标、适用范围、公布与施行日期。",
+      "reviewDates": [
+        "2026-12-12",
+        "2026-12-10",
+        "2026-12-06",
+        "2026-11-29"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "行政法综合小考及民刑回顾；政治：时政核对：经济社会重要政策",
+      "ref": "A01—A06 / T02"
+    },
+    {
+      "day": 31,
+      "date": "2026-12-14",
+      "lawRef": "原讲义＋按日讲解",
+      "lawTopic": "宪法：基本制度、公民权利义务",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "T03",
+      "politicsTopic": "时政核对：科教文化生态民生",
+      "politicsSource": "学习当天核实的官方发布",
+      "politicsTask": "将新事实放回理论框架，剔除已过时材料。",
+      "reviewDates": [
+        "2026-12-13",
+        "2026-12-11",
+        "2026-12-07",
+        "2026-11-30"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "宪法：基本制度、公民权利义务；政治：时政核对：科教文化生态民生",
+      "ref": "原讲义＋按日讲解 / T03"
+    },
+    {
+      "day": 32,
+      "date": "2026-12-15",
+      "lawRef": "原讲义＋按日讲解",
+      "lawTopic": "宪法：国家机构与国家标志",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P28",
+      "politicsTopic": "理论与法律交叉辨析",
+      "politicsSource": "第三篇·依法治国＋法律笔记",
+      "politicsTask": "区分政治理论概括与具体法条条件，做6题交叉练习。",
+      "reviewDates": [
+        "2026-12-14",
+        "2026-12-12",
+        "2026-12-08",
+        "2026-12-01"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "宪法：国家机构与国家标志；政治：理论与法律交叉辨析",
+      "ref": "原讲义＋按日讲解 / P28"
+    },
+    {
+      "day": 33,
+      "date": "2026-12-16",
+      "lawRef": "原讲义/脑图＋按日讲解",
+      "lawTopic": "劳动、社保、劳动争议重点",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P29",
+      "politicsTopic": "理论发展与相关党史时间线",
+      "politicsSource": "第二篇及新思想形成发展章",
+      "politicsTask": "只补与理论形成发展相关的主线，核实年代事件。",
+      "reviewDates": [
+        "2026-12-15",
+        "2026-12-13",
+        "2026-12-09",
+        "2026-12-02"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "劳动、社保、劳动争议重点；政治：理论发展与相关党史时间线",
+      "ref": "原讲义/脑图＋按日讲解 / P29"
+    },
+    {
+      "day": 34,
+      "date": "2026-12-17",
+      "lawRef": "原讲义＋按日讲解",
+      "lawTopic": "监察、公务员、政务处分重点",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P30",
+      "politicsTopic": "关键词与相近提法对照",
+      "politicsSource": "本人错题卡＋官方核对",
+      "politicsTask": "对照总体布局、战略布局、理念、方法论等，找混淆来源。",
+      "reviewDates": [
+        "2026-12-16",
+        "2026-12-14",
+        "2026-12-10",
+        "2026-12-03"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "监察、公务员、政务处分重点；政治：关键词与相近提法对照",
+      "ref": "原讲义＋按日讲解 / P30"
+    },
+    {
+      "day": 35,
+      "date": "2026-12-18",
+      "lawRef": "全模块",
+      "lawTopic": "法律综合阶段测验与薄弱点清单",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "P31",
+      "politicsTopic": "政治理论阶段混测",
+      "politicsSource": "已学三模块＋已核实时政",
+      "politicsTask": "8—10题限时；按错因安排最后一周。",
+      "reviewDates": [
+        "2026-12-17",
+        "2026-12-15",
+        "2026-12-11",
+        "2026-12-04"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "法律综合阶段测验与薄弱点清单；政治：政治理论阶段混测",
+      "ref": "全模块 / P31"
+    },
+    {
+      "day": 36,
+      "date": "2026-12-19",
+      "lawRef": "新题，不重复背答案",
+      "lawTopic": "法律专项模拟一：24题限时练习",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "R01",
+      "politicsTopic": "错题回炉：基础与绝对化表述",
+      "politicsSource": "本人政治错题卡",
+      "politicsTask": "重做错题变式；说明错误选项错在哪里。",
+      "reviewDates": [
+        "2026-12-18",
+        "2026-12-16",
+        "2026-12-12",
+        "2026-12-05"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "法律专项模拟一：24题限时练习；政治：错题回炉：基础与绝对化表述",
+      "ref": "新题，不重复背答案 / R01"
+    },
+    {
+      "day": 37,
+      "date": "2026-12-20",
+      "lawRef": "按错因补课",
+      "lawTopic": "模拟一复盘与民刑错题复测",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "R02",
+      "politicsTopic": "新思想薄弱点复习",
+      "politicsSource": "本人新思想错题卡",
+      "politicsTask": "选最弱两个主题，少讲新内容，多做无提示回忆。",
+      "reviewDates": [
+        "2026-12-19",
+        "2026-12-17",
+        "2026-12-13",
+        "2026-12-06"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "模拟一复盘与民刑错题复测；政治：新思想薄弱点复习",
+      "ref": "按错因补课 / R02"
+    },
+    {
+      "day": 38,
+      "date": "2026-12-21",
+      "lawRef": "新题",
+      "lawTopic": "法律专项模拟二：24题限时练习",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "R03",
+      "politicsTopic": "马原薄弱点复习",
+      "politicsSource": "本人马原错题卡",
+      "politicsTask": "选最弱两个原理，练材料和原理的双向匹配。",
+      "reviewDates": [
+        "2026-12-20",
+        "2026-12-18",
+        "2026-12-14",
+        "2026-12-07"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "法律专项模拟二：24题限时练习；政治：马原薄弱点复习",
+      "ref": "新题 / R03"
+    },
+    {
+      "day": 39,
+      "date": "2026-12-22",
+      "lawRef": "按错因补课",
+      "lawTopic": "模拟二复盘与行政、小法错题",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "R04",
+      "politicsTopic": "毛中特与时政薄弱点复习",
+      "politicsSource": "本人错题卡＋已核实时政",
+      "politicsTask": "优先主线、对应关系和重要新表述。",
+      "reviewDates": [
+        "2026-12-21",
+        "2026-12-19",
+        "2026-12-15",
+        "2026-12-08"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "模拟二复盘与行政、小法错题；政治：毛中特与时政薄弱点复习",
+      "ref": "按错因补课 / R04"
+    },
+    {
+      "day": 40,
+      "date": "2026-12-23",
+      "lawRef": "错题卡＋对照表",
+      "lawTopic": "条件、数字、机关与时间点总复盘",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "R05",
+      "politicsTopic": "时间线、数字和提法总复盘",
+      "politicsSource": "政治关键词卡",
+      "politicsTask": "每项说明属于哪一理论体系，不混背孤立数字。",
+      "reviewDates": [
+        "2026-12-22",
+        "2026-12-20",
+        "2026-12-16",
+        "2026-12-09"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "条件、数字、机关与时间点总复盘；政治：时间线、数字和提法总复盘",
+      "ref": "错题卡＋对照表 / R05"
+    },
+    {
+      "day": 41,
+      "date": "2026-12-24",
+      "lawRef": "考前发现缺口",
+      "lawTopic": "最后一次法律专项混合测验",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "R06",
+      "politicsTopic": "考前政治专项混测",
+      "politicsSource": "新的综合题",
+      "politicsTask": "8—10题限时，不把熟悉原题的正确率当掌握率。",
+      "reviewDates": [
+        "2026-12-23",
+        "2026-12-21",
+        "2026-12-17",
+        "2026-12-10"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "最后一次法律专项混合测验；政治：考前政治专项混测",
+      "ref": "考前发现缺口 / R06"
+    },
+    {
+      "day": 42,
+      "date": "2026-12-25",
+      "lawRef": "不临时扩展偏难理论",
+      "lawTopic": "轻复盘：高频错题与作息准备",
+      "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+      "politicsId": "R07",
+      "politicsTopic": "考前轻复习",
+      "politicsSource": "最终12张关键词卡",
+      "politicsTask": "口头复述核心关系，回看高频错项，不追偏题。",
+      "reviewDates": [
+        "2026-12-24",
+        "2026-12-22",
+        "2026-12-18",
+        "2026-12-11"
+      ],
+      "status": "not_started",
+      "politicsStatus": "not_started",
+      "minutes": {
+        "law": 90,
+        "politics": 30
+      },
+      "topic": "轻复盘：高频错题与作息准备；政治：考前轻复习",
+      "ref": "不临时扩展偏难理论 / R07"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "2026-11-14-M01-diagnostic-1",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "baseline_diagnostic",
+      "conclusionsCorrect": 1,
+      "total": 3,
+      "mastered": false,
+      "followup": "17岁在校学生暑假兼职3000元，主要学费生活费仍由父母负担，判断行为能力并说明理由。"
+    },
+    {
+      "id": "2026-11-14-M01-followup-1",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup",
+      "question": "17岁在校，暑假兼职3000元，学费和主要生活费仍由父母承担",
+      "userAnswer": "完全民事行为能力人，因为已满16岁并且自己获取报酬",
+      "correct": false,
+      "expected": "限制民事行为能力人；有劳动报酬不等于以劳动收入为主要生活来源",
+      "weakPoint": "M01-labor-exception"
+    },
+    {
+      "id": "2026-11-14-M01-followup-2",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup",
+      "question": "17岁，每月生活费2000元，兼职收入300元，父母提供1700元，能否仅因兼职而视为完全行为能力人",
+      "userAnswer": "不能，那个不算是他的主要生活来源",
+      "correct": true,
+      "reasonComplete": true,
+      "weakPoint": "M01-labor-exception",
+      "masteryEvidence": "一次简化情境正确，待年龄条件及综合情境迁移"
+    },
+    {
+      "id": "2026-11-14-M01-followup-3",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup",
+      "question": "15岁，正常辨认行为，生活费全部来自劳动收入，能否视为完全民事行为能力人",
+      "userAnswer": "不是，没满16周岁",
+      "correct": true,
+      "reasonComplete": true,
+      "weakPoint": "M01-labor-exception"
+    },
+    {
+      "id": "2026-11-14-M01-followup-4",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup",
+      "question": "15岁自行购买明显超出能力范围的6000元电脑，父母事后明确同意，交易能否因此有效",
+      "userAnswer": "有效，法定代理人同意",
+      "correct": true,
+      "reasonComplete": true,
+      "terminologyNote": "事后同意规范称为追认",
+      "weakPoint": "M01-effect-pending"
+    },
+    {
+      "id": "2026-11-14-M01-followup-5",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup_and_question",
+      "question": "15岁独立花10元购买普通笔记本是否需父母追认",
+      "userAnswer": "不需要，没有超出小李能力范围，但是这个能力范围该怎么确认",
+      "correct": true,
+      "reasonComplete": true,
+      "userQuestion": "与年龄智力相适应的范围如何认定",
+      "teachingPoint": "结合行为与本人生活的关联程度、能否理解行为并预见相应后果，以及交易标的、数量、价款或报酬综合判断。没有适用于所有未成年人的统一金额线，不能只看家庭有钱或实际付得起。",
+      "source": "最高人民法院民法典总则编解释第5条"
+    },
+    {
+      "id": "2026-11-14-M01-followup-6",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup",
+      "question": "15岁学生有很多压岁钱，能否仅凭付得起认定高额交易与年龄智力相适应",
+      "userAnswer": "不能，付款额度跟能力范围无关",
+      "conclusionCorrect": true,
+      "reasonAssessment": "无关表述过于绝对，需区分支付能力与交易价款；交易价款数量属于综合判断因素",
+      "weakPoint": "M01-scope-test"
+    },
+    {
+      "id": "2026-11-14-M01-followup-7",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "explanation_attempt",
+      "question": "为什么家里有钱不能直接证明交易与年龄智力相适应",
+      "userAnswer": "因为钱不是他挣的，收入不是劳动所得，所以不是完全能力责任人，需要父母追认",
+      "assessment": "将16周岁以上劳动收入例外、限制能力人的具体交易适应性及追认规则混同；规范术语仍需巩固",
+      "teachingAction": "拆分身份判断与交易判断，用父母给钱购买10元普通笔记本作对照"
+    },
+    {
+      "id": "2026-11-14-M01-followup-8",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup",
+      "question": "15岁用父母给的零花钱买10元普通笔记本，是否因为非劳动收入而必须追认",
+      "userAnswer": "不需要，这个属于小额",
+      "conclusionCorrect": true,
+      "reasonComplete": false,
+      "reasonNote": "小额是因素之一，还应结合日常用途与理解后果；未再把钱的来源作为决定条件"
+    },
+    {
+      "id": "2026-11-14-M01-mixed-retest-1",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "mixed_retest",
+      "conclusionsCorrect": 3,
+      "total": 3,
+      "answers": [
+        {
+          "question": 1,
+          "userAnswer": "对",
+          "conclusionCorrect": true,
+          "reasonProvided": false
+        },
+        {
+          "question": 2,
+          "userAnswer": "错误，不能理解交易和后果，需要父母追认",
+          "conclusionCorrect": true,
+          "reasonAssessment": "不能从高价直接推定不能理解；先审全部适应性条件，超出范围且无同意时再审追认"
+        },
+        {
+          "question": 3,
+          "userAnswer": "错误，兼职收入不是主要来源且未满18岁",
+          "conclusionCorrect": true,
+          "reasonAssessment": "能识别未满足16岁以上劳动收入例外"
+        }
+      ],
+      "mastered": false,
+      "notes": "三题结论均正确；继续练不擅补题设事实与无行为能力人规则。原始诊断分数保持不变。"
+    },
+    {
+      "id": "2026-11-14-M01-followup-9",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup",
+      "question": "7岁未经家长委托独自购买2000元平板，父母事后同意，能否套追认后有效",
+      "userAnswer": "不能，无民事行为能力人",
+      "correct": true,
+      "reasonComplete": true
+    },
+    {
+      "id": "2026-11-14-M01-followup-10",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup",
+      "question": "已满8岁且能正常辨认行为，花10元买普通笔记本，父母不知，交易是否有效",
+      "userAnswer": "有效，小额且在能力范围之内",
+      "correct": true,
+      "reasonComplete": true,
+      "note": "能结合小额与适龄范围，不再仅凭资金来源判断"
+    },
+    {
+      "id": "2026-11-14-M01-rights-1",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup",
+      "question": "爷爷赠与刚出生宝宝1万元，父母代为接受，财产归谁",
+      "userAnswer": "宝宝，宝宝有民事权利能力",
+      "correct": true,
+      "reasonComplete": true
+    },
+    {
+      "id": "2026-11-14-M01-rights-2",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup",
+      "question": "丈夫死亡妻子怀孕，能否因未出生排除胎儿继承利益",
+      "userAnswer": "不能，胎儿也享有民事权利能力",
+      "conclusionCorrect": true,
+      "reasonAssessment": "需补特定利益保护范围内视为有权利能力，非无条件一般享有"
+    },
+    {
+      "id": "2026-11-14-M01-mixed-retest-2",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "mixed_retest",
+      "conclusionsCorrect": 4,
+      "total": 4,
+      "answers": [
+        {
+          "question": 1,
+          "userAnswer": "不是，能有，主要收入是工资",
+          "conclusionCorrect": true,
+          "reasonAssessment": "依据题中主要靠工资生活可认可，规范表述为以劳动收入为主要生活来源"
+        },
+        {
+          "question": 2,
+          "userAnswer": "不能，未满8岁",
+          "conclusionCorrect": true,
+          "reasonComplete": true
+        },
+        {
+          "question": 3,
+          "userAnswer": "不需要，享有民事权利能力",
+          "conclusionCorrect": true,
+          "reasonComplete": false,
+          "reasonAssessment": "应由限制行为能力人的纯获利益例外说明可独立实施；权利能力不是充分理由"
+        },
+        {
+          "question": 4,
+          "userAnswer": "不能，死胎不享有",
+          "conclusionCorrect": true,
+          "reasonAssessment": "应补特定保护中视为有的权利能力自始不存在"
+        }
+      ],
+      "mastered": false,
+      "nextFocus": "纯获利益与权利能力区别；接受赠与和赠出财产的方向"
+    },
+    {
+      "id": "2026-11-14-M01-pure-benefit-1",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup",
+      "question": "15岁丙把1000元无偿赠给同学，对丙是否纯获利益",
+      "userAnswer": "不属于吧，因为丙未满16且无法理解后果及与智力不匹配",
+      "conclusionCorrect": true,
+      "reasonComplete": false,
+      "reasonAssessment": "纯获利益按行为中利益与法律负担判断，不按年龄；丙为赠出财产的一方。不能擅自认定无法理解。"
+    },
+    {
+      "id": "2026-11-14-M01-pure-benefit-2",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup",
+      "question": "30岁甲无偿赠出1000元，对甲是否纯获利益",
+      "userAnswer": "不属于，有财产支出",
+      "correct": true,
+      "reasonComplete": true
+    },
+    {
+      "id": "2026-11-14-M01-two-paths-1",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup",
+      "question": "15岁花10元购买普通笔记本，不属于纯获利益但可否独立实施，依据哪条",
+      "userAnswer": "与其年龄、智力相适应的行为",
+      "conclusionImpliedCorrect": true,
+      "reasonComplete": true
+    },
+    {
+      "id": "2026-11-14-M01-adult-discernment-1",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup",
+      "question": "40岁，不能完全辨认自己的行为，属于何类行为能力人",
+      "userAnswer": "甲是限制民事行为能力",
+      "correct": true,
+      "reasonComplete": true
+    },
+    {
+      "id": "2026-11-14-M01-adult-discernment-2",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup",
+      "question": "40岁，不能辨认自己的行为，独自签订买卖合同，能否追认有效",
+      "userAnswer": "需要追认，因为是限制民事行为能力人，无民事行为能力人的话就无效且不需要追认",
+      "correct": false,
+      "assessment": "规则基本能区分，但将不能辨认误判为限制；补讲不能通过追认补正与无需追认的区别"
+    },
+    {
+      "id": "2026-11-14-M01-adult-discernment-3",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "followup",
+      "question": "35岁，不能完全辨认，实施明确超出适应范围且未经监护人同意或追认的交易",
+      "userAnswer": "交易无效",
+      "correct": false,
+      "expected": "效力待定"
+    },
+    {
+      "id": "2026-11-14-M01-adult-discernment-4",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "prompted_followup",
+      "question": "上述限制行为能力人的交易经监护人追认能否有效",
+      "userAnswer": "有效",
+      "correct": true,
+      "masteryEvidence": "提示后正确，待无提示复测"
+    },
+    {
+      "id": "2026-11-14-M01-adult-discernment-5",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "prompted_followup",
+      "question": "若不能辨认自己的行为，独自签约能否经监护人追认有效",
+      "userAnswer": "合同无效，是否追认并不有关",
+      "correct": true,
+      "reasonComplete": true,
+      "terminologyNote": "规范为无效，不能通过追认补正"
+    },
+    {
+      "id": "2026-11-14-M01-labor-transfer-1",
+      "date": "2026-11-14",
+      "lesson": "M01",
+      "type": "mixed_transfer",
+      "question": "17岁，正常辨认，以自己劳动收入为主要生活来源，独自买6000元手机，行为能力及是否需父母追认",
+      "userAnswer": "完全民事行为能力人，不需要",
+      "correct": true,
+      "reasonComplete": true,
+      "terminologyNote": "规范为视为完全民事行为能力人",
+      "masteryEvidence": "劳动收入例外综合迁移正确，仍待隔日复测"
+    },
+    {
+      "id": "2026-11-14-M02-fraud-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "商家故意把翻新机冒充全新机出售，合同效力",
+      "userAnswer": "合同是无效，商家属于欺诈",
+      "conclusionCorrect": false,
+      "assessment": "识别欺诈正确，效力应为可撤销",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-fraud-choice-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "受欺诈方发现真相后仍愿意保留，是否必须撤销",
+      "userAnswer": "不必须，甲愿意保留",
+      "conclusionCorrect": true,
+      "assessment": "理解撤销权人的选择权",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-duress-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "受胁迫签约能否请求法院或仲裁机构撤销",
+      "userAnswer": "可以",
+      "conclusionCorrect": true,
+      "assessment": "提示后判断正确，待独立识别",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-mistake-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "双方均误将复制画当真迹且无欺骗，属于何情形",
+      "userAnswer": "重大误解，但是这种场景卖方不需要承担责任吗",
+      "conclusionCorrect": true,
+      "assessment": "分类正确；已补讲撤销后返还与过错损害赔偿、合同未撤销时可能涉及违约责任",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-unfairness-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "正常判断、知行情、自愿低价卖朋友，未利用危困等，能否仅凭低价撤销",
+      "userAnswer": "不可以，自愿的不处于危困状态，但是这个危困状态该怎么判度",
+      "conclusionCorrect": true,
+      "assessment": "结论正确；已补讲自愿签字不能单独排除显失公平，危困与缺乏判断能力等不是必须同时具备",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-unfairness-2",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "买方知道卖方急需手术费但仍按正常市场价买车，能否仅因危困认定显失公平",
+      "userAnswer": "不能，正常市场价并没有造成交易结果明显失衡",
+      "conclusionCorrect": true,
+      "assessment": "完整识别客观利益失衡要件",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-mistake-deadline-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "发现重大误解后半年未行使撤销权，是否仍有权撤销",
+      "userAnswer": "不在了，重大误解的行使权限是90日",
+      "conclusionCorrect": true,
+      "reasonComplete": true,
+      "assessment": "正确识别90日期限",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-duress-deadline-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "2025年1月受胁迫签约，胁迫2026年9月1日终止，11月1日请求撤销是否过期",
+      "userAnswer": "没有丧失，因为胁迫实在同年的9月1日终止",
+      "conclusionCorrect": true,
+      "reasonComplete": true,
+      "assessment": "正确识别胁迫终止作为一年起算点",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-waiver-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "知道欺诈后书面明确放弃撤销权，一个月后能否反悔",
+      "userAnswer": "不行，已经书面明确表示放弃了，但是如果是在被胁迫的情景下签署的该怎么证明",
+      "conclusionCorrect": true,
+      "reasonComplete": true,
+      "assessment": "结论及理由正确；主动提出被胁迫签署放弃声明的效力和举证问题，已补讲",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-collusion-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "甲乙恶意串通低价处分丙的汽车且给好处费，合同效力",
+      "userAnswer": "无效，双方合谋",
+      "conclusionCorrect": true,
+      "assessment": "结论正确；补充必须损害他人合法权益，不能只凭合谋",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-public-order-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "双方自愿签订付费替考协议是否有效",
+      "userAnswer": "无效，这个属于违法行为",
+      "conclusionCorrect": true,
+      "assessment": "结论正确；理由应具体到违背公序良俗，并已补讲违法不当然导致无效",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-sham-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "双方无真实买卖意思而签署假买卖合同",
+      "userAnswer": "无效，不能把违法直接等同于合同无效这个该怎么理解",
+      "conclusionCorrect": true,
+      "assessment": "结论正确；主动追问违法与无效的关系，已用租赁未备案和合同编通则解释第16条讲解",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-hidden-transaction-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "表面假买卖无效是否导致隐藏真实赠与当然无效",
+      "userAnswer": "不能，赠与需要按照相关规定处理",
+      "conclusionCorrect": true,
+      "assessment": "结论及理由正确；隐藏行为另按有关规定认定效力",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-partial-invalidity-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "约定租赁30年且其余条件有效，是否整个合同无效",
+      "userAnswer": "只有超过20年的部分无效",
+      "conclusionCorrect": true,
+      "assessment": "正确，前20年有效、超过的10年无效",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-mixed-retest-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "mixed_retest",
+      "conclusionsCorrect": 4,
+      "total": 4,
+      "mastered": false,
+      "answers": [
+        {
+          "question": 1,
+          "userAnswer": "有效，劳动为主要收入视为民事能力人",
+          "conclusionCorrect": true,
+          "reasonAssessment": "结合题设认可；规范术语为视为完全民事行为能力人"
+        },
+        {
+          "question": 2,
+          "userAnswer": "效力待定，需要等待追认",
+          "conclusionCorrect": true,
+          "reasonComplete": true
+        },
+        {
+          "question": 3,
+          "userAnswer": "可撤销，需要乙在一年内行使撤销权",
+          "conclusionCorrect": true,
+          "reasonComplete": false,
+          "reasonAssessment": "行使撤销权主体写反，受欺诈人是甲；一年从知道或者应当知道撤销事由起算，另有最长五年限制"
+        },
+        {
+          "question": 4,
+          "userAnswer": "无效，双方串通损害丙的权益属于无效合同",
+          "conclusionCorrect": true,
+          "reasonComplete": true
+        }
+      ],
+      "notes": "四类效力均判断正确；保留撤销权主体及规范术语的订正，不据此认定全部熟练掌握。"
+    },
+    {
+      "id": "2026-11-14-M02-holder-retest-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "欺诈方乙能否仅凭自己实施欺诈请求撤销",
+      "userAnswer": "不能，撤销权在甲那",
+      "conclusionCorrect": true,
+      "assessment": "已正确识别受欺诈方为撤销权人，待隔日复测",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-third-party-duress-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "第三人胁迫乙与不知情的丙签约，乙能否撤销",
+      "userAnswer": "可以",
+      "conclusionCorrect": true,
+      "assessment": "结论正确",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-third-party-fraud-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "第三人欺诈乙与既不知道也不应当知道的丙签约，能否仅以该欺诈撤销",
+      "userAnswer": "不能，欺诈需要丙知道",
+      "conclusionCorrect": true,
+      "assessment": "结论正确；理由需补知道或者应当知道，并非只能实际知道",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-ratification-silence-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "法定代理人收到催告后满30日仍不表态的效果",
+      "userAnswer": "不表态就是反对",
+      "conclusionCorrect": true,
+      "assessment": "结论认可；规范为收到催告后30日内未表示视为拒绝追认，不能泛化所有沉默",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-good-faith-notice-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "guided_followup",
+      "question": "善意相对人在追认前撤销是否须先请求法院或仲裁机构",
+      "userAnswer": "不需要，属于善意相对人取消",
+      "conclusionCorrect": true,
+      "assessment": "结论正确；规范术语为撤销，以通知方式作出，限追认前",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M02-final-retest-1",
+      "date": "2026-11-14",
+      "lesson": "M02",
+      "type": "mixed_retest",
+      "total": 3,
+      "substantiveRulesCorrect": 3,
+      "mastered": false,
+      "answers": [
+        {
+          "question": 1,
+          "userAnswer": "可以，欺诈需要知道或应当知道就可以撤销",
+          "conclusionCorrect": true,
+          "reasonComplete": true,
+          "note": "合同对方应知第三人欺诈的条件应用正确"
+        },
+        {
+          "question": 2,
+          "userAnswer": "不能，需要30日后不表态默认为拒绝",
+          "conclusionCorrect": true,
+          "reasonComplete": true,
+          "terminologyNote": "规范为收到催告后30日内未作表示，视为拒绝追认"
+        },
+        {
+          "question": 3,
+          "userAnswer": "可以通知，但没有撤销权",
+          "substantiveCorrect": true,
+          "expressionNeedsCorrection": true,
+          "assessment": "正确指出追认后没有该项撤销权；问题所问能否通知撤销应答不能。发出通知本身不产生撤销效力。"
+        }
+      ],
+      "notes": "三项实质规则已理解，第3题需区分事实上发通知与依法通知撤销。不将此答误记为享有撤销权，也不据此认定熟练掌握。"
+    },
+    {
+      "id": "2026-11-14-M03-delegated-care-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "父母有监护能力，因工作忙暂由祖父母照料，监护人是否自动改变",
+      "userAnswer": "不能，父母健在",
+      "conclusionCorrect": true,
+      "assessment": "结论正确但理由不充分；关键是父母有监护能力，健在不必然等于有监护能力。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-minor-order-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "父母均无监护能力，按法定顺序外祖父母与成年姐姐谁优先",
+      "userAnswer": "外祖父母",
+      "conclusionCorrect": true,
+      "assessment": "正确，外祖父母与祖父母同属第一顺位，兄姐第二顺位。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-adult-order-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "40岁不能辨认行为，无其他监护安排，妻子和父亲均有监护能力，法定顺序谁优先",
+      "userAnswer": "妻子",
+      "conclusionCorrect": true,
+      "assessment": "正确，配偶优于父母子女顺位。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-property-personal-use-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "父亲能否以监护人身份使用12岁孩子继承的10万元为自己购买奢侈品",
+      "userAnswer": "不能，孩子享有民事权利，10万元是完全收益",
+      "conclusionCorrect": true,
+      "assessment": "结论正确；理由混入权利能力和纯获利益，已改用维护被监护人利益的财产处分规则。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-property-repair-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "父亲能否用孩子的存款支付其房屋必要合理维修费用",
+      "userAnswer": "可以，但是我有疑问，如果小李反对会有冲突吗",
+      "conclusionCorrect": true,
+      "assessment": "判断正确；主动问意愿冲突，已讲按年龄智力尊重真实意愿与最有利原则，反对不等于所有事项绝对否决。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-voluntary-guardianship-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "70岁完全行为能力人与好友订立书面意定监护协议，是否立即开始监护且日常交易需同意",
+      "userAnswer": "不需要，老王具有完全民事能力",
+      "conclusionCorrect": true,
+      "assessment": "实质正确；规范称完全民事行为能力人，意定监护在丧失或部分丧失民事行为能力时履行。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-removal-support-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "父亲被法院撤销监护人资格后能否拒付抚养费",
+      "userAnswer": "不对，没有监护人资格不等于没有抚养义务",
+      "conclusionCorrect": true,
+      "assessment": "结论与理由正确。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-restoration-crime-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "父亲对孩子故意伤害构成犯罪后撤销监护，悔改后能否依38条恢复",
+      "userAnswer": "故意犯罪不能恢复，有哪些罪属于故意的，虐待、伤害、遗弃吗",
+      "conclusionCorrect": true,
+      "assessment": "本题不恢复结论正确；补全为对被监护人实施故意犯罪，不是任何故意犯罪；已辨析故意伤害、虐待、遗弃及过失伤害，未将刑法模块记为已完成。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-designation-procedure-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "有监护争议是否必须先由居委会指定再到法院",
+      "userAnswer": "对的，需要先等居委会指定后不服的上诉让法院指定",
+      "conclusionCorrect": false,
+      "assessment": "错误；可以直接向法院申请指定，居委会等指定不是必经前置；不称上诉。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-designation-procedure-2",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "未经过居委会能否直接向法院申请指定监护人",
+      "userAnswer": "可以",
+      "conclusionCorrect": true,
+      "assessment": "纠正后正面变式正确，待无提示混测及隔日复习。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-will-guardianship-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "正在监护的父母通过遗嘱为10岁孩子指定二人死亡后的监护人，属何类型",
+      "userAnswer": "遗嘱指定监护",
+      "conclusionCorrect": true,
+      "assessment": "正确区分父母为被监护子女安排与本人为自己意定监护。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-guardianship-mixed-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "mixed_retest",
+      "conclusionsCorrect": 4,
+      "total": 4,
+      "mastered": false,
+      "answers": [
+        {
+          "question": 1,
+          "userAnswer": "外祖母，顺序是祖父母、外祖父母其次是父母兄弟姐妹再其次居委会指定",
+          "conclusionCorrect": true,
+          "reasonComplete": false,
+          "assessment": "顺序错误：父母死亡或无监护能力后祖父母外祖父母→兄姐→其他愿意个人组织须居村委或民政同意；不再列父母，非笼统兄弟姐妹，第三顺位不是居委会指定。"
+        },
+        {
+          "question": 2,
+          "userAnswer": "不可以，没有有利于孩子",
+          "conclusionCorrect": true,
+          "reasonComplete": true
+        },
+        {
+          "question": 3,
+          "userAnswer": "可以",
+          "conclusionCorrect": true,
+          "reasonProvided": false,
+          "assessment": "直接向法院申请指定正确，但未给理由。"
+        },
+        {
+          "question": 4,
+          "userAnswer": "不是必须",
+          "conclusionCorrect": true,
+          "reasonProvided": false,
+          "assessment": "结论正确，恢复资格为法院尊重真实意愿等条件下视情况可以。"
+        }
+      ],
+      "notes": "不能以四题结论正确替代全部理由正确；法定顺序需隔日复习。"
+    },
+    {
+      "id": "2026-11-14-M03-minor-order-2",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "targeted_retest",
+      "question": "父母死亡且祖父母外祖父母均无监护能力，成年姐姐与愿意邻居都有能力，法定顺序谁优先",
+      "userAnswer": "姐姐",
+      "conclusionCorrect": true,
+      "mastered": false,
+      "assessment": "纠正顺序后迁移正确，仍待隔日不提示复测。"
+    },
+    {
+      "id": "2026-11-14-M03-authorized-agency-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "小李在小王授权范围内以小王名义买4500元电脑，对商店付款义务由谁承担",
+      "userAnswer": "小王",
+      "conclusionCorrect": true,
+      "assessment": "有权代理合同效果归被代理人，结论正确；未要求补充理由。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-excess-authority-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "仅授权5000元以内却签7000元，商家明知越权且小王未追认，能否直接要求小王付款",
+      "userAnswer": "不能，只授权了5000以内的购买且小王没有追认",
+      "conclusionCorrect": true,
+      "assessment": "结论与理由正确，已区分无权代理的追认主体。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-apparent-authority-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "原授权撤销但真实授权书未收回未通知商家，商家有合理权利外观且善意无过失，能否仅凭撤销授权拒付款",
+      "userAnswer": "不能",
+      "conclusionCorrect": true,
+      "assessment": "表见代理效果判断正确；未提供理由，后续补讲无须追认。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-apparent-authority-2",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "授权书明显过期且无其他权利外观，商家疏忽未核实，可否仅以实际不知道认定表见代理",
+      "userAnswer": "不能，没有尽到审核的义务",
+      "conclusionCorrect": true,
+      "assessment": "结论及核心理由正确；规范为合理审查义务，善意且无过失，不能只看实际不知道。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-dual-agency-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "小李同时代理卖方小王与买方老陈，仅小王同意、老陈未同意未追认，能否适用双方代理例外",
+      "userAnswer": "不能，老陈没有同意也没有追认",
+      "conclusionCorrect": true,
+      "assessment": "结论与理由正确，需要被代理双方同意或者追认。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-emergency-subagency-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "突发急病无法代理，无法及时联系被代理人且立即处置为保护其财产确有必要，能否一概否定未经同意追认的转委托",
+      "userAnswer": "不能，这属于紧急情况",
+      "conclusionCorrect": true,
+      "assessment": "结论正确；补全为紧急情况下维护被代理人利益且确有必要转委托，不是凡紧急均可。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-legal-person-identity-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "甲有限责任公司依法成立，张某为其法定代表人，谁是法人",
+      "userAnswer": "甲公司",
+      "conclusionCorrect": true,
+      "assessment": "结论正确，区分组织法人和自然人法定代表人。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-nonprofit-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "为公益成立、合法收费、结余用于公益且不向出资人等分配，能否仅凭收费结余认定营利法人",
+      "userAnswer": "不能，结余用于公益",
+      "conclusionCorrect": true,
+      "assessment": "结论正确；补全为公益或其他非营利目的且不向出资人、设立人、会员分配利润，不能单看结余用途。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-special-legal-person-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "居委会属机关法人还是基层群众性自治组织法人，属何法人分类",
+      "userAnswer": "基层群众性自治组织法人，特别",
+      "conclusionCorrect": true,
+      "assessment": "两部分回答均正确。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-branch-liability-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "乙分公司采购欠款且其财产不足，甲公司能否仅因合同由分公司签而拒绝不足部分",
+      "userAnswer": "不可以，民事责任由成立乙公司的甲公司承担",
+      "conclusionCorrect": true,
+      "assessment": "结论与实质理由正确；名称应为设立乙分公司的甲公司，保留分字，不泛化至子公司。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-subsidiary-liability-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "乙为独立法人子公司，无担保等其他责任情形，能否仅因母公司甲是股东就要求甲清偿",
+      "userAnswer": "子公司拥有独立的民事责任，所以不能让甲偿还，子公司和分公司怎么区分",
+      "conclusionCorrect": true,
+      "assessment": "结论正确；主动问实务区别，已讲独立法人及母子投资关系、总分组织隶属关系、登记信息识别。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-branch-registration-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "分公司有营业执照、账户及独立核算，能否因此认定法人资格",
+      "userAnswer": "不能，需要看与成立公司的关系是什么关系",
+      "conclusionCorrect": true,
+      "assessment": "结论正确；补强为题设明确分公司时依法不具法人资格，营业执照和核算方式不改变。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-corporate-termination-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "吊销营业执照但尚未完成清算注销，能否认定法人已终止",
+      "userAnswer": "不能，还未完成清算和注销登记",
+      "conclusionCorrect": true,
+      "assessment": "结论与理由正确；已讲清算期间法人存续但不得从事与清算无关活动。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-sole-proprietorship-debt-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "个人独资企业欠30万元，企业财产仅10万元，剩余能否不还、由谁承担",
+      "userAnswer": "不能，需要小张承担，因为是属于个人独资企业",
+      "conclusionCorrect": true,
+      "assessment": "结论与理由正确，已讲投资人其他个人财产清偿及无限责任。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-single-shareholder-company-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "小张一人出资依法登记有限责任公司，能否仅因一个股东视为无资格的个人独资企业",
+      "userAnswer": "不能，成立的是有限责任公司",
+      "conclusionCorrect": true,
+      "assessment": "结论与理由正确，按依法设立登记组织形式区分，非按出资人数。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-missing-inheritance-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "followup",
+      "question": "被法院宣告失踪，既无实际死亡确认也未宣告死亡，亲属能否仅凭失踪宣告继承财产",
+      "userAnswer": "如果本人未被宣布死亡，不能分割继承其遗产",
+      "conclusionCorrect": true,
+      "reasonComplete": false,
+      "assessment": "本题结论正确；需补既未确认实际死亡也未宣告死亡。不能泛化成任何继承都必须先法院宣告死亡；实际死亡同样引起继承开始。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-death-time-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "followup_and_question",
+      "question": "一般情形下下落不明3年能否满足宣告死亡时间条件",
+      "userAnswer": "不能",
+      "conclusionCorrect": true,
+      "reasonProvided": false,
+      "userQuestion": "如果有关机关证明不可能生存却后来存活回来，财产是否返还；不能返还是否会有民事纠纷",
+      "teachingPoint": "本人或利害关系人申请撤销死亡宣告；依继承规则取得财产的人返还，无法返还适当补偿；隐瞒真实情况致宣告死亡取得财产还须赔偿损失。不能返还与拒绝返还、存在争议须区分。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-deemed-death-date-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "2023年6月1日因山洪下落不明，2026年10月1日判决宣告死亡，视为死亡日期是哪日",
+      "userAnswer": "6月1日",
+      "conclusionCorrect": true,
+      "assessment": "结论正确，对应2023年6月1日意外事件发生日；未另给理由。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-marriage-remarried-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "死亡宣告撤销时原配偶已依法再婚，原婚姻是否自行恢复",
+      "userAnswer": "不会，妻子已经再婚",
+      "conclusionCorrect": true,
+      "assessment": "结论与理由正确，配偶再婚属于不自行恢复例外。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-adoption-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "宣告死亡期间孩子被依法收养，撤销宣告后能否仅以未经本人同意主张收养无效",
+      "userAnswer": "不能，已经宣告死亡，子女被依法收养，不能宣告收养无效",
+      "conclusionCorrect": true,
+      "assessment": "本题结论及理由认可；规范为不能仅以未经本人同意为由主张依法成立的收养无效。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-alive-transaction-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "guided_followup",
+      "question": "被宣告死亡但实际存活且具完全民事行为能力，其他生效条件齐备的电脑交易能否仅因死亡宣告无效",
+      "userAnswer": "不能，不影响他在被宣告死亡期间的实施民事行为",
+      "conclusionCorrect": true,
+      "reasonComplete": true,
+      "terminologyNote": "规范为民事法律行为；本题结论与依据认可。",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-14-M03-final-mixed-1",
+      "date": "2026-11-14",
+      "lesson": "M03",
+      "type": "mixed_retest",
+      "conclusionsCorrect": 7,
+      "total": 7,
+      "answers": [
+        {
+          "question": 1,
+          "userAnswer": "外祖母，祖父母外祖父母第一顺位哥姐第二顺位",
+          "conclusionCorrect": true,
+          "reasonAssessment": "结论及核心顺位正确；未成年监护顺序的此前错误已在本次混测中纠正，第三顺位同意条件仍保留复习。"
+        },
+        {
+          "question": 2,
+          "userAnswer": "不需要，属于再见授权",
+          "conclusionCorrect": true,
+          "reasonAssessment": "实质结论及识别表见情形正确；规范术语表见代理，不是再见授权。"
+        },
+        {
+          "question": 3,
+          "userAnswer": "有，责任有限公司不是分公司，即使是独资",
+          "conclusionCorrect": true,
+          "reasonAssessment": "结论与组织类型判断正确；应称单一股东有限责任公司，不能与个人独资企业混用独资一词。"
+        },
+        {
+          "question": 4,
+          "userAnswer": "可以，不需要找居委会",
+          "conclusionCorrect": true,
+          "reasonAssessment": "结论与理由正确；可直接申请法院指定，不要求居委会等指定前置。"
+        },
+        {
+          "question": 5,
+          "userAnswer": "2026.10.1，失踪是法院宣告日为死亡日，意外是发生日",
+          "conclusionCorrect": true,
+          "reasonAssessment": "日期结论正确；应说一般情形下宣告死亡以判决作出日视为死亡日，不能把宣告失踪说成确定死亡日期。"
+        },
+        {
+          "question": 6,
+          "userAnswer": "不对，需要给予合适的经济补偿",
+          "conclusionCorrect": true,
+          "reasonAssessment": "结论及适当补偿核心含义正确；法条用语适当补偿，无须有隐瞒真相才补偿。"
+        },
+        {
+          "question": 7,
+          "userAnswer": "不会，配偶提交了不愿恢复说明",
+          "conclusionCorrect": true,
+          "reasonAssessment": "结论正确；结合题设已向婚姻登记机关书面声明不愿恢复，属于法定例外。"
+        }
+      ],
+      "mastered": false,
+      "notes": "7/7为结论正确题数，不代表每处措辞准确或隔日保持；讲解阶段与初诊历史均保留。"
+    }
+  ],
+  "lessonProgress": {
+    "M01": {
+      "status": "instruction_covered_review_due",
+      "mastered": false,
+      "notes": "已覆盖自然人权利能力与行为能力主干；最后劳动例外迁移正确，成人辨认曾两次混淆，仍需无提示混测"
+    },
+    "M02": {
+      "status": "instruction_covered_review_due",
+      "mastered": false,
+      "covered": [
+        "欺诈",
+        "胁迫",
+        "重大误解",
+        "显失公平",
+        "撤销后的返还与过错赔偿",
+        "撤销权90日、1年及最长5年规则",
+        "胁迫终止作为一年起算点",
+        "明确放弃撤销权",
+        "被胁迫签署放弃声明的效力及证据问题",
+        "恶意串通损害他人合法权益",
+        "违背公序良俗",
+        "违法不当然导致无效",
+        "双方虚假表示及隐藏行为另行判断",
+        "部分无效",
+        "第三人欺诈与第三人胁迫",
+        "收到催告后30日不表示视为拒绝追认",
+        "善意相对人在追认前通过通知撤销"
+      ],
+      "next": "隔日无提示复测，留意撤销权主体与通知撤销的法律效果",
+      "lastMixedTest": {
+        "conclusionsCorrect": 4,
+        "total": 4,
+        "reasonCorrection": "受欺诈方甲行使撤销权"
+      },
+      "lastReview": "2026-11-14"
+    },
+    "M03": {
+      "status": "instruction_covered_review_due",
+      "mastered": false,
+      "covered": [
+        "临时照料不自动改变监护关系",
+        "父母健在与有监护能力的区别",
+        "未成年人监护人法定顺序",
+        "成年人监护人法定顺序",
+        "监护人财产处分限于维护被监护人利益",
+        "未成年被监护人的真实意愿应按年龄智力尊重",
+        "意定监护的书面约定与履职起点",
+        "撤销监护人资格不免除法定抚养等费用负担义务",
+        "父母子女监护资格恢复条件与对被监护人故意犯罪例外",
+        "有争议可直接向法院申请指定，无居委会指定前置要求",
+        "遗嘱指定监护与意定监护的区别",
+        "代理三方关系与授权范围内效果归被代理人",
+        "越权且不构成表见时未经追认对被代理人不发生效力",
+        "表见代理的客观外观与相对人善意无过失",
+        "表见代理无需被代理人追认",
+        "自己代理与双方代理原则禁止及同意追认例外",
+        "转委托应经同意或追认及为维护利益所需的紧急例外",
+        "法人是组织与法定代表人区别",
+        "营利与非营利法人：目的及利润分配，不能只看收费结余",
+        "特别法人四类及居村委属基层群众性自治组织法人",
+        "子公司有法人资格独立承担民事责任，分公司无且责任由公司承担",
+        "营业执照、账户与独立核算不能单独证明分公司法人资格",
+        "吊销不等于法人立即终止，清算期间仍存续及注销终止条件",
+        "非法人组织定义及个人独资企业、合伙企业等例子",
+        "个人独资企业投资人以个人财产承担无限责任",
+        "个人独资企业与单股东有限责任公司区别",
+        "宣告失踪：下落不明满2年由利害关系人申请法院，财产代管，不等于死亡继承",
+        "宣告失踪仅处理财产代管，不直接引起继承；实际死亡与宣告死亡均可能引起继承开始",
+        "宣告死亡时间条件：一般4年、意外2年、有关机关证明不可能生存的不受2年限制",
+        "本人重新出现，经本人或利害关系人申请法院应撤销死亡宣告",
+        "撤销死亡宣告后的财产返还、无法返还适当补偿及隐瞒真实情况取得财产的损害赔偿",
+        "宣告死亡日期：一般为判决作出日，因意外下落不明为意外发生日",
+        "死亡宣告撤销后婚姻原则自行恢复，配偶再婚或向婚姻登记机关书面不愿恢复除外",
+        "子女被依法收养后，死亡宣告撤销不允许仅以未经本人同意为由否定收养效力",
+        "死亡宣告不影响实际存活者在该期间实施的民事法律行为效力，仍按行为自身条件判断"
+      ],
+      "next": "11月15日无提示复习M01—M03，按错因补课；M04依原主线推进",
+      "guardianshipStatus": "instruction_covered_review_due",
+      "agencyStatus": "core_instruction_covered_review_due",
+      "legalPersonStatus": "core_instruction_covered_review_due",
+      "pendingTest": {
+        "id": "2026-11-14-M03-final-mixed-1",
+        "status": "graded",
+        "total": 7,
+        "score": 7,
+        "questions": [
+          {
+            "id": 1,
+            "question": "父母均健在但没有监护能力，外祖母和成年姐姐均有监护能力，按法定顺序谁优先",
+            "expected": "外祖母",
+            "reason": "父母死亡或无监护能力后祖父母、外祖父母先于兄姐"
+          },
+          {
+            "id": 2,
+            "question": "撤销代理后未收回真实尚未届满的授权书，亦未告知长期商家；代理人按原范围订约，商家有合理权利外观且善意无过失，是否仍须被代理人追认",
+            "expected": "不需要",
+            "reason": "构成表见代理，行为对被代理人发生效力，不以追认为条件"
+          },
+          {
+            "id": 3,
+            "question": "只有小张一个股东的依法成立有限责任公司，是否具有法人资格",
+            "expected": "具有",
+            "reason": "有限责任公司具有法人资格，不因单一股东变成个人独资企业"
+          },
+          {
+            "id": 4,
+            "question": "爷爷和外祖父有监护人争议，未找过居委会等，能否直接向法院申请指定监护人",
+            "expected": "可以",
+            "reason": "居委会等指定不是申请法院指定的必经前置程序"
+          },
+          {
+            "id": 5,
+            "question": "一般情形下下落不明5年，法院2026年10月1日判决宣告死亡，视为死亡日期是哪日",
+            "expected": "2026年10月1日",
+            "reason": "一般情形为宣告死亡判决作出日，区别意外事件发生日"
+          },
+          {
+            "id": 6,
+            "question": "死亡宣告撤销，继承人取得的原财产客观无法返还；其称当时没有隐瞒真实情况，所以无需任何补偿，是否正确",
+            "expected": "不正确",
+            "reason": "无法返还应适当补偿，不以隐瞒真相为条件；隐瞒致宣告死亡取得财产还需对损失赔偿"
+          },
+          {
+            "id": 7,
+            "question": "死亡宣告撤销，配偶虽未再婚但已向婚姻登记机关书面声明不愿恢复婚姻，原婚姻是否自动恢复",
+            "expected": "不恢复",
+            "reason": "向婚姻登记机关书面声明不愿恢复属于法定例外，不须同时满足再婚"
+          }
+        ],
+        "scoreMeaning": "结论正确题数，术语和理由订正另记",
+        "answers": [
+          {
+            "question": 1,
+            "userAnswer": "外祖母，祖父母外祖父母第一顺位哥姐第二顺位",
+            "conclusionCorrect": true,
+            "reasonAssessment": "结论及核心顺位正确；未成年监护顺序的此前错误已在本次混测中纠正，第三顺位同意条件仍保留复习。"
+          },
+          {
+            "question": 2,
+            "userAnswer": "不需要，属于再见授权",
+            "conclusionCorrect": true,
+            "reasonAssessment": "实质结论及识别表见情形正确；规范术语表见代理，不是再见授权。"
+          },
+          {
+            "question": 3,
+            "userAnswer": "有，责任有限公司不是分公司，即使是独资",
+            "conclusionCorrect": true,
+            "reasonAssessment": "结论与组织类型判断正确；应称单一股东有限责任公司，不能与个人独资企业混用独资一词。"
+          },
+          {
+            "question": 4,
+            "userAnswer": "可以，不需要找居委会",
+            "conclusionCorrect": true,
+            "reasonAssessment": "结论与理由正确；可直接申请法院指定，不要求居委会等指定前置。"
+          },
+          {
+            "question": 5,
+            "userAnswer": "2026.10.1，失踪是法院宣告日为死亡日，意外是发生日",
+            "conclusionCorrect": true,
+            "reasonAssessment": "日期结论正确；应说一般情形下宣告死亡以判决作出日视为死亡日，不能把宣告失踪说成确定死亡日期。"
+          },
+          {
+            "question": 6,
+            "userAnswer": "不对，需要给予合适的经济补偿",
+            "conclusionCorrect": true,
+            "reasonAssessment": "结论及适当补偿核心含义正确；法条用语适当补偿，无须有隐瞒真相才补偿。"
+          },
+          {
+            "question": 7,
+            "userAnswer": "不会，配偶提交了不愿恢复说明",
+            "conclusionCorrect": true,
+            "reasonAssessment": "结论正确；结合题设已向婚姻登记机关书面声明不愿恢复，属于法定例外。"
+          }
+        ]
+      },
+      "lastMixedTest": {
+        "date": "2026-11-14",
+        "conclusionsCorrect": 7,
+        "total": 7,
+        "needsWordingReview": [
+          "表见代理",
+          "一般宣告死亡与宣告失踪区分",
+          "单股东有限公司与个人独资企业",
+          "适当补偿"
+        ]
+      }
+    }
+  },
+  "legacyLawOnlyDays": [
+    {
+      "day": 1,
+      "date": "2026-11-14",
+      "topic": "民法：行为能力与权利能力",
+      "ref": "M01",
+      "status": "instruction_covered_review_due",
+      "actualStudyDate": "2026-11-14",
+      "note": "主干讲解与当堂练习已覆盖，原始诊断及后续复测分开保留，待隔日无提示复习。"
+    },
+    {
+      "day": 2,
+      "date": "2026-11-15",
+      "topic": "民法：有效、无效、可撤销、追认",
+      "ref": "M02",
+      "status": "instruction_covered_review_due",
+      "actualStudyDate": "2026-11-14",
+      "note": "按实际学习进度提前覆盖主干，保留计划日复习。"
+    },
+    {
+      "day": 3,
+      "date": "2026-11-16",
+      "topic": "民法：代理、监护、法人、宣告制度",
+      "ref": "M03",
+      "status": "in_progress",
+      "actualStudyDate": "2026-11-14",
+      "note": "提前进入监护部分；代理、法人、宣告制度尚待讲解。"
+    },
+    {
+      "day": 4,
+      "date": "2026-11-17",
+      "topic": "民法：诉讼时效时间线",
+      "ref": "M04",
+      "status": "not_started"
+    },
+    {
+      "day": 5,
+      "date": "2026-11-18",
+      "topic": "民法：物权变动与占有",
+      "ref": "M05",
+      "status": "not_started"
+    },
+    {
+      "day": 6,
+      "date": "2026-11-19",
+      "topic": "民法：善意取得及抵押质押留置",
+      "ref": "M06",
+      "status": "not_started"
+    },
+    {
+      "day": 7,
+      "date": "2026-11-20",
+      "topic": "民法周测与错因归类",
+      "ref": "M01—M06",
+      "status": "not_started"
+    },
+    {
+      "day": 8,
+      "date": "2026-11-21",
+      "topic": "民法：合同订立、成立与生效",
+      "ref": "M07",
+      "status": "not_started"
+    },
+    {
+      "day": 9,
+      "date": "2026-11-22",
+      "topic": "民法：合同履行、债权债务转移",
+      "ref": "M07",
+      "status": "not_started"
+    },
+    {
+      "day": 10,
+      "date": "2026-11-23",
+      "topic": "民法：违约、定金、保证与典型合同",
+      "ref": "M08",
+      "status": "not_started"
+    },
+    {
+      "day": 11,
+      "date": "2026-11-24",
+      "topic": "民法：侵权归责与救助",
+      "ref": "M09",
+      "status": "not_started"
+    },
+    {
+      "day": 12,
+      "date": "2026-11-25",
+      "topic": "民法：学校、公共场所与典型侵权",
+      "ref": "M10",
+      "status": "not_started"
+    },
+    {
+      "day": 13,
+      "date": "2026-11-26",
+      "topic": "民法：人格、婚姻、继承及补充知识",
+      "ref": "M11",
+      "status": "not_started"
+    },
+    {
+      "day": 14,
+      "date": "2026-11-27",
+      "topic": "民法综合小考及一周错题复测",
+      "ref": "M01—M11",
+      "status": "not_started"
+    },
+    {
+      "day": 15,
+      "date": "2026-11-28",
+      "topic": "刑法：适用范围、年龄与责任能力",
+      "ref": "C01",
+      "status": "not_started"
+    },
+    {
+      "day": 16,
+      "date": "2026-11-29",
+      "topic": "刑法：主观、不作为与因果关系",
+      "ref": "C01",
+      "status": "not_started"
+    },
+    {
+      "day": 17,
+      "date": "2026-11-30",
+      "topic": "刑法：正当防卫、紧急避险",
+      "ref": "C02",
+      "status": "not_started"
+    },
+    {
+      "day": 18,
+      "date": "2026-12-01",
+      "topic": "刑法：犯罪形态、共同犯罪",
+      "ref": "C02",
+      "status": "not_started"
+    },
+    {
+      "day": 19,
+      "date": "2026-12-02",
+      "topic": "刑法：刑罚量刑与假释订正",
+      "ref": "C03—C04",
+      "status": "not_started"
+    },
+    {
+      "day": 20,
+      "date": "2026-12-03",
+      "topic": "刑法：财产犯罪区别",
+      "ref": "C05",
+      "status": "not_started"
+    },
+    {
+      "day": 21,
+      "date": "2026-12-04",
+      "topic": "刑法总则与财产罪小考",
+      "ref": "C01—C05",
+      "status": "not_started"
+    },
+    {
+      "day": 22,
+      "date": "2026-12-05",
+      "topic": "刑法：公共安全、食品药品与金融边界",
+      "ref": "C06",
+      "status": "not_started"
+    },
+    {
+      "day": 23,
+      "date": "2026-12-06",
+      "topic": "刑法：职务犯罪、渎职及新解释",
+      "ref": "C07",
+      "status": "not_started"
+    },
+    {
+      "day": 24,
+      "date": "2026-12-07",
+      "topic": "刑法：其他重要分则与混合案例",
+      "ref": "C06＋原讲义",
+      "status": "not_started"
+    },
+    {
+      "day": 25,
+      "date": "2026-12-08",
+      "topic": "行政法：主体与行为分类",
+      "ref": "A01—A02",
+      "status": "not_started"
+    },
+    {
+      "day": 26,
+      "date": "2026-12-09",
+      "topic": "行政法：许可与处罚、不罚从宽",
+      "ref": "A02—A03",
+      "status": "not_started"
+    },
+    {
+      "day": 27,
+      "date": "2026-12-10",
+      "topic": "行政法：简易程序、听证与缴款",
+      "ref": "A04",
+      "status": "not_started"
+    },
+    {
+      "day": 28,
+      "date": "2026-12-11",
+      "topic": "行政法：强制与复议入门",
+      "ref": "A05—A06",
+      "status": "not_started"
+    },
+    {
+      "day": 29,
+      "date": "2026-12-12",
+      "topic": "行政法：复议诉讼与2026条例",
+      "ref": "A06",
+      "status": "not_started"
+    },
+    {
+      "day": 30,
+      "date": "2026-12-13",
+      "topic": "行政法综合小考及民刑回顾",
+      "ref": "A01—A06",
+      "status": "not_started"
+    },
+    {
+      "day": 31,
+      "date": "2026-12-14",
+      "topic": "宪法：基本制度、公民权利义务",
+      "ref": "原讲义＋按日讲解",
+      "status": "not_started"
+    },
+    {
+      "day": 32,
+      "date": "2026-12-15",
+      "topic": "宪法：国家机构与国家标志",
+      "ref": "原讲义＋按日讲解",
+      "status": "not_started"
+    },
+    {
+      "day": 33,
+      "date": "2026-12-16",
+      "topic": "劳动、社保、劳动争议重点",
+      "ref": "原讲义/脑图＋按日讲解",
+      "status": "not_started"
+    },
+    {
+      "day": 34,
+      "date": "2026-12-17",
+      "topic": "监察、公务员、政务处分重点",
+      "ref": "原讲义＋按日讲解",
+      "status": "not_started"
+    },
+    {
+      "day": 35,
+      "date": "2026-12-18",
+      "topic": "法律综合阶段测验与薄弱点清单",
+      "ref": "全模块",
+      "status": "not_started"
+    },
+    {
+      "day": 36,
+      "date": "2026-12-19",
+      "topic": "法律专项模拟一：24题限时练习",
+      "ref": "新题，不重复背答案",
+      "status": "not_started"
+    },
+    {
+      "day": 37,
+      "date": "2026-12-20",
+      "topic": "模拟一复盘与民刑错题复测",
+      "ref": "按错因补课",
+      "status": "not_started"
+    },
+    {
+      "day": 38,
+      "date": "2026-12-21",
+      "topic": "法律专项模拟二：24题限时练习",
+      "ref": "新题",
+      "status": "not_started"
+    },
+    {
+      "day": 39,
+      "date": "2026-12-22",
+      "topic": "模拟二复盘与行政、小法错题",
+      "ref": "按错因补课",
+      "status": "not_started"
+    },
+    {
+      "day": 40,
+      "date": "2026-12-23",
+      "topic": "条件、数字、机关与时间点总复盘",
+      "ref": "错题卡＋对照表",
+      "status": "not_started"
+    },
+    {
+      "day": 41,
+      "date": "2026-12-24",
+      "topic": "最后一次法律专项混合测验",
+      "ref": "考前发现缺口",
+      "status": "not_started"
+    },
+    {
+      "day": 42,
+      "date": "2026-12-25",
+      "topic": "轻复盘：高频错题与作息准备",
+      "ref": "不临时扩展偏难理论",
+      "status": "not_started"
+    }
+  ],
+  "legacyLawOnlyProfile": {
+    "exam": "事业编联考（按现有四川省属资料准备）",
+    "examDate": "2026-12-26",
+    "dateSource": "用户提供，未宣称已核实公告",
+    "minutesPerDay": 90,
+    "additionalTime": "用户可投入90分钟以上",
+    "scope": "法律专项"
+  },
+  "combinedPlan": {
+    "version": "2026-11-14-law-politics-v2-120min",
+    "startDate": "2026-11-14",
+    "endDate": "2026-12-25",
+    "examDate": "2026-12-26",
+    "dateSource": "用户提供，未宣称已核实公告",
+    "day1Politics": "仅入门诊断，可顺延；未学习未计分",
+    "days": [
+      {
+        "day": 1,
+        "date": "2026-11-14",
+        "lawRef": "M01—M03",
+        "lawTopic": "今日实际进度：M01、M02、M03主干已讲，M03收尾结论7/7，待隔日复习",
+        "lawTask": "保留已做练习；不重讲已会内容，记录理由错误和待复习点。",
+        "politicsId": "P00",
+        "politicsTopic": "导学与入门诊断",
+        "politicsSource": "目录＋政治入门诊断",
+        "politicsTask": "今天法律已超前；政治仅做5题摸底，可留到明天课前，不记已完成。",
+        "reviewDates": [],
+        "status": "instruction_covered_review_due",
+        "politicsStatus": "intro_instruction_covered_review_due",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        },
+        "lawStatus": "instruction_covered_review_due"
+      },
+      {
+        "day": 2,
+        "date": "2026-11-15",
+        "lawRef": "M01—M03",
+        "lawTopic": "M01—M03隔日无提示复测与错因补课",
+        "lawTask": "先做新变式，重点辨行为能力、效力与撤销权、监护顺序、表见代理、宣告制度；理由不完整处优先补讲。",
+        "politicsId": "P01",
+        "politicsTopic": "新思想：形成发展和历史地位",
+        "politicsSource": "第三篇·第一章",
+        "politicsTask": "建立理论框架；区分形成发展、历史地位和常见提法。",
+        "reviewDates": [
+          "2026-11-14"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 3,
+        "date": "2026-11-16",
+        "lawRef": "M03",
+        "lawTopic": "监护、代理、法人混测与宣告制度收尾",
+        "lawTask": "已讲内容先测后补；未过关处纠错，按原讲义查漏，不重头上课。",
+        "politicsId": "P02",
+        "politicsTopic": "坚持党的全面领导",
+        "politicsSource": "第三篇·第二章",
+        "politicsTask": "整理领导地位、制度优势等对应表述，做4—6题辨析。",
+        "reviewDates": [
+          "2026-11-15"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 4,
+        "date": "2026-11-17",
+        "lawRef": "M04",
+        "lawTopic": "民法：诉讼时效时间线",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P03",
+        "politicsTopic": "新时代坚持和发展中国特色社会主义",
+        "politicsSource": "第三篇·第三章",
+        "politicsTask": "用时间线区分新时代、主要矛盾与相关理论表述。",
+        "reviewDates": [
+          "2026-11-16",
+          "2026-11-14"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 5,
+        "date": "2026-11-18",
+        "lawRef": "M05",
+        "lawTopic": "民法：物权变动与占有",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P04",
+        "politicsTopic": "中国式现代化",
+        "politicsSource": "第三篇·第四章",
+        "politicsTask": "分清中国特色、本质要求、重大原则，避免张冠李戴。",
+        "reviewDates": [
+          "2026-11-17",
+          "2026-11-15"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 6,
+        "date": "2026-11-19",
+        "lawRef": "M06",
+        "lawTopic": "民法：善意取得及抵押质押留置",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P05",
+        "politicsTopic": "坚持以人民为中心",
+        "politicsSource": "第三篇·第五章",
+        "politicsTask": "把人民立场与具体案例对应，练选择理由。",
+        "reviewDates": [
+          "2026-11-18",
+          "2026-11-16"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 7,
+        "date": "2026-11-20",
+        "lawRef": "M01—M06",
+        "lawTopic": "民法周测与错因归类",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P06",
+        "politicsTopic": "全面深化改革开放＋周复习",
+        "politicsSource": "第三篇·第六章",
+        "politicsTask": "对照改革的目标、方法；回忆本周6张关键词卡。",
+        "reviewDates": [
+          "2026-11-19",
+          "2026-11-17"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 8,
+        "date": "2026-11-21",
+        "lawRef": "M07",
+        "lawTopic": "民法：合同订立、成立与生效",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P07",
+        "politicsTopic": "全面依法治国",
+        "politicsSource": "第三篇·第七章",
+        "politicsTask": "区分理论总目标、原则与具体法律规则。",
+        "reviewDates": [
+          "2026-11-20",
+          "2026-11-18",
+          "2026-11-14"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 9,
+        "date": "2026-11-22",
+        "lawRef": "M07",
+        "lawTopic": "民法：合同履行、债权债务转移",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P08",
+        "politicsTopic": "全面从严治党",
+        "politicsSource": "第三篇·第八章",
+        "politicsTask": "梳理党的建设、纪律、作风、反腐相关概念。",
+        "reviewDates": [
+          "2026-11-21",
+          "2026-11-19",
+          "2026-11-15"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 10,
+        "date": "2026-11-23",
+        "lawRef": "M08",
+        "lawTopic": "民法：违约、定金、保证与典型合同",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P09",
+        "politicsTopic": "推动高质量发展",
+        "politicsSource": "第三篇·第九章对应节",
+        "politicsTask": "区分发展理念、发展格局、发展阶段及高质量发展。",
+        "reviewDates": [
+          "2026-11-22",
+          "2026-11-20",
+          "2026-11-16"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 11,
+        "date": "2026-11-24",
+        "lawRef": "M09",
+        "lawTopic": "民法：侵权归责与救助",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P10",
+        "politicsTopic": "全过程人民民主与文化强国",
+        "politicsSource": "第三篇·第九章对应节",
+        "politicsTask": "各抓一张核心框架卡；合计做4—6道对应辨析。",
+        "reviewDates": [
+          "2026-11-23",
+          "2026-11-21",
+          "2026-11-17"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 12,
+        "date": "2026-11-25",
+        "lawRef": "M10",
+        "lawTopic": "民法：学校、公共场所与典型侵权",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P11",
+        "politicsTopic": "民生社会建设与生态文明",
+        "politicsSource": "第三篇·第九章对应节",
+        "politicsTask": "将目标、原则与案例配对，梳理相近词。",
+        "reviewDates": [
+          "2026-11-24",
+          "2026-11-22",
+          "2026-11-18"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 13,
+        "date": "2026-11-26",
+        "lawRef": "M11",
+        "lawTopic": "民法：人格、婚姻、继承及补充知识",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P12",
+        "politicsTopic": "教育科技人才与国家安全",
+        "politicsSource": "第三篇·第十、十一章",
+        "politicsTask": "各抓核心定位及关系，不把几个概念互相替换。",
+        "reviewDates": [
+          "2026-11-25",
+          "2026-11-23",
+          "2026-11-19"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 14,
+        "date": "2026-11-27",
+        "lawRef": "M01—M11",
+        "lawTopic": "民法综合小考及一周错题复测",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P13",
+        "politicsTopic": "国防军队、统一与人类命运共同体",
+        "politicsSource": "第三篇·第十二至十四章",
+        "politicsTask": "先建三个主题的主干，每个主题练1—2道题。",
+        "reviewDates": [
+          "2026-11-26",
+          "2026-11-24",
+          "2026-11-20"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 15,
+        "date": "2026-11-28",
+        "lawRef": "C01",
+        "lawTopic": "刑法：适用范围、年龄与责任能力",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P14",
+        "politicsTopic": "斗争精神、立场观点方法＋新思想复测",
+        "politicsSource": "第三篇·第十五、十六章",
+        "politicsTask": "区分六个必须坚持等提法；做6—8道阶段题。",
+        "reviewDates": [
+          "2026-11-27",
+          "2026-11-25",
+          "2026-11-21",
+          "2026-11-14"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 16,
+        "date": "2026-11-29",
+        "lawRef": "C01",
+        "lawTopic": "刑法：主观、不作为与因果关系",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P15",
+        "politicsTopic": "马原导论与哲学基本问题",
+        "politicsSource": "第一篇·导论、哲学绪论",
+        "politicsTask": "辨理论构成、物质意识与思维存在的基本关系。",
+        "reviewDates": [
+          "2026-11-28",
+          "2026-11-26",
+          "2026-11-22",
+          "2026-11-15"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 17,
+        "date": "2026-11-30",
+        "lawRef": "C02",
+        "lawTopic": "刑法：正当防卫、紧急避险",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P16",
+        "politicsTopic": "辩证唯物论",
+        "politicsSource": "第一篇·第二章第二节",
+        "politicsTask": "用客观条件与主观能动性的案例说明原理。",
+        "reviewDates": [
+          "2026-11-29",
+          "2026-11-27",
+          "2026-11-23",
+          "2026-11-16"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 18,
+        "date": "2026-12-01",
+        "lawRef": "C02",
+        "lawTopic": "刑法：犯罪形态、共同犯罪",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P17",
+        "politicsTopic": "唯物辩证法：联系与发展",
+        "politicsSource": "第一篇·第二章第三节",
+        "politicsTask": "从材料中找联系、发展观点，不凭关键词机械选。",
+        "reviewDates": [
+          "2026-11-30",
+          "2026-11-28",
+          "2026-11-24",
+          "2026-11-17"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 19,
+        "date": "2026-12-02",
+        "lawRef": "C03—C04",
+        "lawTopic": "刑法：刑罚量刑与假释订正",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P18",
+        "politicsTopic": "唯物辩证法：矛盾",
+        "politicsSource": "第一篇·第二章第三节",
+        "politicsTask": "区分普遍特殊、主次矛盾及矛盾主次方面。",
+        "reviewDates": [
+          "2026-12-01",
+          "2026-11-29",
+          "2026-11-25",
+          "2026-11-18"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 20,
+        "date": "2026-12-03",
+        "lawRef": "C05",
+        "lawTopic": "刑法：财产犯罪区别",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P19",
+        "politicsTopic": "唯物辩证法：量变质变等规律",
+        "politicsSource": "第一篇·第二章第三节",
+        "politicsTask": "按条件、过程、结果匹配案例，辨绝对化选项。",
+        "reviewDates": [
+          "2026-12-02",
+          "2026-11-30",
+          "2026-11-26",
+          "2026-11-19"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 21,
+        "date": "2026-12-04",
+        "lawRef": "C01—C05",
+        "lawTopic": "刑法总则与财产罪小考",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P20",
+        "politicsTopic": "认识论",
+        "politicsSource": "第一篇·第二章第四节",
+        "politicsTask": "区分实践与认识、真理与检验标准。",
+        "reviewDates": [
+          "2026-12-03",
+          "2026-12-01",
+          "2026-11-27",
+          "2026-11-20"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 22,
+        "date": "2026-12-05",
+        "lawRef": "C06",
+        "lawTopic": "刑法：公共安全、食品药品与金融边界",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P21",
+        "politicsTopic": "唯物史观",
+        "politicsSource": "第一篇·第二章第五节",
+        "politicsTask": "比较社会存在意识、社会基本矛盾、人民群众作用。",
+        "reviewDates": [
+          "2026-12-04",
+          "2026-12-02",
+          "2026-11-28",
+          "2026-11-21"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 23,
+        "date": "2026-12-06",
+        "lawRef": "C07",
+        "lawTopic": "刑法：职务犯罪、渎职及新解释",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P22",
+        "politicsTopic": "科学社会主义＋马原复测",
+        "politicsSource": "第一篇·第三章及前章复习",
+        "politicsTask": "以主讲义框架为范围；做8道新题，解释依据。",
+        "reviewDates": [
+          "2026-12-05",
+          "2026-12-03",
+          "2026-11-29",
+          "2026-11-22"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 24,
+        "date": "2026-12-07",
+        "lawRef": "C06＋原讲义",
+        "lawTopic": "刑法：其他重要分则与混合案例",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P23",
+        "politicsTopic": "毛泽东思想：形成与新民主主义革命",
+        "politicsSource": "第二篇·导论、第二章",
+        "politicsTask": "建立形成发展及革命理论的时间线和关系图。",
+        "reviewDates": [
+          "2026-12-06",
+          "2026-12-04",
+          "2026-11-30",
+          "2026-11-23"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 25,
+        "date": "2026-12-08",
+        "lawRef": "A01—A02",
+        "lawTopic": "行政法：主体与行为分类",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P24",
+        "politicsTopic": "毛泽东思想：改造建设与活的灵魂",
+        "politicsSource": "第二篇·第二章",
+        "politicsTask": "区分革命、改造、建设；回忆活的灵魂。",
+        "reviewDates": [
+          "2026-12-07",
+          "2026-12-05",
+          "2026-12-01",
+          "2026-11-24"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 26,
+        "date": "2026-12-09",
+        "lawRef": "A02—A03",
+        "lawTopic": "行政法：许可与处罚、不罚从宽",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P25",
+        "politicsTopic": "邓小平理论",
+        "politicsSource": "第二篇·第三章",
+        "politicsTask": "按回答的问题、基本路线、发展战略等整理。",
+        "reviewDates": [
+          "2026-12-08",
+          "2026-12-06",
+          "2026-12-02",
+          "2026-11-25"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 27,
+        "date": "2026-12-10",
+        "lawRef": "A04",
+        "lawTopic": "行政法：简易程序、听证与缴款",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P26",
+        "politicsTopic": "三个代表重要思想与科学发展观",
+        "politicsSource": "第二篇·第四、第五章",
+        "politicsTask": "各建一张定位、内容、意义卡，练对应关系。",
+        "reviewDates": [
+          "2026-12-09",
+          "2026-12-07",
+          "2026-12-03",
+          "2026-11-26"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 28,
+        "date": "2026-12-11",
+        "lawRef": "A05—A06",
+        "lawTopic": "行政法：强制与复议入门",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P27",
+        "politicsTopic": "政治理论第一轮综合测验",
+        "politicsSource": "前三篇＋对应带背",
+        "politicsTask": "8—10题限时，分别记录新思想、马原、毛中特错因。",
+        "reviewDates": [
+          "2026-12-10",
+          "2026-12-08",
+          "2026-12-04",
+          "2026-11-27"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 29,
+        "date": "2026-12-12",
+        "lawRef": "A06",
+        "lawTopic": "行政法：复议诉讼与2026条例",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "T01",
+        "politicsTopic": "时政核对：重要会议与中央部署",
+        "politicsSource": "学习当天核实的官方发布",
+        "politicsTask": "记录事件日期、发布日期、正式名称和核心表述；不凭记忆出题。",
+        "reviewDates": [
+          "2026-12-11",
+          "2026-12-09",
+          "2026-12-05",
+          "2026-11-28"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 30,
+        "date": "2026-12-13",
+        "lawRef": "A01—A06",
+        "lawTopic": "行政法综合小考及民刑回顾",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "T02",
+        "politicsTopic": "时政核对：经济社会重要政策",
+        "politicsSource": "学习当天核实的官方发布",
+        "politicsTask": "区分政策目标、适用范围、公布与施行日期。",
+        "reviewDates": [
+          "2026-12-12",
+          "2026-12-10",
+          "2026-12-06",
+          "2026-11-29"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 31,
+        "date": "2026-12-14",
+        "lawRef": "原讲义＋按日讲解",
+        "lawTopic": "宪法：基本制度、公民权利义务",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "T03",
+        "politicsTopic": "时政核对：科教文化生态民生",
+        "politicsSource": "学习当天核实的官方发布",
+        "politicsTask": "将新事实放回理论框架，剔除已过时材料。",
+        "reviewDates": [
+          "2026-12-13",
+          "2026-12-11",
+          "2026-12-07",
+          "2026-11-30"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 32,
+        "date": "2026-12-15",
+        "lawRef": "原讲义＋按日讲解",
+        "lawTopic": "宪法：国家机构与国家标志",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P28",
+        "politicsTopic": "理论与法律交叉辨析",
+        "politicsSource": "第三篇·依法治国＋法律笔记",
+        "politicsTask": "区分政治理论概括与具体法条条件，做6题交叉练习。",
+        "reviewDates": [
+          "2026-12-14",
+          "2026-12-12",
+          "2026-12-08",
+          "2026-12-01"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 33,
+        "date": "2026-12-16",
+        "lawRef": "原讲义/脑图＋按日讲解",
+        "lawTopic": "劳动、社保、劳动争议重点",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P29",
+        "politicsTopic": "理论发展与相关党史时间线",
+        "politicsSource": "第二篇及新思想形成发展章",
+        "politicsTask": "只补与理论形成发展相关的主线，核实年代事件。",
+        "reviewDates": [
+          "2026-12-15",
+          "2026-12-13",
+          "2026-12-09",
+          "2026-12-02"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 34,
+        "date": "2026-12-17",
+        "lawRef": "原讲义＋按日讲解",
+        "lawTopic": "监察、公务员、政务处分重点",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P30",
+        "politicsTopic": "关键词与相近提法对照",
+        "politicsSource": "本人错题卡＋官方核对",
+        "politicsTask": "对照总体布局、战略布局、理念、方法论等，找混淆来源。",
+        "reviewDates": [
+          "2026-12-16",
+          "2026-12-14",
+          "2026-12-10",
+          "2026-12-03"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 35,
+        "date": "2026-12-18",
+        "lawRef": "全模块",
+        "lawTopic": "法律综合阶段测验与薄弱点清单",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "P31",
+        "politicsTopic": "政治理论阶段混测",
+        "politicsSource": "已学三模块＋已核实时政",
+        "politicsTask": "8—10题限时；按错因安排最后一周。",
+        "reviewDates": [
+          "2026-12-17",
+          "2026-12-15",
+          "2026-12-11",
+          "2026-12-04"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 36,
+        "date": "2026-12-19",
+        "lawRef": "新题，不重复背答案",
+        "lawTopic": "法律专项模拟一：24题限时练习",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "R01",
+        "politicsTopic": "错题回炉：基础与绝对化表述",
+        "politicsSource": "本人政治错题卡",
+        "politicsTask": "重做错题变式；说明错误选项错在哪里。",
+        "reviewDates": [
+          "2026-12-18",
+          "2026-12-16",
+          "2026-12-12",
+          "2026-12-05"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 37,
+        "date": "2026-12-20",
+        "lawRef": "按错因补课",
+        "lawTopic": "模拟一复盘与民刑错题复测",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "R02",
+        "politicsTopic": "新思想薄弱点复习",
+        "politicsSource": "本人新思想错题卡",
+        "politicsTask": "选最弱两个主题，少讲新内容，多做无提示回忆。",
+        "reviewDates": [
+          "2026-12-19",
+          "2026-12-17",
+          "2026-12-13",
+          "2026-12-06"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 38,
+        "date": "2026-12-21",
+        "lawRef": "新题",
+        "lawTopic": "法律专项模拟二：24题限时练习",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "R03",
+        "politicsTopic": "马原薄弱点复习",
+        "politicsSource": "本人马原错题卡",
+        "politicsTask": "选最弱两个原理，练材料和原理的双向匹配。",
+        "reviewDates": [
+          "2026-12-20",
+          "2026-12-18",
+          "2026-12-14",
+          "2026-12-07"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 39,
+        "date": "2026-12-22",
+        "lawRef": "按错因补课",
+        "lawTopic": "模拟二复盘与行政、小法错题",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "R04",
+        "politicsTopic": "毛中特与时政薄弱点复习",
+        "politicsSource": "本人错题卡＋已核实时政",
+        "politicsTask": "优先主线、对应关系和重要新表述。",
+        "reviewDates": [
+          "2026-12-21",
+          "2026-12-19",
+          "2026-12-15",
+          "2026-12-08"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 40,
+        "date": "2026-12-23",
+        "lawRef": "错题卡＋对照表",
+        "lawTopic": "条件、数字、机关与时间点总复盘",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "R05",
+        "politicsTopic": "时间线、数字和提法总复盘",
+        "politicsSource": "政治关键词卡",
+        "politicsTask": "每项说明属于哪一理论体系，不混背孤立数字。",
+        "reviewDates": [
+          "2026-12-22",
+          "2026-12-20",
+          "2026-12-16",
+          "2026-12-09"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 41,
+        "date": "2026-12-24",
+        "lawRef": "考前发现缺口",
+        "lawTopic": "最后一次法律专项混合测验",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "R06",
+        "politicsTopic": "考前政治专项混测",
+        "politicsSource": "新的综合题",
+        "politicsTask": "8—10题限时，不把熟悉原题的正确率当掌握率。",
+        "reviewDates": [
+          "2026-12-23",
+          "2026-12-21",
+          "2026-12-17",
+          "2026-12-10"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      },
+      {
+        "day": 42,
+        "date": "2026-12-25",
+        "lawRef": "不临时扩展偏难理论",
+        "lawTopic": "轻复盘：高频错题与作息准备",
+        "lawTask": "沿用原法律专项计划；先回忆，再讲核心规则、做案例并订正。测验日依原计划题量。",
+        "politicsId": "R07",
+        "politicsTopic": "考前轻复习",
+        "politicsSource": "最终12张关键词卡",
+        "politicsTask": "口头复述核心关系，回看高频错项，不追偏题。",
+        "reviewDates": [
+          "2026-12-24",
+          "2026-12-22",
+          "2026-12-18",
+          "2026-12-11"
+        ],
+        "status": "not_started",
+        "politicsStatus": "not_started",
+        "minutes": {
+          "law": 90,
+          "politics": 30
+        }
+      }
+    ],
+    "reviewOffsets": [
+      1,
+      3,
+      7,
+      14
+    ],
+    "reviewIncluded": true,
+    "lawSequence": "除已超前学习的前3天外，恢复原法律专项计划的主题、日期和编号",
+    "dailyMinutes": 120,
+    "priorityBasis": "本地新讲义目录及配套历史考情安排，非本次题量预测",
+    "futureQuestionSets": "按学习进度准备，未将未来日测或模拟题记为已完成"
+  },
+  "politics": {
+    "status": "review_due",
+    "diagnostic": {
+      "status": "graded",
+      "questionIds": [
+        "D-P01",
+        "D-P02",
+        "D-P03",
+        "D-P04",
+        "D-P05"
+      ],
+      "score": 1,
+      "total": 5,
+      "answers": [
+        {
+          "id": "D-P01",
+          "question": "只要主观意志足够坚定，就能不顾客观条件实现任何目标，判断并说明理由",
+          "initialAnswer": "不对",
+          "reasonFollowup": "因为人有通天志，非运不可达",
+          "conclusionCorrect": true,
+          "reasonComplete": false,
+          "assessment": "能意识到志向不足以保证结果；运的表述含混，已补讲客观条件、规律与发挥主观能动性，不以宿命或运气替代解释。"
+        },
+        {
+          "id": "D-P02",
+          "question": "两个结合：马克思主义基本原理分别同什么相结合",
+          "initialAnswer": "不会",
+          "correct": false,
+          "assessment": "初诊不会；本次将讲解同中国具体实际、同中华优秀传统文化相结合，讲后复测另算。"
+        },
+        {
+          "id": "D-P03",
+          "question": "六个必须坚持单选：A绿色 B系统观念 C协调 D共享",
+          "initialAnswer": "A",
+          "correct": false,
+          "expected": "B，系统观念",
+          "assessment": "初诊将新发展理念中的绿色混入六个必须坚持；已讲解两组概念的对应表，尚未复测。"
+        },
+        {
+          "id": "D-P04",
+          "question": "中国式现代化五个方面中国特色任选三项",
+          "initialAnswer": "不会",
+          "correct": false,
+          "assessment": "初诊不会；本次将讲解五项及记忆关键词，尚未复测。"
+        },
+        {
+          "id": "D-P05",
+          "question": "中国特色社会主义最本质的特征是什么",
+          "initialAnswer": "人民当家作主",
+          "correct": false,
+          "expected": "中国共产党领导",
+          "assessment": "将社会主义民主政治的本质特征与中国特色社会主义最本质的特征混淆；本次订正，待复测。"
+        }
+      ],
+      "answered": 5,
+      "conclusionsCorrectSoFar": 1,
+      "nextQuestion": null,
+      "scoreMeaning": "5道初诊中判断结论或知识点作答正确题数；第1题结论正确但理由不完整。讲解后的表现另记，不回改本分数。"
+    },
+    "completedLessons": [],
+    "weakPoints": [
+      {
+        "id": "P00-subject-object",
+        "topic": "主观能动性与客观条件、规律的关系",
+        "status": "newly_explained_review_due",
+        "observations": [
+          "初诊结论正确，用通天志非运不可达解释，理由含混；已补准确表述。"
+        ]
+      },
+      {
+        "id": "P00-two-integrations",
+        "topic": "两个结合：同中国具体实际、同中华优秀传统文化",
+        "status": "initial_understanding_review_due",
+        "observations": [
+          "初诊回答不会；即将讲解，尚未复测。",
+          "已正确识别中国现实情况属于第一个结合；第二个结合及优秀限定尚待复测。",
+          "两个方向能回忆，第二项漏传统；优秀限定的案例理由正确，需保留中华优秀传统文化完整范围。",
+          "后续闭卷回答中国优秀传统文化，已补全优秀、传统，核心含义正确，次日仍需无提示回忆。"
+        ]
+      },
+      {
+        "id": "P00-method-vs-development",
+        "topic": "六个必须坚持与五大新发展理念的对应关系",
+        "status": "initial_understanding_review_due",
+        "observations": [
+          "第3题初诊选绿色，正确为系统观念；已对照两组提法，待复测。",
+          "给定场景中分别正确识别系统观念与绿色，次日需不提示所属概念组再复测。"
+        ]
+      },
+      {
+        "id": "P00-modernization-features",
+        "topic": "中国式现代化五个方面中国特色",
+        "status": "newly_explained_pending_retest",
+        "observations": [
+          "第4题初诊不会；即将讲解五项和关键词，尚未复测。"
+        ]
+      },
+      {
+        "id": "P00-leadership-vs-democracy",
+        "topic": "中国特色社会主义最本质特征与社会主义民主政治本质特征的区别",
+        "status": "initial_understanding_review_due",
+        "observations": [
+          "初诊回答人民当家作主，正确应为中国共产党领导；两组表述本次对照讲解，待复测。",
+          "社会主义民主政治本质特征及制度最大优势两题即时复测正确；需隔日检查原最本质特征题及混合辨析。",
+          "中国特色社会主义最本质特征经讲解后闭卷回忆正确；初诊原分不变，待隔日混测。"
+        ]
+      }
+    ],
+    "reviewQueue": [
+      {
+        "date": "2026-11-15",
+        "lesson": "P00",
+        "focus": [
+          "主观能动性与客观条件",
+          "两个结合，注意优秀二字",
+          "六个必须坚持与新发展理念",
+          "中国式现代化五个方面中国特色",
+          "党的领导与人民当家作主各自对应的表述",
+          "两个结合须保留传统限定，不泛称中国优秀文化"
+        ]
+      }
+    ],
+    "sessions": [
+      {
+        "id": "2026-11-14-P00-baseline-1",
+        "date": "2026-11-14",
+        "lesson": "P00",
+        "type": "baseline_diagnostic",
+        "score": 1,
+        "total": 5,
+        "reasonComplete": false,
+        "mastered": false,
+        "notes": "第1题判断正确但理由含混；第2、4题不会，第3、5题混淆相近表述。尚不能据此推断全政治掌握率。"
+      },
+      {
+        "id": "2026-11-14-P00R-democracy-phrase-1",
+        "date": "2026-11-14",
+        "lesson": "P00R",
+        "type": "guided_followup",
+        "question": "社会主义民主政治的本质特征是什么",
+        "userAnswer": "人民当家作主",
+        "correct": true,
+        "assessment": "对应表述讲解后的即时复测正确。",
+        "mastered": false
+      },
+      {
+        "id": "2026-11-14-P00R-institution-advantage-1",
+        "date": "2026-11-14",
+        "lesson": "P00R",
+        "type": "guided_followup",
+        "question": "中国特色社会主义制度的最大优势是什么",
+        "userAnswer": "中国共产党领导",
+        "correct": true,
+        "assessment": "新增对应表述后的即时复测正确；不回改最本质特征初诊。",
+        "mastered": false
+      },
+      {
+        "id": "2026-11-14-P00R-first-integration-1",
+        "date": "2026-11-14",
+        "lesson": "P00R",
+        "type": "guided_followup",
+        "question": "运用马克思主义分析中国人口规模、地区差异等现实情况属于第几个结合",
+        "userAnswer": "第一个",
+        "correct": true,
+        "assessment": "能在给定案例中识别同中国具体实际相结合；尚未检查第二个结合和完整闭卷回忆。",
+        "mastered": false
+      },
+      {
+        "id": "2026-11-14-P00R-tradition-quality-1",
+        "date": "2026-11-14",
+        "lesson": "P00R",
+        "type": "guided_followup",
+        "question": "第二个结合是否意味着古代所有观念原样照搬",
+        "userAnswer": "不对，去其糟粕取其精华",
+        "correct": true,
+        "reasonComplete": true,
+        "mastered": false
+      },
+      {
+        "id": "2026-11-14-P00R-recall-leadership-1",
+        "date": "2026-11-14",
+        "lesson": "P00R",
+        "type": "closed_book_recall",
+        "question": "中国特色社会主义最本质的特征是什么",
+        "userAnswer": "中国共产党领导",
+        "correct": true,
+        "mastered": false,
+        "assessment": "原初诊错题经讲解后闭卷回忆正确，尚需隔日混合复测。"
+      },
+      {
+        "id": "2026-11-14-P00R-recall-integrations-1",
+        "date": "2026-11-14",
+        "lesson": "P00R",
+        "type": "closed_book_recall",
+        "question": "两个结合分别同什么相结合",
+        "userAnswer": "一、结合中国实际情况 二、结合中国优秀文化",
+        "fullyCorrect": false,
+        "conceptDirectionsCorrect": true,
+        "missingKeyQualifier": "传统",
+        "expected": [
+          "同中国具体实际相结合",
+          "同中华优秀传统文化相结合"
+        ],
+        "mastered": false,
+        "assessment": "第一项含义认可，规范补具体；第二项须补传统，不能以更宽泛的中国优秀文化替代中华优秀传统文化。"
+      },
+      {
+        "id": "2026-11-14-P00R-system-case-1",
+        "date": "2026-11-14",
+        "lesson": "P00R",
+        "type": "guided_followup",
+        "question": "统筹河流上下游左右岸关系，从整体统筹角度体现六个必须坚持哪项",
+        "userAnswer": "系统观念",
+        "correct": true,
+        "mastered": false
+      },
+      {
+        "id": "2026-11-14-P00R-green-case-1",
+        "date": "2026-11-14",
+        "lesson": "P00R",
+        "type": "guided_followup",
+        "question": "产业发展时降低资源消耗、减少污染、保护生态，对应新发展理念哪项",
+        "userAnswer": "绿色",
+        "correct": true,
+        "mastered": false
+      },
+      {
+        "id": "2026-11-14-P00R-recall-integrations-2",
+        "date": "2026-11-14",
+        "lesson": "P00R",
+        "type": "closed_book_recall",
+        "question": "第二个结合是把马克思主义基本原理同什么相结合",
+        "userAnswer": "一、中国的基本情况 二、中国优秀传统文化",
+        "correct": true,
+        "assessment": "同时回忆两项，第二项保留优秀和传统，核心含义正确；第一项含义认可。规范表述为同中国具体实际、同中华优秀传统文化相结合，不因中国与中华的近义表达机械判错。",
+        "mastered": false
+      }
+    ],
+    "nextLesson": "11月15日先无提示复习P00R，再进入P01思想形成发展与历史地位；五个现代化特色后续分块讲解",
+    "sourceFiles": {
+      "2026高端班讲义-非法(修正版).pdf": "E:\\考公资料\\金标尺\\讲义\\00-【讲义&其他资料-第一批已完】\\2026高端班讲义-非法(修正版).pdf",
+      "思维导图-非法.pdf": "E:\\考公资料\\金标尺\\讲义\\00-【讲义&其他资料-第一批已完】\\思维导图-非法.pdf",
+      "非法-考点带背.pdf": "E:\\考公资料\\金标尺\\讲义\\00-【讲义第二批】\\非法-考点带背.pdf",
+      "2026高端班学习计划表.pdf": "E:\\考公资料\\金标尺\\讲义\\00-【讲义&其他资料-第一批已完】\\2026高端班学习计划表.pdf"
+    },
+    "startedAt": "2026-11-14",
+    "teachingAdjustment": {
+      "dailyMinutes": 30,
+      "newPointsPerSession": "2—3个小知识点",
+      "method": "先解释含义与对应关系，再闭卷复述、换条件辨析；减少首次整组硬背",
+      "lawTimeUnchanged": 90,
+      "diagnosticNotMasteryRate": true
+    },
+    "lessonProgress": {
+      "P00R": {
+        "status": "instruction_covered_review_due",
+        "mastered": false,
+        "covered": [
+          "最本质特征、制度最大优势与民主政治本质特征三组对应",
+          "两个结合的中国现实与中华优秀传统文化区别",
+          "六个必须坚持中的系统观念与新发展理念中的绿色案例辨析",
+          "第二个结合须保留优秀、传统限定"
+        ],
+        "next": "11月15日无提示复习三组表述、两个结合及系统观念与绿色；随后P01形成发展与历史地位"
+      }
+    }
+  },
+  "planHistory": [
+    {
+      "reason": "用户明确改为每天两小时，恢复法律90分钟，政治30分钟",
+      "previousProfile": {
+        "exam": "事业编联考（按现有四川省属资料准备）",
+        "examDate": "2026-12-26",
+        "dateSource": "用户提供，未宣称已核实公告",
+        "minutesPerDay": 90,
+        "additionalTime": "用户可投入90分钟以上",
+        "scope": "法律专项"
+      },
+      "previousCombinedPlan": {
+        "version": "2026-11-14-law-politics-v1",
+        "startDate": "2026-11-14",
+        "endDate": "2026-12-25",
+        "examDate": "2026-12-26",
+        "dateSource": "用户提供，未宣称已核实公告",
+        "day1Politics": "仅入门诊断，可顺延；未学习未计分",
+        "days": [
+          {
+            "day": 1,
+            "date": "2026-11-14",
+            "lawRef": "M01—M03",
+            "lawTopic": "今日实际进度：M01、M02主干已讲；M03已到宣告失踪",
+            "lawTask": "保留已做练习；不重刷已会题，记录待复习的理由错误。",
+            "politicsId": "P00",
+            "politicsTopic": "导学与入门诊断",
+            "politicsSource": "目录＋政治入门诊断",
+            "politicsTask": "今天法律已超前；政治仅做5题摸底，可留到明天课前，不记已完成。",
+            "reviewDates": [],
+            "status": "in_progress",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 2,
+            "date": "2026-11-15",
+            "lawRef": "M03",
+            "lawTopic": "宣告失踪、宣告死亡",
+            "lawTask": "先回答失踪是否引起继承；再区分死亡宣告的条件、日期及撤销后果。",
+            "politicsId": "P01",
+            "politicsTopic": "新思想：形成发展和历史地位",
+            "politicsSource": "第三篇·第一章",
+            "politicsTask": "建立理论框架；区分形成发展、历史地位和常见提法。",
+            "reviewDates": [
+              "2026-11-14"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 3,
+            "date": "2026-11-16",
+            "lawRef": "M01—M03",
+            "lawTopic": "主体、行为效力、监护代理混测",
+            "lawTask": "做8道不提示规则的混合题，先辨主体，再给效力及理由。",
+            "politicsId": "P02",
+            "politicsTopic": "坚持党的全面领导",
+            "politicsSource": "第三篇·第二章",
+            "politicsTask": "整理领导地位、制度优势等对应表述，做4—6题辨析。",
+            "reviewDates": [
+              "2026-11-15"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 4,
+            "date": "2026-11-17",
+            "lawRef": "M04",
+            "lawTopic": "诉讼时效",
+            "lawTask": "画起算、中止、中断时间线；区分诉讼时效和除斥期间。",
+            "politicsId": "P03",
+            "politicsTopic": "新时代坚持和发展中国特色社会主义",
+            "politicsSource": "第三篇·第三章",
+            "politicsTask": "用时间线区分新时代、主要矛盾与相关理论表述。",
+            "reviewDates": [
+              "2026-11-16",
+              "2026-11-14"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 5,
+            "date": "2026-11-18",
+            "lawRef": "M05",
+            "lawTopic": "物权变动与占有",
+            "lawTask": "区分合同效力与物权变动；比较登记、交付。",
+            "politicsId": "P04",
+            "politicsTopic": "中国式现代化",
+            "politicsSource": "第三篇·第四章",
+            "politicsTask": "分清中国特色、本质要求、重大原则，避免张冠李戴。",
+            "reviewDates": [
+              "2026-11-17",
+              "2026-11-15"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 6,
+            "date": "2026-11-19",
+            "lawRef": "M06",
+            "lawTopic": "善意取得与抵押、质押、留置",
+            "lawTask": "用成立条件表和担保方式对照判断案例。",
+            "politicsId": "P05",
+            "politicsTopic": "坚持以人民为中心",
+            "politicsSource": "第三篇·第五章",
+            "politicsTask": "把人民立场与具体案例对应，练选择理由。",
+            "reviewDates": [
+              "2026-11-18",
+              "2026-11-16"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 7,
+            "date": "2026-11-20",
+            "lawRef": "M01—M06",
+            "lawTopic": "民法基础周测",
+            "lawTask": "限时8—10题；把错因分为规则、条件、主体、期限。",
+            "politicsId": "P06",
+            "politicsTopic": "全面深化改革开放＋周复习",
+            "politicsSource": "第三篇·第六章",
+            "politicsTask": "对照改革的目标、方法；回忆本周6张关键词卡。",
+            "reviewDates": [
+              "2026-11-19",
+              "2026-11-17"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 8,
+            "date": "2026-11-21",
+            "lawRef": "M07",
+            "lawTopic": "合同订立、成立与生效",
+            "lawTask": "区分要约、承诺及成立、生效；判断格式条款。",
+            "politicsId": "P07",
+            "politicsTopic": "全面依法治国",
+            "politicsSource": "第三篇·第七章",
+            "politicsTask": "区分理论总目标、原则与具体法律规则。",
+            "reviewDates": [
+              "2026-11-20",
+              "2026-11-18",
+              "2026-11-14"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 9,
+            "date": "2026-11-22",
+            "lawRef": "M07",
+            "lawTopic": "合同履行与债权债务转移",
+            "lawTask": "抓通知、同意及各方权利义务。",
+            "politicsId": "P08",
+            "politicsTopic": "全面从严治党",
+            "politicsSource": "第三篇·第八章",
+            "politicsTask": "梳理党的建设、纪律、作风、反腐相关概念。",
+            "reviewDates": [
+              "2026-11-21",
+              "2026-11-19",
+              "2026-11-15"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 10,
+            "date": "2026-11-23",
+            "lawRef": "M08",
+            "lawTopic": "违约、定金与保证",
+            "lawTask": "比较责任承担与适用条件，不只背数字。",
+            "politicsId": "P09",
+            "politicsTopic": "推动高质量发展",
+            "politicsSource": "第三篇·第九章对应节",
+            "politicsTask": "区分发展理念、发展格局、发展阶段及高质量发展。",
+            "reviewDates": [
+              "2026-11-22",
+              "2026-11-20",
+              "2026-11-16"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 11,
+            "date": "2026-11-24",
+            "lawRef": "M09",
+            "lawTopic": "侵权归责与救助",
+            "lawTask": "识别过错、推定过错和无过错责任的适用场景。",
+            "politicsId": "P10",
+            "politicsTopic": "全过程人民民主与文化强国",
+            "politicsSource": "第三篇·第九章对应节",
+            "politicsTask": "各抓一张核心框架卡；合计做4—6道对应辨析。",
+            "reviewDates": [
+              "2026-11-23",
+              "2026-11-21",
+              "2026-11-17"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 12,
+            "date": "2026-11-25",
+            "lawRef": "M10",
+            "lawTopic": "学校、公共场所及其他典型侵权",
+            "lawTask": "找责任主体、证明责任及免责条件。",
+            "politicsId": "P11",
+            "politicsTopic": "民生社会建设与生态文明",
+            "politicsSource": "第三篇·第九章对应节",
+            "politicsTask": "将目标、原则与案例配对，梳理相近词。",
+            "reviewDates": [
+              "2026-11-24",
+              "2026-11-22",
+              "2026-11-18"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 13,
+            "date": "2026-11-26",
+            "lawRef": "M11",
+            "lawTopic": "人格权、婚姻家庭",
+            "lawTask": "抓常见权利、夫妻财产与债务判断。",
+            "politicsId": "P12",
+            "politicsTopic": "教育科技人才与国家安全",
+            "politicsSource": "第三篇·第十、十一章",
+            "politicsTask": "各抓核心定位及关系，不把几个概念互相替换。",
+            "reviewDates": [
+              "2026-11-25",
+              "2026-11-23",
+              "2026-11-19"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 14,
+            "date": "2026-11-27",
+            "lawRef": "M11",
+            "lawTopic": "继承及民商法补充",
+            "lawTask": "用家庭关系图判断继承；合同侵权穿插复习4题。",
+            "politicsId": "P13",
+            "politicsTopic": "国防军队、统一与人类命运共同体",
+            "politicsSource": "第三篇·第十二至十四章",
+            "politicsTask": "先建三个主题的主干，每个主题练1—2道题。",
+            "reviewDates": [
+              "2026-11-26",
+              "2026-11-24",
+              "2026-11-20"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 15,
+            "date": "2026-11-28",
+            "lawRef": "M01—M11",
+            "lawTopic": "民法阶段测验",
+            "lawTask": "限时10—12题；选出最弱的两个知识点回炉。",
+            "politicsId": "P14",
+            "politicsTopic": "斗争精神、立场观点方法＋新思想复测",
+            "politicsSource": "第三篇·第十五、十六章",
+            "politicsTask": "区分六个必须坚持等提法；做6—8道阶段题。",
+            "reviewDates": [
+              "2026-11-27",
+              "2026-11-25",
+              "2026-11-21",
+              "2026-11-14"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 16,
+            "date": "2026-11-29",
+            "lawRef": "C01",
+            "lawTopic": "刑法适用与责任年龄、能力",
+            "lawTask": "比较民事能力和刑事责任能力，背条件与例外。",
+            "politicsId": "P15",
+            "politicsTopic": "马原导论与哲学基本问题",
+            "politicsSource": "第一篇·导论、哲学绪论",
+            "politicsTask": "辨理论构成、物质意识与思维存在的基本关系。",
+            "reviewDates": [
+              "2026-11-28",
+              "2026-11-26",
+              "2026-11-22",
+              "2026-11-15"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 17,
+            "date": "2026-11-30",
+            "lawRef": "C01",
+            "lawTopic": "故意、过失、不作为与因果关系",
+            "lawTask": "通过简短案例辨主观心理和作为义务。",
+            "politicsId": "P16",
+            "politicsTopic": "辩证唯物论",
+            "politicsSource": "第一篇·第二章第二节",
+            "politicsTask": "用客观条件与主观能动性的案例说明原理。",
+            "reviewDates": [
+              "2026-11-29",
+              "2026-11-27",
+              "2026-11-23",
+              "2026-11-16"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 18,
+            "date": "2026-12-01",
+            "lawRef": "C02",
+            "lawTopic": "正当防卫与紧急避险",
+            "lawTask": "依次判断起因、时间、对象、意图、限度。",
+            "politicsId": "P17",
+            "politicsTopic": "唯物辩证法：联系与发展",
+            "politicsSource": "第一篇·第二章第三节",
+            "politicsTask": "从材料中找联系、发展观点，不凭关键词机械选。",
+            "reviewDates": [
+              "2026-11-30",
+              "2026-11-28",
+              "2026-11-24",
+              "2026-11-17"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 19,
+            "date": "2026-12-02",
+            "lawRef": "C02",
+            "lawTopic": "犯罪形态与共同犯罪",
+            "lawTask": "比较预备、未遂、中止；区分共同故意与共同过失。",
+            "politicsId": "P18",
+            "politicsTopic": "唯物辩证法：矛盾",
+            "politicsSource": "第一篇·第二章第三节",
+            "politicsTask": "区分普遍特殊、主次矛盾及矛盾主次方面。",
+            "reviewDates": [
+              "2026-12-01",
+              "2026-11-29",
+              "2026-11-25",
+              "2026-11-18"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 20,
+            "date": "2026-12-03",
+            "lawRef": "C03",
+            "lawTopic": "刑罚与量刑",
+            "lawTask": "归纳自首、坦白、立功及从宽、从重条件。",
+            "politicsId": "P19",
+            "politicsTopic": "唯物辩证法：量变质变等规律",
+            "politicsSource": "第一篇·第二章第三节",
+            "politicsTask": "按条件、过程、结果匹配案例，辨绝对化选项。",
+            "reviewDates": [
+              "2026-12-02",
+              "2026-11-30",
+              "2026-11-26",
+              "2026-11-19"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 21,
+            "date": "2026-12-04",
+            "lawRef": "C04",
+            "lawTopic": "缓刑、假释与撤销条件",
+            "lawTask": "重点复核缓刑和假释法条表述不同；总则混测6题。",
+            "politicsId": "P20",
+            "politicsTopic": "认识论",
+            "politicsSource": "第一篇·第二章第四节",
+            "politicsTask": "区分实践与认识、真理与检验标准。",
+            "reviewDates": [
+              "2026-12-03",
+              "2026-12-01",
+              "2026-11-27",
+              "2026-11-20"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 22,
+            "date": "2026-12-05",
+            "lawRef": "C05",
+            "lawTopic": "重要财产犯罪",
+            "lawTask": "比较盗窃、诈骗、侵占、抢夺、抢劫的关键事实。",
+            "politicsId": "P21",
+            "politicsTopic": "唯物史观",
+            "politicsSource": "第一篇·第二章第五节",
+            "politicsTask": "比较社会存在意识、社会基本矛盾、人民群众作用。",
+            "reviewDates": [
+              "2026-12-04",
+              "2026-12-02",
+              "2026-11-28",
+              "2026-11-21"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 23,
+            "date": "2026-12-06",
+            "lawRef": "C06",
+            "lawTopic": "公共安全与重要人身犯罪",
+            "lawTask": "优先主干罪名；用行为、对象、主观心理定位。",
+            "politicsId": "P22",
+            "politicsTopic": "科学社会主义＋马原复测",
+            "politicsSource": "第一篇·第三章及前章复习",
+            "politicsTask": "以主讲义框架为范围；做8道新题，解释依据。",
+            "reviewDates": [
+              "2026-12-05",
+              "2026-12-03",
+              "2026-11-29",
+              "2026-11-22"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 24,
+            "date": "2026-12-07",
+            "lawRef": "C07",
+            "lawTopic": "职务犯罪及相关新解释",
+            "lawTask": "区别贪污受贿、挪用、渎职，按考试适用截止日复核。",
+            "politicsId": "P23",
+            "politicsTopic": "毛泽东思想：形成与新民主主义革命",
+            "politicsSource": "第二篇·导论、第二章",
+            "politicsTask": "建立形成发展及革命理论的时间线和关系图。",
+            "reviewDates": [
+              "2026-12-06",
+              "2026-12-04",
+              "2026-11-30",
+              "2026-11-23"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 25,
+            "date": "2026-12-08",
+            "lawRef": "C01—C07",
+            "lawTopic": "刑法阶段测验与分则查漏",
+            "lawTask": "10—12题混测；对照原讲义目录补重要遗漏。",
+            "politicsId": "P24",
+            "politicsTopic": "毛泽东思想：改造建设与活的灵魂",
+            "politicsSource": "第二篇·第二章",
+            "politicsTask": "区分革命、改造、建设；回忆活的灵魂。",
+            "reviewDates": [
+              "2026-12-07",
+              "2026-12-05",
+              "2026-12-01",
+              "2026-11-24"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 26,
+            "date": "2026-12-09",
+            "lawRef": "A01—A02",
+            "lawTopic": "行政主体、行为与许可",
+            "lawTask": "区分主体资格、行为类别、许可与处罚。",
+            "politicsId": "P25",
+            "politicsTopic": "邓小平理论",
+            "politicsSource": "第二篇·第三章",
+            "politicsTask": "按回答的问题、基本路线、发展战略等整理。",
+            "reviewDates": [
+              "2026-12-08",
+              "2026-12-06",
+              "2026-12-02",
+              "2026-11-25"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 27,
+            "date": "2026-12-10",
+            "lawRef": "A03",
+            "lawTopic": "行政处罚实体规则",
+            "lawTask": "比较不予处罚、从轻、减轻及追责期限。",
+            "politicsId": "P26",
+            "politicsTopic": "三个代表重要思想与科学发展观",
+            "politicsSource": "第二篇·第四、第五章",
+            "politicsTask": "各建一张定位、内容、意义卡，练对应关系。",
+            "reviewDates": [
+              "2026-12-09",
+              "2026-12-07",
+              "2026-12-03",
+              "2026-11-26"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 28,
+            "date": "2026-12-11",
+            "lawRef": "A04",
+            "lawTopic": "行政处罚程序",
+            "lawTask": "区分简易、一般、听证与决定、收缴程序。",
+            "politicsId": "P27",
+            "politicsTopic": "政治理论第一轮综合测验",
+            "politicsSource": "前三篇＋对应带背",
+            "politicsTask": "12题限时，分别记录新思想、马原、毛中特错因。",
+            "reviewDates": [
+              "2026-12-10",
+              "2026-12-08",
+              "2026-12-04",
+              "2026-11-27"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 29,
+            "date": "2026-12-12",
+            "lawRef": "A05",
+            "lawTopic": "行政强制",
+            "lawTask": "区分强制措施和强制执行，按主体与程序判断。",
+            "politicsId": "T01",
+            "politicsTopic": "时政核对：重要会议与中央部署",
+            "politicsSource": "学习当天核实的官方发布",
+            "politicsTask": "记录事件日期、发布日期、正式名称和核心表述；不凭记忆出题。",
+            "reviewDates": [
+              "2026-12-11",
+              "2026-12-09",
+              "2026-12-05",
+              "2026-11-28"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 30,
+            "date": "2026-12-13",
+            "lawRef": "A06",
+            "lawTopic": "行政复议与行政诉讼",
+            "lawTask": "抓受案、机关、期限与复议前置，避免只背数字。",
+            "politicsId": "T02",
+            "politicsTopic": "时政核对：经济社会重要政策",
+            "politicsSource": "学习当天核实的官方发布",
+            "politicsTask": "区分政策目标、适用范围、公布与施行日期。",
+            "reviewDates": [
+              "2026-12-12",
+              "2026-12-10",
+              "2026-12-06",
+              "2026-11-29"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 31,
+            "date": "2026-12-14",
+            "lawRef": "A01—A06",
+            "lawTopic": "行政法测验与条例复核",
+            "lawTask": "10题综合；复核讲义涉及的2026行政复议实施条例。",
+            "politicsId": "T03",
+            "politicsTopic": "时政核对：科教文化生态民生",
+            "politicsSource": "学习当天核实的官方发布",
+            "politicsTask": "将新事实放回理论框架，剔除已过时材料。",
+            "reviewDates": [
+              "2026-12-13",
+              "2026-12-11",
+              "2026-12-07",
+              "2026-11-30"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 32,
+            "date": "2026-12-15",
+            "lawRef": "原讲义",
+            "lawTopic": "宪法：基本制度、公民权利义务",
+            "lawTask": "整理权利义务分类及法律保留等基础判断。",
+            "politicsId": "P28",
+            "politicsTopic": "理论与法律交叉辨析",
+            "politicsSource": "第三篇·依法治国＋法律笔记",
+            "politicsTask": "区分政治理论概括与具体法条条件，做6题交叉练习。",
+            "reviewDates": [
+              "2026-12-14",
+              "2026-12-12",
+              "2026-12-08",
+              "2026-12-01"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 33,
+            "date": "2026-12-16",
+            "lawRef": "原讲义",
+            "lawTopic": "宪法：国家机构",
+            "lawTask": "按产生、职权、关系画对照表。",
+            "politicsId": "P29",
+            "politicsTopic": "理论发展与相关党史时间线",
+            "politicsSource": "第二篇及新思想形成发展章",
+            "politicsTask": "只补与理论形成发展相关的主线，核实年代事件。",
+            "reviewDates": [
+              "2026-12-15",
+              "2026-12-13",
+              "2026-12-09",
+              "2026-12-02"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 34,
+            "date": "2026-12-17",
+            "lawRef": "原讲义",
+            "lawTopic": "劳动、社保、劳动争议",
+            "lawTask": "抓劳动关系、合同、仲裁与社保核心条件。",
+            "politicsId": "P30",
+            "politicsTopic": "关键词与相近提法对照",
+            "politicsSource": "本人错题卡＋官方核对",
+            "politicsTask": "对照总体布局、战略布局、理念、方法论等，找混淆来源。",
+            "reviewDates": [
+              "2026-12-16",
+              "2026-12-14",
+              "2026-12-10",
+              "2026-12-03"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 35,
+            "date": "2026-12-18",
+            "lawRef": "原讲义",
+            "lawTopic": "监察、公务员与政务处分",
+            "lawTask": "按适用对象、机关、程序、责任分类。",
+            "politicsId": "P31",
+            "politicsTopic": "政治理论阶段混测",
+            "politicsSource": "已学三模块＋已核实时政",
+            "politicsTask": "12题限时；按错因安排最后一周。",
+            "reviewDates": [
+              "2026-12-17",
+              "2026-12-15",
+              "2026-12-11",
+              "2026-12-04"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 36,
+            "date": "2026-12-19",
+            "lawRef": "全法律",
+            "lawTopic": "法律专项综合测验",
+            "lawTask": "12题限时；复盘每个错项，不重复背同一套答案。",
+            "politicsId": "R01",
+            "politicsTopic": "错题回炉：基础与绝对化表述",
+            "politicsSource": "本人政治错题卡",
+            "politicsTask": "重做错题变式；说明错误选项错在哪里。",
+            "reviewDates": [
+              "2026-12-18",
+              "2026-12-16",
+              "2026-12-12",
+              "2026-12-05"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 37,
+            "date": "2026-12-20",
+            "lawRef": "薄弱点",
+            "lawTopic": "民法弱项复习",
+            "lawTask": "按记录选两个最弱主题，做新变式，不新增偏题。",
+            "politicsId": "R02",
+            "politicsTopic": "新思想薄弱点复习",
+            "politicsSource": "本人新思想错题卡",
+            "politicsTask": "选最弱两个主题，少讲新内容，多做无提示回忆。",
+            "reviewDates": [
+              "2026-12-19",
+              "2026-12-17",
+              "2026-12-13",
+              "2026-12-06"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 38,
+            "date": "2026-12-21",
+            "lawRef": "薄弱点",
+            "lawTopic": "刑法弱项复习",
+            "lawTask": "重点复测主观心理、形态、防卫与罪名区别。",
+            "politicsId": "R03",
+            "politicsTopic": "马原薄弱点复习",
+            "politicsSource": "本人马原错题卡",
+            "politicsTask": "选最弱两个原理，练材料和原理的双向匹配。",
+            "reviewDates": [
+              "2026-12-20",
+              "2026-12-18",
+              "2026-12-14",
+              "2026-12-07"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 39,
+            "date": "2026-12-22",
+            "lawRef": "薄弱点",
+            "lawTopic": "行政法及小法弱项复习",
+            "lawTask": "复核主体、期限、程序与易混机关。",
+            "politicsId": "R04",
+            "politicsTopic": "毛中特与时政薄弱点复习",
+            "politicsSource": "本人错题卡＋已核实时政",
+            "politicsTask": "优先主线、对应关系和重要新表述。",
+            "reviewDates": [
+              "2026-12-21",
+              "2026-12-19",
+              "2026-12-15",
+              "2026-12-08"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 40,
+            "date": "2026-12-23",
+            "lawRef": "全法律",
+            "lawTopic": "条件、数字与机关总复盘",
+            "lawTask": "做一页条件卡，逐项说明数字对应的制度。",
+            "politicsId": "R05",
+            "politicsTopic": "时间线、数字和提法总复盘",
+            "politicsSource": "政治关键词卡",
+            "politicsTask": "每项说明属于哪一理论体系，不混背孤立数字。",
+            "reviewDates": [
+              "2026-12-22",
+              "2026-12-20",
+              "2026-12-16",
+              "2026-12-09"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 41,
+            "date": "2026-12-24",
+            "lawRef": "全法律",
+            "lawTopic": "考前法律专项混测",
+            "lawTask": "12题限时；只处理暴露出的重要缺口。",
+            "politicsId": "R06",
+            "politicsTopic": "考前政治专项混测",
+            "politicsSource": "新的综合题",
+            "politicsTask": "12题限时，不把熟悉原题的正确率当掌握率。",
+            "reviewDates": [
+              "2026-12-23",
+              "2026-12-21",
+              "2026-12-17",
+              "2026-12-10"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          },
+          {
+            "day": 42,
+            "date": "2026-12-25",
+            "lawRef": "全法律",
+            "lawTopic": "考前轻复习",
+            "lawTask": "回看错题与条件卡，最多做6—8道短题，不扩展偏难内容。",
+            "politicsId": "R07",
+            "politicsTopic": "考前轻复习",
+            "politicsSource": "最终12张关键词卡",
+            "politicsTask": "口头复述核心关系，回看高频错项，不追偏题。",
+            "reviewDates": [
+              "2026-12-24",
+              "2026-12-22",
+              "2026-12-18",
+              "2026-12-11"
+            ],
+            "status": "not_started",
+            "politicsStatus": "not_started",
+            "minutes": {
+              "law": 40,
+              "politics": 40,
+              "review": 10
+            }
+          }
+        ],
+        "reviewOffsets": [
+          1,
+          3,
+          7,
+          14
+        ],
+        "priorityBasis": "本地新讲义目录及配套历史考情安排，非本次题量预测",
+        "futureQuestionSets": "按学习进度准备，未将未来日测或模拟题记为已完成"
+      }
+    }
+  ],
+  "dailyExports": {
+    "2026-11-14": {
+      "format": "Markdown",
+      "files": [
+        "C:\\Users\\Admin\\Documents\\ChatGPT\\other 2\\output\\法律学习_12月26日\\每日复盘\\2026-11-14\\法律_M01_权利能力与行为能力.md",
+        "C:\\Users\\Admin\\Documents\\ChatGPT\\other 2\\output\\法律学习_12月26日\\每日复盘\\2026-11-14\\法律_M02_民事法律行为效力.md",
+        "C:\\Users\\Admin\\Documents\\ChatGPT\\other 2\\output\\法律学习_12月26日\\每日复盘\\2026-11-14\\法律_M03_监护代理法人宣告.md",
+        "C:\\Users\\Admin\\Documents\\ChatGPT\\other 2\\output\\法律学习_12月26日\\每日复盘\\2026-11-14\\02_政治理论知识点.md",
+        "C:\\Users\\Admin\\Documents\\ChatGPT\\other 2\\output\\法律学习_12月26日\\每日复盘\\2026-11-14\\01_法律知识点总复习.md",
+        "C:\\Users\\Admin\\Documents\\ChatGPT\\other 2\\output\\法律学习_12月26日\\每日复盘\\2026-11-14\\00_阅读顺序与复习清单.md"
+      ],
+      "scope": [
+        "M01",
+        "M02",
+        "M03",
+        "政治入门与概览"
+      ],
+      "masteryClaim": false,
+      "archivedFiles": [
+        "E:\\文档\\公考学习\\复习索引\\2026-11-14_阅读顺序与复习清单.md",
+        "E:\\文档\\公考学习\\法律\\每日复盘\\2026-11-14\\01_法律知识点总复习.md",
+        "E:\\文档\\公考学习\\政治理论\\每日复盘\\2026-11-14\\02_政治理论知识点.md",
+        "E:\\文档\\公考学习\\法律\\每日复盘\\2026-11-14\\法律_M01_权利能力与行为能力.md",
+        "E:\\文档\\公考学习\\法律\\每日复盘\\2026-11-14\\法律_M02_民事法律行为效力.md",
+        "E:\\文档\\公考学习\\法律\\每日复盘\\2026-11-14\\法律_M03_监护代理法人宣告.md"
+      ]
+    }
+  },
+  "documentStoragePreference": {
+    "root": "E:\\文档",
+    "classification": "按主题、用途分类；每日学习文档按学科与日期归档",
+    "effectiveDate": "2026-11-14",
+    "archivePaths": {
+      "00_阅读顺序与复习清单.md": "E:\\文档\\公考学习\\复习索引\\2026-11-14_阅读顺序与复习清单.md",
+      "01_法律知识点总复习.md": "E:\\文档\\公考学习\\法律\\每日复盘\\2026-11-14\\01_法律知识点总复习.md",
+      "02_政治理论知识点.md": "E:\\文档\\公考学习\\政治理论\\每日复盘\\2026-11-14\\02_政治理论知识点.md",
+      "法律_M01_权利能力与行为能力.md": "E:\\文档\\公考学习\\法律\\每日复盘\\2026-11-14\\法律_M01_权利能力与行为能力.md",
+      "法律_M02_民事法律行为效力.md": "E:\\文档\\公考学习\\法律\\每日复盘\\2026-11-14\\法律_M02_民事法律行为效力.md",
+      "法律_M03_监护代理法人宣告.md": "E:\\文档\\公考学习\\法律\\每日复盘\\2026-11-14\\法律_M03_监护代理法人宣告.md"
+    }
+  }
+}
