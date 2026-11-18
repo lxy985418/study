@@ -8578,6 +8578,29 @@
       "authoritativeRelativePath": "学习记录/学习记录.json",
       "remoteStatus": "synced",
       "masteryClaim": false
+    },
+    "2026-11-18-daily-knowledge-summaries": {
+      "format": "Markdown",
+      "scopeDates": [
+        "2026-11-14",
+        "2026-11-18"
+      ],
+      "indexRelativePath": "复习索引/每日知识点总结索引.md",
+      "files": [
+        "法律/每日复盘/2026-11-14/知识点总结.md",
+        "政治理论/每日复盘/2026-11-14/知识点总结.md",
+        "法律/每日复盘/2026-11-15/知识点总结.md",
+        "政治理论/每日复盘/2026-11-15/知识点总结.md",
+        "法律/每日复盘/2026-11-16/知识点总结.md",
+        "政治理论/每日复盘/2026-11-16/知识点总结.md",
+        "法律/每日复盘/2026-11-17/知识点总结.md",
+        "政治理论/每日复盘/2026-11-17/知识点总结.md",
+        "法律/每日复盘/2026-11-18/知识点总结.md",
+        "政治理论/每日复盘/2026-11-18/知识点总结.md"
+      ],
+      "remoteStatus": "pending_push",
+      "newAnswersAdded": 0,
+      "masteryChanged": false
     }
   },
   "documentStoragePreference": {
