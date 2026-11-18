@@ -339,7 +339,7 @@
       "mastered": false
     }
   ],
-  "nextLesson": "M06房屋未登记误答已取得，已订正；第9题汽车抵押设立及登记对抗待答；P03尚未授课。",
+  "nextLesson": "M06第9题①汽车抵押权设立及理由正确，第②问登记对抗仍待答，整题未完成；P03尚未授课。",
   "days": [
     {
       "day": 1,
@@ -4161,6 +4161,28 @@
       "conclusionCorrect": false,
       "reasonComplete": false,
       "assessment": "题设明确房屋抵押合同已生效但尚未登记，乙尚未取得房屋抵押权。原答取得了错误，办理抵押表述未区分订立合同与完成抵押登记；补充合同生效与登记设权的区别，不推定为粗心。保留原答，讲解一次，再以汽车抵押变式检查并安排隔日复测。"
+    },
+    {
+      "id": "2026-11-18-M06-practice-9",
+      "date": "2026-11-18",
+      "lesson": "M06",
+      "type": "post_correction_transfer",
+      "question": "甲以自己有权处分的汽车向乙提供抵押担保，双方依法订立的书面抵押合同已经生效，但尚未办理抵押登记。①乙是否已经取得汽车抵押权？②该未经登记的抵押权能否对抗善意第三人？",
+      "userAnswer": "取得了，动产是抵押合同生效时",
+      "mastered": false,
+      "status": "awaiting_remaining_answer",
+      "conclusionCorrect": null,
+      "reasonComplete": null,
+      "answeredParts": {
+        "1": {
+          "conclusionCorrect": true,
+          "reasonComplete": true
+        }
+      },
+      "unansweredParts": [
+        2
+      ],
+      "assessment": "只作答第①问：汽车抵押权已取得，因动产抵押合同已生效，结论和理由正确。第②问能否对抗善意第三人尚未作答，未判错、未代答、未记整题完成；补答更新同题，不重复计数。"
     }
   ],
   "lessonProgress": {
@@ -4644,12 +4666,22 @@
         14,
         17
       ],
-      "next": "M06房屋未登记误答已取得，已订正；第9题汽车抵押设立及登记对抗待答",
+      "next": "M06第9题①汽车抵押权设立及理由正确，第②问登记对抗仍待答，整题未完成",
       "lastApplication": {
-        "questionId": "2026-11-18-M06-practice-8",
-        "conclusionCorrect": false,
-        "reasonComplete": false,
-        "assessment": "题设明确房屋抵押合同已生效但尚未登记，乙尚未取得房屋抵押权。原答取得了错误，办理抵押表述未区分订立合同与完成抵押登记；补充合同生效与登记设权的区别，不推定为粗心。保留原答，讲解一次，再以汽车抵押变式检查并安排隔日复测。",
+        "questionId": "2026-11-18-M06-practice-9",
+        "status": "awaiting_remaining_answer",
+        "conclusionCorrect": null,
+        "reasonComplete": null,
+        "answeredParts": {
+          "1": {
+            "conclusionCorrect": true,
+            "reasonComplete": true
+          }
+        },
+        "unansweredParts": [
+          2
+        ],
+        "assessment": "只作答第①问：汽车抵押权已取得，因动产抵押合同已生效，结论和理由正确。第②问能否对抗善意第三人尚未作答，未判错、未代答、未记整题完成；补答更新同题，不重复计数。",
         "mastered": false
       }
     }
@@ -9167,7 +9199,7 @@
     },
     "2026-11-18": {
       "status": "in_progress",
-      "answeredQuestions": 9,
+      "answeredQuestions": 10,
       "plannedMinutes": 150,
       "plannedAllocation": {
         "law": 90,
@@ -9186,13 +9218,19 @@
         ],
         "newLessonProtection": "复习不在同一表述上反复至正确而挤占新课；本次优先购买权已答对，直接进入M06。"
       },
-      "lastQuestionId": "2026-11-18-M06-practice-8",
-      "currentPhase": "M06房屋未登记误答已取得，已订正；第9题汽车抵押设立及登记对抗待答",
+      "lastQuestionId": "2026-11-18-M06-practice-9",
+      "currentPhase": "M06第9题①汽车抵押权设立及理由正确，第②问登记对抗仍待答，整题未完成",
       "pendingQuestion": {
         "lesson": "M06",
-        "status": "awaiting_answer",
+        "status": "awaiting_remaining_answer",
         "id": "2026-11-18-M06-practice-9",
         "type": "post_correction_transfer",
+        "answeredParts": [
+          1
+        ],
+        "remainingParts": [
+          2
+        ],
         "question": "甲以自己有权处分的汽车向乙提供抵押担保，双方依法订立的书面抵押合同已经生效，但尚未办理抵押登记。①乙是否已经取得汽车抵押权？②该未经登记的抵押权能否对抗善意第三人？"
       },
       "nextQuestion": "2026-11-18-M06-practice-9",
@@ -9242,9 +9280,9 @@
     "timezone": "Asia/Hong_Kong",
     "lesson": "M06",
     "questionId": "2026-11-18-M06-practice-9",
-    "questionStatus": "awaiting_answer",
+    "questionStatus": "awaiting_remaining_answer",
     "question": "甲以自己有权处分的汽车向乙提供抵押担保，双方依法订立的书面抵押合同已经生效，但尚未办理抵押登记。①乙是否已经取得汽车抵押权？②该未经登记的抵押权能否对抗善意第三人？",
-    "currentActivity": "M06房屋未登记误答已取得，已订正；第9题汽车抵押设立及登记对抗待答",
+    "currentActivity": "M06第9题①汽车抵押权设立及理由正确，第②问登记对抗仍待答，整题未完成",
     "politicsNext": "P03，尚未授课"
   },
   "syncProject": {
