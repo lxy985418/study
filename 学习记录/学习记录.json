@@ -376,7 +376,7 @@
       "mastered": false
     }
   ],
-  "nextLesson": "P03不平衡与不充分两项判断正确，已讲五位一体与四个全面；第3题建设领域应用待答",
+  "nextLesson": "P03生态文明建设应用正确；第4题四个全面情境应用待答",
   "days": [
     {
       "day": 1,
@@ -4323,6 +4323,18 @@
       "part1Correct": true,
       "part2Correct": true,
       "assessment": "两项情境辨析均正确：城乡资源差距侧重不平衡，总体医疗服务能力不足侧重不充分。按题目要求判断即可，不因未额外展开理由扣错；后续检查间隔保持与综合材料。"
+    },
+    {
+      "id": "2026-11-19-P03-practice-3",
+      "date": "2026-11-19",
+      "lesson": "P03",
+      "type": "guided_application",
+      "question": "某地推进污染防治、湿地保护和生态修复。放在五位一体总体布局中，这些措施最直接属于哪一项建设？",
+      "userAnswer": "生态文明建设",
+      "mastered": false,
+      "conclusionCorrect": true,
+      "reasonRequired": false,
+      "assessment": "正确按五位一体设问判断生态文明建设，没有用新发展理念绿色替代建设领域。首次应用正确，后续仍检验组别辨析与间隔保持。"
     }
   ],
   "lessonProgress": {
@@ -4839,14 +4851,12 @@
         "https://www.12371.cn/2021/08/04/ARTI1628057805682379.shtml",
         "https://www.moe.gov.cn/jyb_xwfb/s6052/moe_838/202111/t20211116_580248.html"
       ],
-      "next": "P03不平衡与不充分两项判断正确，已讲五位一体与四个全面；第3题建设领域应用待答",
+      "next": "P03生态文明建设应用正确；第4题四个全面情境应用待答",
       "lastApplication": {
-        "questionId": "2026-11-19-P03-practice-2",
+        "questionId": "2026-11-19-P03-practice-3",
         "conclusionCorrect": true,
         "reasonRequired": false,
-        "part1Correct": true,
-        "part2Correct": true,
-        "assessment": "两项情境辨析均正确：城乡资源差距侧重不平衡，总体医疗服务能力不足侧重不充分。按题目要求判断即可，不因未额外展开理由扣错；后续检查间隔保持与综合材料。",
+        "assessment": "正确按五位一体设问判断生态文明建设，没有用新发展理念绿色替代建设领域。首次应用正确，后续仍检验组别辨析与间隔保持。",
         "mastered": false
       },
       "sourceArticles": []
@@ -6891,9 +6901,21 @@
         "part1Correct": true,
         "part2Correct": true,
         "assessment": "两项情境辨析均正确：城乡资源差距侧重不平衡，总体医疗服务能力不足侧重不充分。按题目要求判断即可，不因未额外展开理由扣错；后续检查间隔保持与综合材料。"
+      },
+      {
+        "id": "2026-11-19-P03-practice-3",
+        "date": "2026-11-19",
+        "lesson": "P03",
+        "type": "guided_application",
+        "question": "某地推进污染防治、湿地保护和生态修复。放在五位一体总体布局中，这些措施最直接属于哪一项建设？",
+        "userAnswer": "生态文明建设",
+        "mastered": false,
+        "conclusionCorrect": true,
+        "reasonRequired": false,
+        "assessment": "正确按五位一体设问判断生态文明建设，没有用新发展理念绿色替代建设领域。首次应用正确，后续仍检验组别辨析与间隔保持。"
       }
     ],
-    "nextLesson": "P03不平衡与不充分两项判断正确，已讲五位一体与四个全面；第3题建设领域应用待答",
+    "nextLesson": "P03生态文明建设应用正确；第4题四个全面情境应用待答",
     "sourceFiles": {
       "2026高端班讲义-非法(修正版).pdf": "E:\\考公资料\\金标尺\\讲义\\00-【讲义&其他资料-第一批已完】\\2026高端班讲义-非法(修正版).pdf",
       "思维导图-非法.pdf": "E:\\考公资料\\金标尺\\讲义\\00-【讲义&其他资料-第一批已完】\\思维导图-非法.pdf",
@@ -6940,14 +6962,12 @@
           "https://www.12371.cn/2021/08/04/ARTI1628057805682379.shtml",
           "https://www.moe.gov.cn/jyb_xwfb/s6052/moe_838/202111/t20211116_580248.html"
         ],
-        "next": "P03不平衡与不充分两项判断正确，已讲五位一体与四个全面；第3题建设领域应用待答",
+        "next": "P03生态文明建设应用正确；第4题四个全面情境应用待答",
         "lastApplication": {
-          "questionId": "2026-11-19-P03-practice-2",
+          "questionId": "2026-11-19-P03-practice-3",
           "conclusionCorrect": true,
           "reasonRequired": false,
-          "part1Correct": true,
-          "part2Correct": true,
-          "assessment": "两项情境辨析均正确：城乡资源差距侧重不平衡，总体医疗服务能力不足侧重不充分。按题目要求判断即可，不因未额外展开理由扣错；后续检查间隔保持与综合材料。",
+          "assessment": "正确按五位一体设问判断生态文明建设，没有用新发展理念绿色替代建设领域。首次应用正确，后续仍检验组别辨析与间隔保持。",
           "mastered": false
         },
         "sourceArticles": []
@@ -9465,7 +9485,7 @@
     },
     "2026-11-19": {
       "status": "in_progress",
-      "answeredQuestions": 7,
+      "answeredQuestions": 8,
       "plannedMinutes": 150,
       "plannedAllocation": {
         "law": 90,
@@ -9473,16 +9493,16 @@
       },
       "actualMinutes": null,
       "mastered": false,
-      "lastQuestionId": "2026-11-19-P03-practice-2",
-      "currentPhase": "P03不平衡与不充分两项判断正确，已讲五位一体与四个全面；第3题建设领域应用待答",
+      "lastQuestionId": "2026-11-19-P03-practice-3",
+      "currentPhase": "P03生态文明建设应用正确；第4题四个全面情境应用待答",
       "pendingQuestion": {
         "lesson": "P03",
         "status": "awaiting_answer",
-        "id": "2026-11-19-P03-practice-3",
+        "id": "2026-11-19-P03-practice-4",
         "type": "guided_application",
-        "question": "某地推进污染防治、湿地保护和生态修复。放在五位一体总体布局中，这些措施最直接属于哪一项建设？"
+        "question": "某地完善法律规范体系，推进严格规范公正文明执法，提高依法治理水平。从四个全面战略布局看，最直接对应哪一项？"
       },
-      "nextQuestion": "2026-11-19-P03-practice-3",
+      "nextQuestion": "2026-11-19-P03-practice-4",
       "carryForward": {
         "fromDate": "2026-11-18",
         "outstandingMinutesUnknown": true,
@@ -9533,10 +9553,10 @@
     "asOf": "2026-11-19",
     "timezone": "Asia/Hong_Kong",
     "lesson": "P03",
-    "questionId": "2026-11-19-P03-practice-3",
+    "questionId": "2026-11-19-P03-practice-4",
     "questionStatus": "awaiting_answer",
-    "question": "某地推进污染防治、湿地保护和生态修复。放在五位一体总体布局中，这些措施最直接属于哪一项建设？",
-    "currentActivity": "P03不平衡与不充分两项判断正确，已讲五位一体与四个全面；第3题建设领域应用待答",
+    "question": "某地完善法律规范体系，推进严格规范公正文明执法，提高依法治理水平。从四个全面战略布局看，最直接对应哪一项？",
+    "currentActivity": "P03生态文明建设应用正确；第4题四个全面情境应用待答",
     "politicsNext": "P03第1题，已讲第一小节尚未作答"
   },
   "syncProject": {
