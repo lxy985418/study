@@ -376,7 +376,7 @@
       "mastered": false
     }
   ],
-  "nextLesson": "P03第1题判断与理由正确；第2题不平衡与不充分情境辨析待答",
+  "nextLesson": "P03不平衡与不充分两项判断正确，已讲五位一体与四个全面；第3题建设领域应用待答",
   "days": [
     {
       "day": 1,
@@ -4309,6 +4309,20 @@
       "conclusionCorrect": true,
       "reasonComplete": true,
       "assessment": "首次应用判断和理由正确，指出我国处于并将长期处于社会主义初级阶段，核心含义完整，口语省略没有变不扣错。补充主要矛盾变化与历史阶段判断分开；不将一次引导应用记为长期掌握。"
+    },
+    {
+      "id": "2026-11-19-P03-practice-2",
+      "date": "2026-11-19",
+      "lesson": "P03",
+      "type": "guided_application",
+      "question": "分别判断主要侧重发展不平衡还是发展不充分：①同一地区城乡之间的优质教育、医疗资源差距明显；②某地总体医疗服务能力不足，难以满足群众就医需要，题目不强调地区之间的差距。",
+      "userAnswer": "不平衡\n不充分",
+      "mastered": false,
+      "conclusionCorrect": true,
+      "reasonRequired": false,
+      "part1Correct": true,
+      "part2Correct": true,
+      "assessment": "两项情境辨析均正确：城乡资源差距侧重不平衡，总体医疗服务能力不足侧重不充分。按题目要求判断即可，不因未额外展开理由扣错；后续检查间隔保持与综合材料。"
     }
   ],
   "lessonProgress": {
@@ -4813,21 +4827,26 @@
       "covered": [
         "新时代社会主要矛盾：人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾",
         "不平衡强调结构、地区等差距，不充分强调发展仍有不足与短板，二者相互联系",
-        "社会主要矛盾变化不等于走出初级阶段；初级阶段基本国情及世界最大发展中国家国际地位没有变"
+        "社会主要矛盾变化不等于走出初级阶段；初级阶段基本国情及世界最大发展中国家国际地位没有变",
+        "五位一体总体布局：经济建设、政治建设、文化建设、社会建设、生态文明建设",
+        "四个全面战略布局：全面建设社会主义现代化国家、全面深化改革、全面依法治国、全面从严治党；与五位一体、五大发展理念分别判断"
       ],
       "pending": [
         "第1题两个没有变应用",
         "本模块其余章节尚未展开"
       ],
       "sources": [
-        "https://www.12371.cn/2021/08/04/ARTI1628057805682379.shtml"
+        "https://www.12371.cn/2021/08/04/ARTI1628057805682379.shtml",
+        "https://www.moe.gov.cn/jyb_xwfb/s6052/moe_838/202111/t20211116_580248.html"
       ],
-      "next": "P03第1题判断与理由正确；第2题不平衡与不充分情境辨析待答",
+      "next": "P03不平衡与不充分两项判断正确，已讲五位一体与四个全面；第3题建设领域应用待答",
       "lastApplication": {
-        "questionId": "2026-11-19-P03-practice-1",
+        "questionId": "2026-11-19-P03-practice-2",
         "conclusionCorrect": true,
-        "reasonComplete": true,
-        "assessment": "首次应用判断和理由正确，指出我国处于并将长期处于社会主义初级阶段，核心含义完整，口语省略没有变不扣错。补充主要矛盾变化与历史阶段判断分开；不将一次引导应用记为长期掌握。",
+        "reasonRequired": false,
+        "part1Correct": true,
+        "part2Correct": true,
+        "assessment": "两项情境辨析均正确：城乡资源差距侧重不平衡，总体医疗服务能力不足侧重不充分。按题目要求判断即可，不因未额外展开理由扣错；后续检查间隔保持与综合材料。",
         "mastered": false
       },
       "sourceArticles": []
@@ -6858,9 +6877,23 @@
         "conclusionCorrect": true,
         "reasonComplete": true,
         "assessment": "首次应用判断和理由正确，指出我国处于并将长期处于社会主义初级阶段，核心含义完整，口语省略没有变不扣错。补充主要矛盾变化与历史阶段判断分开；不将一次引导应用记为长期掌握。"
+      },
+      {
+        "id": "2026-11-19-P03-practice-2",
+        "date": "2026-11-19",
+        "lesson": "P03",
+        "type": "guided_application",
+        "question": "分别判断主要侧重发展不平衡还是发展不充分：①同一地区城乡之间的优质教育、医疗资源差距明显；②某地总体医疗服务能力不足，难以满足群众就医需要，题目不强调地区之间的差距。",
+        "userAnswer": "不平衡\n不充分",
+        "mastered": false,
+        "conclusionCorrect": true,
+        "reasonRequired": false,
+        "part1Correct": true,
+        "part2Correct": true,
+        "assessment": "两项情境辨析均正确：城乡资源差距侧重不平衡，总体医疗服务能力不足侧重不充分。按题目要求判断即可，不因未额外展开理由扣错；后续检查间隔保持与综合材料。"
       }
     ],
-    "nextLesson": "P03第1题判断与理由正确；第2题不平衡与不充分情境辨析待答",
+    "nextLesson": "P03不平衡与不充分两项判断正确，已讲五位一体与四个全面；第3题建设领域应用待答",
     "sourceFiles": {
       "2026高端班讲义-非法(修正版).pdf": "E:\\考公资料\\金标尺\\讲义\\00-【讲义&其他资料-第一批已完】\\2026高端班讲义-非法(修正版).pdf",
       "思维导图-非法.pdf": "E:\\考公资料\\金标尺\\讲义\\00-【讲义&其他资料-第一批已完】\\思维导图-非法.pdf",
@@ -6895,21 +6928,26 @@
         "covered": [
           "新时代社会主要矛盾：人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾",
           "不平衡强调结构、地区等差距，不充分强调发展仍有不足与短板，二者相互联系",
-          "社会主要矛盾变化不等于走出初级阶段；初级阶段基本国情及世界最大发展中国家国际地位没有变"
+          "社会主要矛盾变化不等于走出初级阶段；初级阶段基本国情及世界最大发展中国家国际地位没有变",
+          "五位一体总体布局：经济建设、政治建设、文化建设、社会建设、生态文明建设",
+          "四个全面战略布局：全面建设社会主义现代化国家、全面深化改革、全面依法治国、全面从严治党；与五位一体、五大发展理念分别判断"
         ],
         "pending": [
           "第1题两个没有变应用",
           "本模块其余章节尚未展开"
         ],
         "sources": [
-          "https://www.12371.cn/2021/08/04/ARTI1628057805682379.shtml"
+          "https://www.12371.cn/2021/08/04/ARTI1628057805682379.shtml",
+          "https://www.moe.gov.cn/jyb_xwfb/s6052/moe_838/202111/t20211116_580248.html"
         ],
-        "next": "P03第1题判断与理由正确；第2题不平衡与不充分情境辨析待答",
+        "next": "P03不平衡与不充分两项判断正确，已讲五位一体与四个全面；第3题建设领域应用待答",
         "lastApplication": {
-          "questionId": "2026-11-19-P03-practice-1",
+          "questionId": "2026-11-19-P03-practice-2",
           "conclusionCorrect": true,
-          "reasonComplete": true,
-          "assessment": "首次应用判断和理由正确，指出我国处于并将长期处于社会主义初级阶段，核心含义完整，口语省略没有变不扣错。补充主要矛盾变化与历史阶段判断分开；不将一次引导应用记为长期掌握。",
+          "reasonRequired": false,
+          "part1Correct": true,
+          "part2Correct": true,
+          "assessment": "两项情境辨析均正确：城乡资源差距侧重不平衡，总体医疗服务能力不足侧重不充分。按题目要求判断即可，不因未额外展开理由扣错；后续检查间隔保持与综合材料。",
           "mastered": false
         },
         "sourceArticles": []
@@ -9427,7 +9465,7 @@
     },
     "2026-11-19": {
       "status": "in_progress",
-      "answeredQuestions": 6,
+      "answeredQuestions": 7,
       "plannedMinutes": 150,
       "plannedAllocation": {
         "law": 90,
@@ -9435,16 +9473,16 @@
       },
       "actualMinutes": null,
       "mastered": false,
-      "lastQuestionId": "2026-11-19-P03-practice-1",
-      "currentPhase": "P03第1题判断与理由正确；第2题不平衡与不充分情境辨析待答",
+      "lastQuestionId": "2026-11-19-P03-practice-2",
+      "currentPhase": "P03不平衡与不充分两项判断正确，已讲五位一体与四个全面；第3题建设领域应用待答",
       "pendingQuestion": {
         "lesson": "P03",
         "status": "awaiting_answer",
-        "id": "2026-11-19-P03-practice-2",
+        "id": "2026-11-19-P03-practice-3",
         "type": "guided_application",
-        "question": "分别判断主要侧重发展不平衡还是发展不充分：①同一地区城乡之间的优质教育、医疗资源差距明显；②某地总体医疗服务能力不足，难以满足群众就医需要，题目不强调地区之间的差距。"
+        "question": "某地推进污染防治、湿地保护和生态修复。放在五位一体总体布局中，这些措施最直接属于哪一项建设？"
       },
-      "nextQuestion": "2026-11-19-P03-practice-2",
+      "nextQuestion": "2026-11-19-P03-practice-3",
       "carryForward": {
         "fromDate": "2026-11-18",
         "outstandingMinutesUnknown": true,
@@ -9495,10 +9533,10 @@
     "asOf": "2026-11-19",
     "timezone": "Asia/Hong_Kong",
     "lesson": "P03",
-    "questionId": "2026-11-19-P03-practice-2",
+    "questionId": "2026-11-19-P03-practice-3",
     "questionStatus": "awaiting_answer",
-    "question": "分别判断主要侧重发展不平衡还是发展不充分：①同一地区城乡之间的优质教育、医疗资源差距明显；②某地总体医疗服务能力不足，难以满足群众就医需要，题目不强调地区之间的差距。",
-    "currentActivity": "P03第1题判断与理由正确；第2题不平衡与不充分情境辨析待答",
+    "question": "某地推进污染防治、湿地保护和生态修复。放在五位一体总体布局中，这些措施最直接属于哪一项建设？",
+    "currentActivity": "P03不平衡与不充分两项判断正确，已讲五位一体与四个全面；第3题建设领域应用待答",
     "politicsNext": "P03第1题，已讲第一小节尚未作答"
   },
   "syncProject": {
