@@ -9679,7 +9679,8 @@
     },
     "recordAndSync": "每题即时保存原答、评价、待答位置，并同时维护当前进度及当日复盘；模块笔记及完整派生导出在小节收束时整合。小节结束、累计3—5题或用户要结束/换设备时提交并推送核验；未推送须如实标待同步。",
     "progressCriterion": "以实际覆盖、独立应用、间隔保持及报告时长判断，不以聊天条数或短答数量宣称完成整章。",
-    "checkPacing": "连续两个学习日核心任务未完成或欠课超过150分钟时重排未来7天；不默认靠缓冲吞下全部欠课。"
+    "checkPacing": "连续两个学习日核心任务未完成或欠课超过150分钟时重排未来7天；不默认靠缓冲吞下全部欠课。",
+    "preparation": "每次学习收尾提前准备下一课完整小节讲解、题目、答案、错因分支、出处、预算及时间不足版本。开课先读最新进度及备课包；不每题临时规划。预备内容不计已学已答，课堂一题一答。"
   },
   "resumeState": {
     "asOf": "2026-11-19",
@@ -9752,5 +9753,20 @@
       "todayUserReportedMinutes": 100,
       "pendingQuestionUnchanged": true
     }
-  ]
+  ],
+  "preparedLessons": {
+    "preparedDate": "2026-11-19",
+    "entryRelativePath": "学习计划/课前备课/备课入口.md",
+    "currentRemainingStatus": "prepared_not_taught",
+    "nextPlannedDate": "2026-11-20",
+    "nextStatus": "prepared_not_taught",
+    "nextTopics": [
+      "M07合同订立成立与生效",
+      "P04未完核心承接",
+      "P05坚持以人民为中心"
+    ],
+    "questionBankRelativePath": "学习计划/课前备课/2026-11-20/题目与衔接.json",
+    "pendingQuestionPreserved": "2026-11-19-P04-practice-1",
+    "preparedQuestionCount": 27
+  }
 }
