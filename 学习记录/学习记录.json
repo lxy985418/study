@@ -190,6 +190,14 @@
         "失踪继承题结论正确，但理由概括为未宣告死亡不得继承，需区分实际死亡与宣告死亡。",
         "收尾死亡日期题结论正确，但理由把一般情形宣告死亡简写成失踪；需明确失踪宣告本身不确定死亡日期。"
       ]
+    },
+    {
+      "id": "M06-lost-property-exception",
+      "topic": "遗失物追回规则与普通善意取得区分，注意二年起点及购买渠道费用",
+      "status": "needs_delayed_retest",
+      "observations": [
+        "11月18日首次遗失物应用误答丙可以拒还，理由未表达；订正后换渠道费用变式，原错保留。"
+      ]
     }
   ],
   "reviewQueue": [
@@ -296,9 +304,21 @@
         "机动车交付后双方间所有权已转移；未登记仅在善意第三人对抗层面受限，不能照搬房屋规则"
       ],
       "status": "due"
+    },
+    {
+      "date": "2026-11-19",
+      "lesson": "M06",
+      "focus": [
+        "遗失物与委托保管后擅售的区别",
+        "知道或应当知道受让人起二年",
+        "拍卖或有经营资格经营者购买与普通个人购买的费用区别"
+      ],
+      "sourceQuestionId": "2026-11-18-M06-practice-4",
+      "status": "due",
+      "mastered": false
     }
   ],
-  "nextLesson": "从M06第4题遗失物返还继续；担保物权及P03尚未授课。",
+  "nextLesson": "M06第5题拍卖购买费用变式；遗失物另安排隔日复测，不持续原题反复；P03尚未授课。",
   "days": [
     {
       "day": 1,
@@ -4059,6 +4079,18 @@
       "reasonComplete": true,
       "mastered": false,
       "assessment": "结论正确；结合题设，已知是指在交付前已知乙无处分权，足以解释交付时不善意。认可简洁理由，补充规范时间点；不额外要求重复法条，不标长期掌握。"
+    },
+    {
+      "id": "2026-11-18-M06-practice-4",
+      "date": "2026-11-18",
+      "lesson": "M06",
+      "type": "guided_application",
+      "question": "甲遗失相机，被乙捡到。乙以合理价格卖给丙并交付，丙不知道相机是遗失物且无重大过失。丙直接从普通个人乙处购买，并非通过拍卖或有经营资格的经营者购得。甲知道丙是受让人后两个月内请求返还。丙能否仅以自己善意、合理价格、已交付拒绝返还？",
+      "userAnswer": "可以",
+      "conclusionCorrect": false,
+      "reasonComplete": false,
+      "mastered": false,
+      "assessment": "丙不能拒绝返还。遗失物适用第312条特殊规则，甲在知道受让人后两个月内主张，未超过二年。原答未说明理由，不推断具体心理原因；提示勿直接套保管人擅售时的一般三条件。丙从普通个人处购得，不享有拍卖或有经营资格经营者购得情形的费用偿还条件。订正讲解一次，转购买渠道费用变式，再安排隔日复测。"
     }
   ],
   "lessonProgress": {
@@ -4528,11 +4560,11 @@
         14,
         17
       ],
-      "next": "遗失物普通个人购买与拍卖经营者购买的分别应用。",
+      "next": "拍卖购买遗失物返还费用变式，后安排间隔复测。",
       "lastApplication": {
-        "questionId": "2026-11-18-M06-practice-3",
-        "conclusionCorrect": true,
-        "reasonComplete": true,
+        "questionId": "2026-11-18-M06-practice-4",
+        "conclusionCorrect": false,
+        "reasonComplete": false,
         "mastered": false
       }
     }
@@ -9050,7 +9082,7 @@
     },
     "2026-11-18": {
       "status": "in_progress",
-      "answeredQuestions": 4,
+      "answeredQuestions": 5,
       "plannedMinutes": 150,
       "plannedAllocation": {
         "law": 90,
@@ -9069,16 +9101,16 @@
         ],
         "newLessonProtection": "复习不在同一表述上反复至正确而挤占新课；本次优先购买权已答对，直接进入M06。"
       },
-      "lastQuestionId": "2026-11-18-M06-practice-3",
-      "currentPhase": "M06普通善意取得前三题正确，进入遗失物特殊规则；第4题待答",
+      "lastQuestionId": "2026-11-18-M06-practice-4",
+      "currentPhase": "M06遗失物首题答错，已订正；第5题拍卖购买费用变式待答",
       "pendingQuestion": {
-        "id": "2026-11-18-M06-practice-4",
+        "id": "2026-11-18-M06-practice-5",
         "lesson": "M06",
-        "type": "guided_application",
-        "question": "甲遗失相机，被乙捡到。乙以合理价格卖给丙并交付，丙不知道相机是遗失物且无重大过失。丙直接从普通个人乙处购买，并非通过拍卖或有经营资格的经营者购得。甲知道丙是受让人后两个月内请求返还。丙能否仅以自己善意、合理价格、已交付拒绝返还？",
+        "type": "post_correction_transfer",
+        "question": "甲遗失的相机流入拍卖，丙通过拍卖支付2000元购得。甲在知道丙是受让人后两个月内请求返还相机。甲请求返还时，是否应当向丙支付其所付的2000元费用？",
         "status": "awaiting_answer"
       },
-      "nextQuestion": "2026-11-18-M06-practice-4",
+      "nextQuestion": "2026-11-18-M06-practice-5",
       "documentationRequest": {
         "date": "2026-11-18",
         "scope": "2026-11-14至18学习记录、已讲知识、接续与私有Git同步准备",
@@ -9124,10 +9156,10 @@
     "asOf": "2026-11-18",
     "timezone": "Asia/Hong_Kong",
     "lesson": "M06",
-    "questionId": "2026-11-18-M06-practice-4",
+    "questionId": "2026-11-18-M06-practice-5",
     "questionStatus": "awaiting_answer",
-    "question": "甲遗失相机，被乙捡到。乙以合理价格卖给丙并交付，丙不知道相机是遗失物且无重大过失。丙直接从普通个人乙处购买，并非通过拍卖或有经营资格的经营者购得。甲知道丙是受让人后两个月内请求返还。丙能否仅以自己善意、合理价格、已交付拒绝返还？",
-    "currentActivity": "M06前三题正确；已讲遗失物追回和费用特殊规则，第4题待答",
+    "question": "甲遗失的相机流入拍卖，丙通过拍卖支付2000元购得。甲在知道丙是受让人后两个月内请求返还相机。甲请求返还时，是否应当向丙支付其所付的2000元费用？",
+    "currentActivity": "遗失物首题误答可以拒还，已讲解订正；待答拍卖购买的返还费用变式",
     "politicsNext": "P03，尚未授课"
   },
   "syncProject": {
