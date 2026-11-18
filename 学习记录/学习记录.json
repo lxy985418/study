@@ -376,7 +376,7 @@
       "mastered": false
     }
   ],
-  "nextLesson": "P03全面依法治国应用正确，已引入现代化两步走时间框架；第5题2035目标辨析待答",
+  "nextLesson": "P03两步走纠正正确，核心框架待间隔复习；进入P04五方面中国特色，第1题物质与精神文明应用待答",
   "days": [
     {
       "day": 1,
@@ -4347,6 +4347,18 @@
       "conclusionCorrect": true,
       "reasonRequired": false,
       "assessment": "正确识别法律规范与规范执法材料对应全面依法治国，未混同总体布局和其他战略项。当前应用正确，四项独立完整回忆与综合辨析仍需后续检查。"
+    },
+    {
+      "id": "2026-11-19-P03-practice-5",
+      "date": "2026-11-19",
+      "lesson": "P03",
+      "type": "guided_application",
+      "question": "判断并纠正：按照全面建成社会主义现代化强国的两步走战略安排，到2035年我国就要建成富强民主文明和谐美丽的社会主义现代化强国。",
+      "userAnswer": "不对，2035年到本世纪中叶建成富强民主文明和谐美丽的社会主义现代化强国",
+      "conclusionCorrect": true,
+      "reasonComplete": true,
+      "mastered": false,
+      "assessment": "判断错误表述并将建成现代化强国准确放到2035年至本世纪中叶阶段，纠正完整，未要求重复背答。补充2035节点为基本实现社会主义现代化。P03框架引导应用正确，完整清单回忆与延迟保持仍待检查。"
     }
   ],
   "lessonProgress": {
@@ -4844,7 +4856,7 @@
       }
     },
     "P03": {
-      "status": "instruction_started",
+      "status": "core_instruction_covered_review_due",
       "startedDate": "2026-11-19",
       "lastStudyDate": "2026-11-19",
       "mastered": false,
@@ -4857,23 +4869,44 @@
         "现代化两步走目标框架：2020至2035年基本实现社会主义现代化；2035至本世纪中叶建成富强民主文明和谐美丽的社会主义现代化强国，作为后续P04的前置框架"
       ],
       "pending": [
-        "第1题两个没有变应用",
-        "本模块其余章节尚未展开"
+        "五位一体与四个全面完整独立回忆及综合辨析",
+        "两个没有变的独立回忆及间隔保持",
+        "其余章节细节查漏，不宣称整模块掌握"
       ],
       "sources": [
         "https://www.12371.cn/2021/08/04/ARTI1628057805682379.shtml",
         "https://www.moe.gov.cn/jyb_xwfb/s6052/moe_838/202111/t20211116_580248.html",
         "https://www.miit.gov.cn/xwdt/szyw/art/2022/art_d664717b51f54b9886bc371c5f3594ed.html"
       ],
-      "next": "P03全面依法治国应用正确，已引入现代化两步走时间框架；第5题2035目标辨析待答",
+      "next": "间隔复测核心框架，当前进入P04，不反复停在同一句。",
       "lastApplication": {
-        "questionId": "2026-11-19-P03-practice-4",
+        "questionId": "2026-11-19-P03-practice-5",
         "conclusionCorrect": true,
-        "reasonRequired": false,
-        "assessment": "正确识别法律规范与规范执法材料对应全面依法治国，未混同总体布局和其他战略项。当前应用正确，四项独立完整回忆与综合辨析仍需后续检查。",
+        "reasonComplete": true,
         "mastered": false
       },
       "sourceArticles": []
+    },
+    "P04": {
+      "status": "instruction_started",
+      "startedDate": "2026-11-19",
+      "lastStudyDate": "2026-11-19",
+      "mastered": false,
+      "covered": [
+        "中国式现代化是中国共产党领导的社会主义现代化",
+        "五方面中国特色：人口规模巨大、全体人民共同富裕、物质文明和精神文明相协调、人与自然和谐共生、走和平发展道路",
+        "本次已逐项解释五方面，区别于11月14日仅作概览；应用与间隔复测尚待完成",
+        "两步走时间框架已在P03接续时讲过，后续不从零重复"
+      ],
+      "pending": [
+        "第1题材料应用",
+        "五方面的其他情境、完整回忆与间隔复测",
+        "九个本质要求和五个重大原则尚未系统讲授"
+      ],
+      "sources": [
+        "https://www.12371.cn/2025/02/20/ARTI1740037057009237.shtml"
+      ],
+      "next": "第1题物质与精神文明协调应用，未评分"
     }
   },
   "legacyLawOnlyDays": [
@@ -6939,9 +6972,21 @@
         "conclusionCorrect": true,
         "reasonRequired": false,
         "assessment": "正确识别法律规范与规范执法材料对应全面依法治国，未混同总体布局和其他战略项。当前应用正确，四项独立完整回忆与综合辨析仍需后续检查。"
+      },
+      {
+        "id": "2026-11-19-P03-practice-5",
+        "date": "2026-11-19",
+        "lesson": "P03",
+        "type": "guided_application",
+        "question": "判断并纠正：按照全面建成社会主义现代化强国的两步走战略安排，到2035年我国就要建成富强民主文明和谐美丽的社会主义现代化强国。",
+        "userAnswer": "不对，2035年到本世纪中叶建成富强民主文明和谐美丽的社会主义现代化强国",
+        "conclusionCorrect": true,
+        "reasonComplete": true,
+        "mastered": false,
+        "assessment": "判断错误表述并将建成现代化强国准确放到2035年至本世纪中叶阶段，纠正完整，未要求重复背答。补充2035节点为基本实现社会主义现代化。P03框架引导应用正确，完整清单回忆与延迟保持仍待检查。"
       }
     ],
-    "nextLesson": "P03全面依法治国应用正确，已引入现代化两步走时间框架；第5题2035目标辨析待答",
+    "nextLesson": "P03两步走纠正正确，核心框架待间隔复习；进入P04五方面中国特色，第1题物质与精神文明应用待答",
     "sourceFiles": {
       "2026高端班讲义-非法(修正版).pdf": "E:\\考公资料\\金标尺\\讲义\\00-【讲义&其他资料-第一批已完】\\2026高端班讲义-非法(修正版).pdf",
       "思维导图-非法.pdf": "E:\\考公资料\\金标尺\\讲义\\00-【讲义&其他资料-第一批已完】\\思维导图-非法.pdf",
@@ -6969,7 +7014,7 @@
         "next": "11月15日无提示复习三组表述、两个结合及系统观念与绿色；随后P01形成发展与历史地位"
       },
       "P03": {
-        "status": "instruction_started",
+        "status": "core_instruction_covered_review_due",
         "startedDate": "2026-11-19",
         "lastStudyDate": "2026-11-19",
         "mastered": false,
@@ -6982,23 +7027,44 @@
           "现代化两步走目标框架：2020至2035年基本实现社会主义现代化；2035至本世纪中叶建成富强民主文明和谐美丽的社会主义现代化强国，作为后续P04的前置框架"
         ],
         "pending": [
-          "第1题两个没有变应用",
-          "本模块其余章节尚未展开"
+          "五位一体与四个全面完整独立回忆及综合辨析",
+          "两个没有变的独立回忆及间隔保持",
+          "其余章节细节查漏，不宣称整模块掌握"
         ],
         "sources": [
           "https://www.12371.cn/2021/08/04/ARTI1628057805682379.shtml",
           "https://www.moe.gov.cn/jyb_xwfb/s6052/moe_838/202111/t20211116_580248.html",
           "https://www.miit.gov.cn/xwdt/szyw/art/2022/art_d664717b51f54b9886bc371c5f3594ed.html"
         ],
-        "next": "P03全面依法治国应用正确，已引入现代化两步走时间框架；第5题2035目标辨析待答",
+        "next": "间隔复测核心框架，当前进入P04，不反复停在同一句。",
         "lastApplication": {
-          "questionId": "2026-11-19-P03-practice-4",
+          "questionId": "2026-11-19-P03-practice-5",
           "conclusionCorrect": true,
-          "reasonRequired": false,
-          "assessment": "正确识别法律规范与规范执法材料对应全面依法治国，未混同总体布局和其他战略项。当前应用正确，四项独立完整回忆与综合辨析仍需后续检查。",
+          "reasonComplete": true,
           "mastered": false
         },
         "sourceArticles": []
+      },
+      "P04": {
+        "status": "instruction_started",
+        "startedDate": "2026-11-19",
+        "lastStudyDate": "2026-11-19",
+        "mastered": false,
+        "covered": [
+          "中国式现代化是中国共产党领导的社会主义现代化",
+          "五方面中国特色：人口规模巨大、全体人民共同富裕、物质文明和精神文明相协调、人与自然和谐共生、走和平发展道路",
+          "本次已逐项解释五方面，区别于11月14日仅作概览；应用与间隔复测尚待完成",
+          "两步走时间框架已在P03接续时讲过，后续不从零重复"
+        ],
+        "pending": [
+          "第1题材料应用",
+          "五方面的其他情境、完整回忆与间隔复测",
+          "九个本质要求和五个重大原则尚未系统讲授"
+        ],
+        "sources": [
+          "https://www.12371.cn/2025/02/20/ARTI1740037057009237.shtml"
+        ],
+        "next": "第1题物质与精神文明协调应用，未评分"
       }
     },
     "developmentConceptProblemMapping": {
@@ -9513,7 +9579,7 @@
     },
     "2026-11-19": {
       "status": "in_progress",
-      "answeredQuestions": 9,
+      "answeredQuestions": 10,
       "plannedMinutes": 150,
       "plannedAllocation": {
         "law": 90,
@@ -9521,16 +9587,16 @@
       },
       "actualMinutes": null,
       "mastered": false,
-      "lastQuestionId": "2026-11-19-P03-practice-4",
-      "currentPhase": "P03全面依法治国应用正确，已引入现代化两步走时间框架；第5题2035目标辨析待答",
+      "lastQuestionId": "2026-11-19-P03-practice-5",
+      "currentPhase": "P03两步走纠正正确，核心框架待间隔复习；进入P04五方面中国特色，第1题物质与精神文明应用待答",
       "pendingQuestion": {
-        "lesson": "P03",
-        "status": "awaiting_answer",
-        "id": "2026-11-19-P03-practice-5",
+        "id": "2026-11-19-P04-practice-1",
+        "lesson": "P04",
         "type": "guided_application",
-        "question": "判断并纠正：按照全面建成社会主义现代化强国的两步走战略安排，到2035年我国就要建成富强民主文明和谐美丽的社会主义现代化强国。"
+        "question": "某地在提高居民收入、改善物质生活的同时，完善公共文化服务，加强公民道德建设，丰富群众精神文化生活。这最直接体现中国式现代化五个方面中国特色中的哪一个？",
+        "status": "awaiting_answer"
       },
-      "nextQuestion": "2026-11-19-P03-practice-5",
+      "nextQuestion": "2026-11-19-P04-practice-1",
       "carryForward": {
         "fromDate": "2026-11-18",
         "outstandingMinutesUnknown": true,
@@ -9580,12 +9646,12 @@
   "resumeState": {
     "asOf": "2026-11-19",
     "timezone": "Asia/Hong_Kong",
-    "lesson": "P03",
-    "questionId": "2026-11-19-P03-practice-5",
+    "lesson": "P04",
+    "questionId": "2026-11-19-P04-practice-1",
     "questionStatus": "awaiting_answer",
-    "question": "判断并纠正：按照全面建成社会主义现代化强国的两步走战略安排，到2035年我国就要建成富强民主文明和谐美丽的社会主义现代化强国。",
-    "currentActivity": "P03全面依法治国应用正确，已引入现代化两步走时间框架；第5题2035目标辨析待答",
-    "politicsNext": "P03第1题，已讲第一小节尚未作答"
+    "question": "某地在提高居民收入、改善物质生活的同时，完善公共文化服务，加强公民道德建设，丰富群众精神文化生活。这最直接体现中国式现代化五个方面中国特色中的哪一个？",
+    "currentActivity": "P03两步走纠正正确，核心框架待间隔复习；进入P04五方面中国特色，第1题物质与精神文明应用待答",
+    "politicsNext": "P04第1题，五个方面已展开第一轮讲解，应用待答"
   },
   "syncProject": {
     "rootOnThisComputer": "E:\\文档\\公考学习",
