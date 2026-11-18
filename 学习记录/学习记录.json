@@ -298,7 +298,7 @@
       "status": "due"
     }
   ],
-  "nextLesson": "从M06善意取得第1题继续，未作答；今日政治计划P03尚未授课，旧错点按复习预算穿插。",
+  "nextLesson": "从M06第2题无偿赠与变式继续；P03尚未授课。",
   "days": [
     {
       "day": 1,
@@ -4022,6 +4022,19 @@
       "reasonComplete": true,
       "mastered": false,
       "assessment": "跨日正确识别共有人身份不足以要求低价优先购买，需同等条件；该题记于十一月十八日，不补算昨日完成或用时。单点正确不代表M05全章掌握。"
+    },
+    {
+      "id": "2026-11-18-M06-practice-1",
+      "date": "2026-11-18",
+      "lesson": "M06",
+      "type": "guided_application",
+      "question": "甲将自己的相机交乙保管。乙未经甲同意，冒充所有权人把相机按合理市场价格卖给丙，丙已付款并收到相机。丙受让时不知道乙无处分权，也无重大过失，不存在其他法定例外或影响交易效力的情形。丙能否取得相机所有权？请分别检查善意、合理价格、交付三个条件。",
+      "userAnswer": "是善意、合理价格、交付之后所有权变成丙了",
+      "conclusionCorrect": true,
+      "conditionsIdentifiedCorrect": true,
+      "reasonComplete": true,
+      "mastered": false,
+      "assessment": "首次应用正确：结合题设识别受让时善意、合理价格及已交付，结论丙取得所有权正确。对题设的简洁概括予以认可；补充善意含不知道无处分权且无重大过失。不因一道有提示题答对标记全模块掌握。"
     }
   ],
   "lessonProgress": {
@@ -4485,7 +4498,13 @@
       "interpretationArticles": [
         14
       ],
-      "next": "用物主自愿将相机交保管人、保管人擅售的普通动产案例逐项审查三条件。"
+      "next": "无偿赠与变式，检查合理价格条件；随后继续善意取得边界。",
+      "lastApplication": {
+        "questionId": "2026-11-18-M06-practice-1",
+        "conclusionCorrect": true,
+        "reasonComplete": true,
+        "mastered": false
+      }
     }
   },
   "legacyLawOnlyDays": [
@@ -9001,7 +9020,7 @@
     },
     "2026-11-18": {
       "status": "in_progress",
-      "answeredQuestions": 1,
+      "answeredQuestions": 2,
       "plannedMinutes": 150,
       "plannedAllocation": {
         "law": 90,
@@ -9020,16 +9039,16 @@
         ],
         "newLessonProtection": "复习不在同一表述上反复至正确而挤占新课；本次优先购买权已答对，直接进入M06。"
       },
-      "lastQuestionId": "2026-11-17-M05-correction-3",
-      "currentPhase": "M06新课第一小节：善意取得的前提及三条件",
+      "lastQuestionId": "2026-11-18-M06-practice-1",
+      "currentPhase": "M06善意取得：首题三条件应用正确，讲权利归属与赔偿；待答无偿赠与变式",
       "pendingQuestion": {
-        "id": "2026-11-18-M06-practice-1",
+        "id": "2026-11-18-M06-practice-2",
         "lesson": "M06",
-        "type": "guided_application",
-        "question": "甲将自己的相机交乙保管。乙未经甲同意，冒充所有权人把相机按合理市场价格卖给丙，丙已付款并收到相机。丙受让时不知道乙无处分权，也无重大过失，不存在其他法定例外或影响交易效力的情形。丙能否取得相机所有权？请分别检查善意、合理价格、交付三个条件。",
+        "type": "transfer_application",
+        "question": "仍是甲把相机交乙保管，乙无处分权。这次乙没有出售，而是把相机无偿赠给丙并已交付。丙受赠时不知道乙无处分权，也无重大过失；甲没有同意或追认，不存在其他取得所有权的依据。丙能否依据善意取得取得相机所有权？请说明缺少哪个条件。",
         "status": "awaiting_answer"
       },
-      "nextQuestion": "2026-11-18-M06-practice-1",
+      "nextQuestion": "2026-11-18-M06-practice-2",
       "documentationRequest": {
         "date": "2026-11-18",
         "scope": "2026-11-14至18学习记录、已讲知识、接续与私有Git同步准备",
@@ -9075,10 +9094,10 @@
     "asOf": "2026-11-18",
     "timezone": "Asia/Hong_Kong",
     "lesson": "M06",
-    "questionId": "2026-11-18-M06-practice-1",
+    "questionId": "2026-11-18-M06-practice-2",
     "questionStatus": "awaiting_answer",
-    "question": "甲将自己的相机交乙保管。乙未经甲同意，冒充所有权人把相机按合理市场价格卖给丙，丙已付款并收到相机。丙受让时不知道乙无处分权，也无重大过失，不存在其他法定例外或影响交易效力的情形。丙能否取得相机所有权？请分别检查善意、合理价格、交付三个条件。",
-    "currentActivity": "按用户要求整理文档及准备私人Git项目；学习题未答",
+    "question": "仍是甲把相机交乙保管，乙无处分权。这次乙没有出售，而是把相机无偿赠给丙并已交付。丙受赠时不知道乙无处分权，也无重大过失；甲没有同意或追认，不存在其他取得所有权的依据。丙能否依据善意取得取得相机所有权？请说明缺少哪个条件。",
+    "currentActivity": "已恢复学习，M06首题正确；待答无偿赠与变式",
     "politicsNext": "P03，尚未授课"
   },
   "syncProject": {
