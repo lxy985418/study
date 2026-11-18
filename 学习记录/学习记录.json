@@ -376,7 +376,7 @@
       "mastered": false
     }
   ],
-  "nextLesson": "P03生态文明建设应用正确；第4题四个全面情境应用待答",
+  "nextLesson": "P03全面依法治国应用正确，已引入现代化两步走时间框架；第5题2035目标辨析待答",
   "days": [
     {
       "day": 1,
@@ -4335,6 +4335,18 @@
       "conclusionCorrect": true,
       "reasonRequired": false,
       "assessment": "正确按五位一体设问判断生态文明建设，没有用新发展理念绿色替代建设领域。首次应用正确，后续仍检验组别辨析与间隔保持。"
+    },
+    {
+      "id": "2026-11-19-P03-practice-4",
+      "date": "2026-11-19",
+      "lesson": "P03",
+      "type": "guided_application",
+      "question": "某地完善法律规范体系，推进严格规范公正文明执法，提高依法治理水平。从四个全面战略布局看，最直接对应哪一项？",
+      "userAnswer": "全面依法治国",
+      "mastered": false,
+      "conclusionCorrect": true,
+      "reasonRequired": false,
+      "assessment": "正确识别法律规范与规范执法材料对应全面依法治国，未混同总体布局和其他战略项。当前应用正确，四项独立完整回忆与综合辨析仍需后续检查。"
     }
   ],
   "lessonProgress": {
@@ -4841,7 +4853,8 @@
         "不平衡强调结构、地区等差距，不充分强调发展仍有不足与短板，二者相互联系",
         "社会主要矛盾变化不等于走出初级阶段；初级阶段基本国情及世界最大发展中国家国际地位没有变",
         "五位一体总体布局：经济建设、政治建设、文化建设、社会建设、生态文明建设",
-        "四个全面战略布局：全面建设社会主义现代化国家、全面深化改革、全面依法治国、全面从严治党；与五位一体、五大发展理念分别判断"
+        "四个全面战略布局：全面建设社会主义现代化国家、全面深化改革、全面依法治国、全面从严治党；与五位一体、五大发展理念分别判断",
+        "现代化两步走目标框架：2020至2035年基本实现社会主义现代化；2035至本世纪中叶建成富强民主文明和谐美丽的社会主义现代化强国，作为后续P04的前置框架"
       ],
       "pending": [
         "第1题两个没有变应用",
@@ -4849,14 +4862,15 @@
       ],
       "sources": [
         "https://www.12371.cn/2021/08/04/ARTI1628057805682379.shtml",
-        "https://www.moe.gov.cn/jyb_xwfb/s6052/moe_838/202111/t20211116_580248.html"
+        "https://www.moe.gov.cn/jyb_xwfb/s6052/moe_838/202111/t20211116_580248.html",
+        "https://www.miit.gov.cn/xwdt/szyw/art/2022/art_d664717b51f54b9886bc371c5f3594ed.html"
       ],
-      "next": "P03生态文明建设应用正确；第4题四个全面情境应用待答",
+      "next": "P03全面依法治国应用正确，已引入现代化两步走时间框架；第5题2035目标辨析待答",
       "lastApplication": {
-        "questionId": "2026-11-19-P03-practice-3",
+        "questionId": "2026-11-19-P03-practice-4",
         "conclusionCorrect": true,
         "reasonRequired": false,
-        "assessment": "正确按五位一体设问判断生态文明建设，没有用新发展理念绿色替代建设领域。首次应用正确，后续仍检验组别辨析与间隔保持。",
+        "assessment": "正确识别法律规范与规范执法材料对应全面依法治国，未混同总体布局和其他战略项。当前应用正确，四项独立完整回忆与综合辨析仍需后续检查。",
         "mastered": false
       },
       "sourceArticles": []
@@ -6913,9 +6927,21 @@
         "conclusionCorrect": true,
         "reasonRequired": false,
         "assessment": "正确按五位一体设问判断生态文明建设，没有用新发展理念绿色替代建设领域。首次应用正确，后续仍检验组别辨析与间隔保持。"
+      },
+      {
+        "id": "2026-11-19-P03-practice-4",
+        "date": "2026-11-19",
+        "lesson": "P03",
+        "type": "guided_application",
+        "question": "某地完善法律规范体系，推进严格规范公正文明执法，提高依法治理水平。从四个全面战略布局看，最直接对应哪一项？",
+        "userAnswer": "全面依法治国",
+        "mastered": false,
+        "conclusionCorrect": true,
+        "reasonRequired": false,
+        "assessment": "正确识别法律规范与规范执法材料对应全面依法治国，未混同总体布局和其他战略项。当前应用正确，四项独立完整回忆与综合辨析仍需后续检查。"
       }
     ],
-    "nextLesson": "P03生态文明建设应用正确；第4题四个全面情境应用待答",
+    "nextLesson": "P03全面依法治国应用正确，已引入现代化两步走时间框架；第5题2035目标辨析待答",
     "sourceFiles": {
       "2026高端班讲义-非法(修正版).pdf": "E:\\考公资料\\金标尺\\讲义\\00-【讲义&其他资料-第一批已完】\\2026高端班讲义-非法(修正版).pdf",
       "思维导图-非法.pdf": "E:\\考公资料\\金标尺\\讲义\\00-【讲义&其他资料-第一批已完】\\思维导图-非法.pdf",
@@ -6952,7 +6978,8 @@
           "不平衡强调结构、地区等差距，不充分强调发展仍有不足与短板，二者相互联系",
           "社会主要矛盾变化不等于走出初级阶段；初级阶段基本国情及世界最大发展中国家国际地位没有变",
           "五位一体总体布局：经济建设、政治建设、文化建设、社会建设、生态文明建设",
-          "四个全面战略布局：全面建设社会主义现代化国家、全面深化改革、全面依法治国、全面从严治党；与五位一体、五大发展理念分别判断"
+          "四个全面战略布局：全面建设社会主义现代化国家、全面深化改革、全面依法治国、全面从严治党；与五位一体、五大发展理念分别判断",
+          "现代化两步走目标框架：2020至2035年基本实现社会主义现代化；2035至本世纪中叶建成富强民主文明和谐美丽的社会主义现代化强国，作为后续P04的前置框架"
         ],
         "pending": [
           "第1题两个没有变应用",
@@ -6960,14 +6987,15 @@
         ],
         "sources": [
           "https://www.12371.cn/2021/08/04/ARTI1628057805682379.shtml",
-          "https://www.moe.gov.cn/jyb_xwfb/s6052/moe_838/202111/t20211116_580248.html"
+          "https://www.moe.gov.cn/jyb_xwfb/s6052/moe_838/202111/t20211116_580248.html",
+          "https://www.miit.gov.cn/xwdt/szyw/art/2022/art_d664717b51f54b9886bc371c5f3594ed.html"
         ],
-        "next": "P03生态文明建设应用正确；第4题四个全面情境应用待答",
+        "next": "P03全面依法治国应用正确，已引入现代化两步走时间框架；第5题2035目标辨析待答",
         "lastApplication": {
-          "questionId": "2026-11-19-P03-practice-3",
+          "questionId": "2026-11-19-P03-practice-4",
           "conclusionCorrect": true,
           "reasonRequired": false,
-          "assessment": "正确按五位一体设问判断生态文明建设，没有用新发展理念绿色替代建设领域。首次应用正确，后续仍检验组别辨析与间隔保持。",
+          "assessment": "正确识别法律规范与规范执法材料对应全面依法治国，未混同总体布局和其他战略项。当前应用正确，四项独立完整回忆与综合辨析仍需后续检查。",
           "mastered": false
         },
         "sourceArticles": []
@@ -9485,7 +9513,7 @@
     },
     "2026-11-19": {
       "status": "in_progress",
-      "answeredQuestions": 8,
+      "answeredQuestions": 9,
       "plannedMinutes": 150,
       "plannedAllocation": {
         "law": 90,
@@ -9493,16 +9521,16 @@
       },
       "actualMinutes": null,
       "mastered": false,
-      "lastQuestionId": "2026-11-19-P03-practice-3",
-      "currentPhase": "P03生态文明建设应用正确；第4题四个全面情境应用待答",
+      "lastQuestionId": "2026-11-19-P03-practice-4",
+      "currentPhase": "P03全面依法治国应用正确，已引入现代化两步走时间框架；第5题2035目标辨析待答",
       "pendingQuestion": {
         "lesson": "P03",
         "status": "awaiting_answer",
-        "id": "2026-11-19-P03-practice-4",
+        "id": "2026-11-19-P03-practice-5",
         "type": "guided_application",
-        "question": "某地完善法律规范体系，推进严格规范公正文明执法，提高依法治理水平。从四个全面战略布局看，最直接对应哪一项？"
+        "question": "判断并纠正：按照全面建成社会主义现代化强国的两步走战略安排，到2035年我国就要建成富强民主文明和谐美丽的社会主义现代化强国。"
       },
-      "nextQuestion": "2026-11-19-P03-practice-4",
+      "nextQuestion": "2026-11-19-P03-practice-5",
       "carryForward": {
         "fromDate": "2026-11-18",
         "outstandingMinutesUnknown": true,
@@ -9553,10 +9581,10 @@
     "asOf": "2026-11-19",
     "timezone": "Asia/Hong_Kong",
     "lesson": "P03",
-    "questionId": "2026-11-19-P03-practice-4",
+    "questionId": "2026-11-19-P03-practice-5",
     "questionStatus": "awaiting_answer",
-    "question": "某地完善法律规范体系，推进严格规范公正文明执法，提高依法治理水平。从四个全面战略布局看，最直接对应哪一项？",
-    "currentActivity": "P03生态文明建设应用正确；第4题四个全面情境应用待答",
+    "question": "判断并纠正：按照全面建成社会主义现代化强国的两步走战略安排，到2035年我国就要建成富强民主文明和谐美丽的社会主义现代化强国。",
+    "currentActivity": "P03全面依法治国应用正确，已引入现代化两步走时间框架；第5题2035目标辨析待答",
     "politicsNext": "P03第1题，已讲第一小节尚未作答"
   },
   "syncProject": {
