@@ -319,7 +319,7 @@
       "mastered": false
     }
   ],
-  "nextLesson": "M06第6题动产质押识别；遗失物保留11月19日复测；P03尚未授课。",
+  "nextLesson": "M06动产质押识别正确，待答第7题质押合同与质权设立区别；P03尚未授课。",
   "days": [
     {
       "day": 1,
@@ -4105,6 +4105,18 @@
       "reasonExpressed": false,
       "mastered": false,
       "assessment": "订正后的购买渠道变式判断正确：通过拍卖购得，甲请求返还应支付丙所付费用。本题只问是否应当，未主动展开理由不另扣错。此前遗失物可追回题初答错误保留，11月19日延迟复测仍有效，不标掌握。"
+    },
+    {
+      "id": "2026-11-18-M06-practice-6",
+      "date": "2026-11-18",
+      "lesson": "M06",
+      "type": "guided_application",
+      "question": "甲向乙借款，双方依法订立书面担保合同，约定以甲有权处分的手表提供担保，甲已经将手表交给乙占有。这里设立的是动产抵押还是动产质押？请说明判断依据。",
+      "userAnswer": "质押",
+      "mastered": false,
+      "conclusionCorrect": true,
+      "reasonComplete": false,
+      "assessment": "正确识别动产质押，未展开题目要求的判断依据，补充已为担保交付手表、转移占有；分类结论予以认可，不因理由未表达判整题错，未记为已独立解释依据。"
     }
   ],
   "lessonProgress": {
@@ -4558,7 +4570,8 @@
         "通过拍卖或有经营资格经营者购得遗失物，请求返还时应支付受让人所付费用，之后可向无处分权人追偿",
         "抵押不转移担保财产占有；动产质押转移占有，交付时设立质权",
         "留置基于合法占有债务人动产、债务到期未履行等法定条件；维修费场景入门",
-        "担保通常为依法优先受偿，不使所有权直接自动转给债权人"
+        "担保通常为依法优先受偿，不使所有权直接自动转给债权人",
+        "质押合同有效与动产质权设立分别判断；单纯签约未交付、无其他交付安排，尚未设立动产质权"
       ],
       "pending": [
         "善意判断时点及合理价格、公示的分别应用",
@@ -4583,11 +4596,12 @@
         14,
         17
       ],
-      "next": "动产担保占有区别应用，再讲设立、公示及实现规则。",
+      "next": "M06动产质押识别正确，待答第7题质押合同与质权设立区别",
       "lastApplication": {
-        "questionId": "2026-11-18-M06-practice-5",
+        "questionId": "2026-11-18-M06-practice-6",
         "conclusionCorrect": true,
-        "reasonRequired": false,
+        "reasonComplete": false,
+        "assessment": "正确识别动产质押，未展开题目要求的判断依据，补充已为担保交付手表、转移占有；分类结论予以认可，不因理由未表达判整题错，未记为已独立解释依据。",
         "mastered": false
       }
     }
@@ -9105,7 +9119,7 @@
     },
     "2026-11-18": {
       "status": "in_progress",
-      "answeredQuestions": 6,
+      "answeredQuestions": 7,
       "plannedMinutes": 150,
       "plannedAllocation": {
         "law": 90,
@@ -9124,16 +9138,16 @@
         ],
         "newLessonProtection": "复习不在同一表述上反复至正确而挤占新课；本次优先购买权已答对，直接进入M06。"
       },
-      "lastQuestionId": "2026-11-18-M06-practice-5",
-      "currentPhase": "M06拍卖购买费用变式正确，保留遗失物隔日复测；开始抵押、动产质押、留置对比，第6题待答",
+      "lastQuestionId": "2026-11-18-M06-practice-6",
+      "currentPhase": "M06动产质押识别正确，待答第7题质押合同与质权设立区别",
       "pendingQuestion": {
-        "id": "2026-11-18-M06-practice-6",
         "lesson": "M06",
+        "status": "awaiting_answer",
+        "id": "2026-11-18-M06-practice-7",
         "type": "guided_application",
-        "question": "甲向乙借款，双方依法订立书面担保合同，约定以甲有权处分的手表提供担保，甲已经将手表交给乙占有。这里设立的是动产抵押还是动产质押？请说明判断依据。",
-        "status": "awaiting_answer"
+        "question": "甲乙依法签订有效的书面手表质押合同，约定以甲的手表为借款担保；但手表一直由甲自己保管，尚未交付乙，也不存在其他交付方式。乙是否已经取得手表质权？为什么？"
       },
-      "nextQuestion": "2026-11-18-M06-practice-6",
+      "nextQuestion": "2026-11-18-M06-practice-7",
       "documentationRequest": {
         "date": "2026-11-18",
         "scope": "2026-11-14至18学习记录、已讲知识、接续与私有Git同步准备",
@@ -9179,10 +9193,10 @@
     "asOf": "2026-11-18",
     "timezone": "Asia/Hong_Kong",
     "lesson": "M06",
-    "questionId": "2026-11-18-M06-practice-6",
+    "questionId": "2026-11-18-M06-practice-7",
     "questionStatus": "awaiting_answer",
-    "question": "甲向乙借款，双方依法订立书面担保合同，约定以甲有权处分的手表提供担保，甲已经将手表交给乙占有。这里设立的是动产抵押还是动产质押？请说明判断依据。",
-    "currentActivity": "进入M06担保物权入门，待答动产担保交付分类题",
+    "question": "甲乙依法签订有效的书面手表质押合同，约定以甲的手表为借款担保；但手表一直由甲自己保管，尚未交付乙，也不存在其他交付方式。乙是否已经取得手表质权？为什么？",
+    "currentActivity": "M06动产质押识别正确，待答第7题质押合同与质权设立区别",
     "politicsNext": "P03，尚未授课"
   },
   "syncProject": {
