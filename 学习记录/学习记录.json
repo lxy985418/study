@@ -6999,7 +6999,11 @@
       "newPointsPerSession": "2—3个小知识点",
       "method": "先解释含义与对应关系，再闭卷复述、换条件辨析；减少首次整组硬背",
       "lawTimeUnchanged": 90,
-      "diagnosticNotMasteryRate": true
+      "diagnosticNotMasteryRate": true,
+      "pacing20261119": {
+        "reason": "用户担心进度，政治已进入P04但尚未覆盖全模块",
+        "delivery": "完整小节后应用检查；剩余政治20分钟优先完成五方面中国特色应用和一次闭卷提取，不硬塞全部其他清单。"
+      }
     },
     "lessonProgress": {
       "P00R": {
@@ -9585,7 +9589,7 @@
         "law": 90,
         "politics": 60
       },
-      "actualMinutes": null,
+      "actualMinutes": 100,
       "mastered": false,
       "lastQuestionId": "2026-11-19-P03-practice-5",
       "currentPhase": "P03两步走纠正正确，核心框架待间隔复习；进入P04五方面中国特色，第1题物质与精神文明应用待答",
@@ -9606,6 +9610,23 @@
           "房屋抵押登记设权",
           "M06质押与借用、留置同一法律关系"
         ]
+      },
+      "actualMinutesEstimated": true,
+      "actualAllocation": {
+        "law": 60,
+        "politics": 40
+      },
+      "timeReport": {
+        "original": "一小时 四十分钟",
+        "interpretation": "按法律、政治的提问顺序理解为约60分钟、40分钟，合计100分钟",
+        "basis": "user_report_estimate",
+        "allocationInterpretationAssumed": true,
+        "excludesDocumentPreparationAndWaiting": true
+      },
+      "remainingPlannedMinutes": {
+        "law": 30,
+        "politics": 20,
+        "total": 50
       }
     }
   },
@@ -9628,7 +9649,7 @@
     "oneDayMissed": "不把两天任务叠成300分钟。下一次先用15分钟恢复回忆，继续未完成核心单元；受影响任务进入欠课清单，按先修顺序移至最近可用缓冲日。重排后逐项核对被挤出的后续任务。",
     "multipleDaysMissed": "连续中断2天，或累计欠课超过150分钟，立即重排未来7天；先保障原计划优先模块主干、代表题和订正，推迟重复讲解和扩展题，保留考前复测。不得把未学内容改成已学。",
     "lateInterruption": "12月23日后若中断，重新取舍余下任务，优先已学核心与高频错项；不承诺仍可按原范围全部完成。",
-    "sessionDelivery": "一题一答保留。先讲完整小节再检查；同一错点当场纠正后最多再测一次，未稳固则入复习队列，避免反复循环挤占新课。",
+    "sessionDelivery": "一题一答保留。先讲3—5个相关考点组成的完整小节及必要对比，再用4—6道有区分度的应用、混合题检查；连续正确的简单同向题及时停。错点讲清一次、变式一次，仍错则入间隔复测，不阻断新课。",
     "ordinaryDayOutput": "两科各完成一个边界明确的小单元；形成一张框架或关键词卡；各做4—6道有区分度的题（必要时按题目难度减量），记录结论和理由错误。大型章节拆分，不为凑完成率跳讲。",
     "weeklyCheck": "每7天检查实际覆盖清单、欠课分钟、已用缓冲、隔日无提示表现及限时新题表现。小样本只作信号；核心题正确率约80%且能解释理由，仍须延迟复测后再判断掌握。",
     "timeMeasurement": "150分钟是计划预算，须按用户实际学习时长记录；不根据聊天条数推算已学满时间。",
@@ -9641,7 +9662,24 @@
         "2026-12-25"
       ]
     },
-    "scope": "仅法律与政治专项；其他考试科目尚未纳入该150分钟逐日计划。"
+    "scope": "仅法律与政治专项；其他考试科目尚未纳入该150分钟逐日计划。",
+    "timeBlocks": {
+      "law": {
+        "review": 15,
+        "newInstruction": 40,
+        "applicationAndCorrection": 25,
+        "recallAndRecord": 10
+      },
+      "politics": {
+        "review": 8,
+        "newInstruction": 32,
+        "applicationAndCorrection": 15,
+        "recallAndRecord": 5
+      }
+    },
+    "recordAndSync": "每题即时保存原答、评价、待答位置，并同时维护当前进度及当日复盘；模块笔记及完整派生导出在小节收束时整合。小节结束、累计3—5题或用户要结束/换设备时提交并推送核验；未推送须如实标待同步。",
+    "progressCriterion": "以实际覆盖、独立应用、间隔保持及报告时长判断，不以聊天条数或短答数量宣称完成整章。",
+    "checkPacing": "连续两个学习日核心任务未完成或欠课超过150分钟时重排未来7天；不默认靠缓冲吞下全部欠课。"
   },
   "resumeState": {
     "asOf": "2026-11-19",
@@ -9651,7 +9689,8 @@
     "questionStatus": "awaiting_answer",
     "question": "某地在提高居民收入、改善物质生活的同时，完善公共文化服务，加强公民道德建设，丰富群众精神文化生活。这最直接体现中国式现代化五个方面中国特色中的哪一个？",
     "currentActivity": "P03两步走纠正正确，核心框架待间隔复习；进入P04五方面中国特色，第1题物质与精神文明应用待答",
-    "politicsNext": "P04第1题，五个方面已展开第一轮讲解，应用待答"
+    "politicsNext": "P04第1题，五个方面已展开第一轮讲解，应用待答",
+    "deliveryNote": "按新执行节奏接续当前P04首题，不把节奏讨论算回答；本日剩余计划法律30、政治20分钟（依用户估计）。"
   },
   "syncProject": {
     "rootOnThisComputer": "E:\\文档\\公考学习",
@@ -9670,5 +9709,48 @@
     "authenticatedAccount": "lxy985418",
     "branch": "main",
     "lastVerifiedContentCommit": "0f9f5aad2eca4da832b76c8dbc179ca65962217c"
-  }
+  },
+  "teachingAdjustmentHistory": [
+    {
+      "date": "2026-11-19",
+      "reason": "用户询问是否偏慢；检查确认政治主题已进入当日P04，但细节与应用未全完成，法律原定综合周测尚未完整完成。",
+      "previousExecutionPolicy": {
+        "normalMinutes": 150,
+        "dailyAllocation": {
+          "law": 90,
+          "politics": 60
+        },
+        "effectiveDate": "2026-11-16",
+        "bufferDates": [
+          "2026-11-22",
+          "2026-12-06",
+          "2026-12-13",
+          "2026-12-23"
+        ],
+        "bufferMinutes": 600,
+        "capacityMeaning": "4个无必学新课的150分钟缓冲日，最多吸收4个标准日等量欠课；实际取决于欠课难度、发生时间及缓冲是否已使用，不承诺任意4天中断都可补完。",
+        "partialDay": "若确实只有45分钟，法律25分钟＋政治20分钟，各做核心回忆和一道代表题；不足部分如实记为欠课，不能算完成150分钟。",
+        "oneDayMissed": "不把两天任务叠成300分钟。下一次先用15分钟恢复回忆，继续未完成核心单元；受影响任务进入欠课清单，按先修顺序移至最近可用缓冲日。重排后逐项核对被挤出的后续任务。",
+        "multipleDaysMissed": "连续中断2天，或累计欠课超过150分钟，立即重排未来7天；先保障原计划优先模块主干、代表题和订正，推迟重复讲解和扩展题，保留考前复测。不得把未学内容改成已学。",
+        "lateInterruption": "12月23日后若中断，重新取舍余下任务，优先已学核心与高频错项；不承诺仍可按原范围全部完成。",
+        "sessionDelivery": "一题一答保留。先讲完整小节再检查；同一错点当场纠正后最多再测一次，未稳固则入复习队列，避免反复循环挤占新课。",
+        "ordinaryDayOutput": "两科各完成一个边界明确的小单元；形成一张框架或关键词卡；各做4—6道有区分度的题（必要时按题目难度减量），记录结论和理由错误。大型章节拆分，不为凑完成率跳讲。",
+        "weeklyCheck": "每7天检查实际覆盖清单、欠课分钟、已用缓冲、隔日无提示表现及限时新题表现。小样本只作信号；核心题正确率约80%且能解释理由，仍须延迟复测后再判断掌握。",
+        "timeMeasurement": "150分钟是计划预算，须按用户实际学习时长记录；不根据聊天条数推算已学满时间。",
+        "milestones": {
+          "politicsCoreFirstPassTarget": "2026-12-15",
+          "lawCoreFirstPassTarget": "2026-12-18",
+          "finalBuffer": "2026-12-23",
+          "finalReview": [
+            "2026-12-24",
+            "2026-12-25"
+          ]
+        },
+        "scope": "仅法律与政治专项；其他考试科目尚未纳入该150分钟逐日计划。"
+      },
+      "change": "保持150分钟总量，增大完整小节与新题的信息量、压缩简单提示题和逐题远端推送等待。",
+      "todayUserReportedMinutes": 100,
+      "pendingQuestionUnchanged": true
+    }
+  ]
 }
