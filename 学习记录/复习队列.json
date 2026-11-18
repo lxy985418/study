@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-18",
+  "asOf": "2026-11-19",
   "law": [
     {
       "date": "2026-11-15",
@@ -126,6 +126,17 @@
         "同汽车所有权交付转移分开"
       ],
       "sourceQuestionId": "2026-11-18-M06-practice-8",
+      "status": "due",
+      "mastered": false
+    },
+    {
+      "date": "2026-11-20",
+      "lesson": "M06",
+      "focus": [
+        "借用与动产质押区别",
+        "留置的同一法律关系条件及企业例外"
+      ],
+      "sourceQuestionId": "2026-11-18-M06-practice-10",
       "status": "due",
       "mastered": false
     }
