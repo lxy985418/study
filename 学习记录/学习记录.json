@@ -319,7 +319,7 @@
       "mastered": false
     }
   ],
-  "nextLesson": "M06动产质押识别正确，待答第7题质押合同与质权设立区别；P03尚未授课。",
+  "nextLesson": "M06未交付未设立动产质权答对；进入抵押设立规则，第8题房屋未登记待答；P03尚未授课。",
   "days": [
     {
       "day": 1,
@@ -4117,6 +4117,18 @@
       "conclusionCorrect": true,
       "reasonComplete": false,
       "assessment": "正确识别动产质押，未展开题目要求的判断依据，补充已为担保交付手表、转移占有；分类结论予以认可，不因理由未表达判整题错，未记为已独立解释依据。"
+    },
+    {
+      "id": "2026-11-18-M06-practice-7",
+      "date": "2026-11-18",
+      "lesson": "M06",
+      "type": "guided_application",
+      "question": "甲乙依法签订有效的书面手表质押合同，约定以甲的手表为借款担保；但手表一直由甲自己保管，尚未交付乙，也不存在其他交付方式。乙是否已经取得手表质权？为什么？",
+      "userAnswer": "没有没有交付",
+      "mastered": false,
+      "conclusionCorrect": true,
+      "reasonComplete": true,
+      "assessment": "正确区分质押合同有效与动产质权设立，因尚未交付而未取得质权，结论及理由正确。保留首次应用属性，不标全模块掌握。"
     }
   ],
   "lessonProgress": {
@@ -4571,7 +4583,9 @@
         "抵押不转移担保财产占有；动产质押转移占有，交付时设立质权",
         "留置基于合法占有债务人动产、债务到期未履行等法定条件；维修费场景入门",
         "担保通常为依法优先受偿，不使所有权直接自动转给债权人",
-        "质押合同有效与动产质权设立分别判断；单纯签约未交付、无其他交付安排，尚未设立动产质权"
+        "质押合同有效与动产质权设立分别判断；单纯签约未交付、无其他交付安排，尚未设立动产质权",
+        "房屋等依法须登记的抵押权自登记时设立；动产抵押权自抵押合同生效时设立，未经登记不得对抗善意第三人",
+        "汽车所有权转移通常看交付，与汽车抵押权通常自抵押合同生效设立的规则分开"
       ],
       "pending": [
         "善意判断时点及合理价格、公示的分别应用",
@@ -4586,6 +4600,8 @@
         311,
         312,
         394,
+        402,
+        403,
         425,
         429,
         447,
@@ -4596,12 +4612,12 @@
         14,
         17
       ],
-      "next": "M06动产质押识别正确，待答第7题质押合同与质权设立区别",
+      "next": "M06未交付未设立动产质权答对；进入抵押设立规则，第8题房屋未登记待答",
       "lastApplication": {
-        "questionId": "2026-11-18-M06-practice-6",
+        "questionId": "2026-11-18-M06-practice-7",
         "conclusionCorrect": true,
-        "reasonComplete": false,
-        "assessment": "正确识别动产质押，未展开题目要求的判断依据，补充已为担保交付手表、转移占有；分类结论予以认可，不因理由未表达判整题错，未记为已独立解释依据。",
+        "reasonComplete": true,
+        "assessment": "正确区分质押合同有效与动产质权设立，因尚未交付而未取得质权，结论及理由正确。保留首次应用属性，不标全模块掌握。",
         "mastered": false
       }
     }
@@ -9119,7 +9135,7 @@
     },
     "2026-11-18": {
       "status": "in_progress",
-      "answeredQuestions": 7,
+      "answeredQuestions": 8,
       "plannedMinutes": 150,
       "plannedAllocation": {
         "law": 90,
@@ -9138,16 +9154,16 @@
         ],
         "newLessonProtection": "复习不在同一表述上反复至正确而挤占新课；本次优先购买权已答对，直接进入M06。"
       },
-      "lastQuestionId": "2026-11-18-M06-practice-6",
-      "currentPhase": "M06动产质押识别正确，待答第7题质押合同与质权设立区别",
+      "lastQuestionId": "2026-11-18-M06-practice-7",
+      "currentPhase": "M06未交付未设立动产质权答对；进入抵押设立规则，第8题房屋未登记待答",
       "pendingQuestion": {
         "lesson": "M06",
         "status": "awaiting_answer",
-        "id": "2026-11-18-M06-practice-7",
+        "id": "2026-11-18-M06-practice-8",
         "type": "guided_application",
-        "question": "甲乙依法签订有效的书面手表质押合同，约定以甲的手表为借款担保；但手表一直由甲自己保管，尚未交付乙，也不存在其他交付方式。乙是否已经取得手表质权？为什么？"
+        "question": "甲以自己有权处分的房屋为向乙所借款项设定抵押，双方依法签订的书面抵押合同已经生效，但尚未办理抵押登记。乙是否已经取得该房屋的抵押权？请说明理由。"
       },
-      "nextQuestion": "2026-11-18-M06-practice-7",
+      "nextQuestion": "2026-11-18-M06-practice-8",
       "documentationRequest": {
         "date": "2026-11-18",
         "scope": "2026-11-14至18学习记录、已讲知识、接续与私有Git同步准备",
@@ -9193,10 +9209,10 @@
     "asOf": "2026-11-18",
     "timezone": "Asia/Hong_Kong",
     "lesson": "M06",
-    "questionId": "2026-11-18-M06-practice-7",
+    "questionId": "2026-11-18-M06-practice-8",
     "questionStatus": "awaiting_answer",
-    "question": "甲乙依法签订有效的书面手表质押合同，约定以甲的手表为借款担保；但手表一直由甲自己保管，尚未交付乙，也不存在其他交付方式。乙是否已经取得手表质权？为什么？",
-    "currentActivity": "M06动产质押识别正确，待答第7题质押合同与质权设立区别",
+    "question": "甲以自己有权处分的房屋为向乙所借款项设定抵押，双方依法签订的书面抵押合同已经生效，但尚未办理抵押登记。乙是否已经取得该房屋的抵押权？请说明理由。",
+    "currentActivity": "M06未交付未设立动产质权答对；进入抵押设立规则，第8题房屋未登记待答",
     "politicsNext": "P03，尚未授课"
   },
   "syncProject": {
