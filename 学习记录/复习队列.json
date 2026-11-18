@@ -114,8 +114,11 @@
         "拍卖或有经营资格经营者购买与普通个人购买的费用区别"
       ],
       "sourceQuestionId": "2026-11-18-M06-practice-4",
-      "status": "due",
-      "mastered": false
+      "status": "reviewed_failed",
+      "mastered": false,
+      "lastReviewDate": "2026-11-19",
+      "resultQuestionId": "2026-11-19-M06-delayed-review-lost-1",
+      "nextReviewDate": "2026-11-20"
     },
     {
       "date": "2026-11-19",
@@ -139,6 +142,17 @@
         "留置的同一法律关系条件及企业例外"
       ],
       "sourceQuestionId": "2026-11-18-M06-practice-10",
+      "status": "due",
+      "mastered": false
+    },
+    {
+      "date": "2026-11-20",
+      "lesson": "M06",
+      "focus": [
+        "遗失物知道或应当知道受让人起二年，不是遗失起二年",
+        "普通个人购买与拍卖经营者购买费用规则"
+      ],
+      "sourceQuestionId": "2026-11-18-M06-practice-4",
       "status": "due",
       "mastered": false
     }

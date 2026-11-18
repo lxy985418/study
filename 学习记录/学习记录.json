@@ -194,10 +194,11 @@
     {
       "id": "M06-lost-property-exception",
       "topic": "遗失物追回规则与普通善意取得区分，注意二年起点及购买渠道费用",
-      "status": "needs_delayed_retest",
+      "status": "delayed_retest_failed_reteach_keep_review",
       "observations": [
         "11月18日首次遗失物应用误答丙可以拒还，理由未表达；订正后换渠道费用变式，原错保留。",
-        "第5题拍卖购买费用变式答应当，订正后判断正确；未消除原追回题错误，仍需隔日复测。"
+        "第5题拍卖购买费用变式答应当，订正后判断正确；未消除原追回题错误，仍需隔日复测。",
+        "19日隔日复测仍答可以，超过两年可以拒绝归还；本题知道受让人仅一月，未正确适用起点，已订正，20日复测。"
       ]
     },
     {
@@ -332,8 +333,11 @@
         "拍卖或有经营资格经营者购买与普通个人购买的费用区别"
       ],
       "sourceQuestionId": "2026-11-18-M06-practice-4",
-      "status": "due",
-      "mastered": false
+      "status": "reviewed_failed",
+      "mastered": false,
+      "lastReviewDate": "2026-11-19",
+      "resultQuestionId": "2026-11-19-M06-delayed-review-lost-1",
+      "nextReviewDate": "2026-11-20"
     },
     {
       "date": "2026-11-19",
@@ -359,9 +363,20 @@
       "sourceQuestionId": "2026-11-18-M06-practice-10",
       "status": "due",
       "mastered": false
+    },
+    {
+      "date": "2026-11-20",
+      "lesson": "M06",
+      "focus": [
+        "遗失物知道或应当知道受让人起二年，不是遗失起二年",
+        "普通个人购买与拍卖经营者购买费用规则"
+      ],
+      "sourceQuestionId": "2026-11-18-M06-practice-4",
+      "status": "due",
+      "mastered": false
     }
   ],
-  "nextLesson": "M06房屋抵押隔日复测两项及理由正确；第二道短复习遗失物追回与起点待答，之后进入政治P03；P03尚未授课。",
+  "nextLesson": "P03已开始：社会主要矛盾与两个没有变；第1题待答。法律短复习结束，房屋抵押通过一次、遗失物起点错误保留",
   "days": [
     {
       "day": 1,
@@ -4268,6 +4283,20 @@
       "conclusionCorrect": true,
       "reasonComplete": true,
       "assessment": "隔日无规则提示复测正确：抵押合同有效，但未登记尚未取得房屋抵押权，明确说出登记原因。与18日误答取得了分开，保留初答；记一次隔日变式正确，不宣称长期掌握。"
+    },
+    {
+      "id": "2026-11-19-M06-delayed-review-lost-1",
+      "date": "2026-11-19",
+      "lesson": "M06",
+      "type": "next_calendar_day_retest",
+      "sourceQuestionId": "2026-11-18-M06-practice-4",
+      "question": "甲的相机三年前遗失，被乙捡到后以合理价格卖给丙并交付。丙购买时不知道是遗失物且无重大过失，直接从普通个人乙处购得。甲此前不知道也不应当知道丙是受让人，直到上个月才知道，随即请求返还。丙能否以自己善意、合理价格、已经交付，且相机已遗失三年为由拒绝返还？请说明理由。",
+      "userAnswer": "可以，超过两年可以拒绝归还",
+      "conclusionCorrect": false,
+      "reasonComplete": false,
+      "reasonCorrect": false,
+      "mastered": false,
+      "assessment": "隔日复测结论和理由均错误：本题此前不知道也不应知道受让人，上个月才知道并随即主张，二年从知道或应当知道受让人起算，不从遗失日起算。遗失三年不足以拒绝返还。保留原18日追回题错误与19日未保持，订正一次后按约定转政治，不再原题反复至答对。"
     }
   ],
   "lessonProgress": {
@@ -4756,14 +4785,32 @@
         14,
         17
       ],
-      "next": "M06房屋抵押隔日复测两项及理由正确；第二道短复习遗失物追回与起点待答，之后进入政治P03",
+      "next": "遗失物二年起点安排20日复测；当前转政治，M06细则未全覆盖。",
       "lastApplication": {
-        "questionId": "2026-11-19-M06-delayed-review-house-1",
-        "conclusionCorrect": true,
-        "reasonComplete": true,
-        "assessment": "隔日无规则提示复测正确：抵押合同有效，但未登记尚未取得房屋抵押权，明确说出登记原因。与18日误答取得了分开，保留初答；记一次隔日变式正确，不宣称长期掌握。",
+        "questionId": "2026-11-19-M06-delayed-review-lost-1",
+        "conclusionCorrect": false,
+        "reasonComplete": false,
         "mastered": false
       }
+    },
+    "P03": {
+      "status": "instruction_started",
+      "startedDate": "2026-11-19",
+      "lastStudyDate": "2026-11-19",
+      "mastered": false,
+      "covered": [
+        "新时代社会主要矛盾：人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾",
+        "不平衡强调结构、地区等差距，不充分强调发展仍有不足与短板，二者相互联系",
+        "社会主要矛盾变化不等于走出初级阶段；初级阶段基本国情及世界最大发展中国家国际地位没有变"
+      ],
+      "pending": [
+        "第1题两个没有变应用",
+        "本模块其余章节尚未展开"
+      ],
+      "sources": [
+        "https://www.12371.cn/2021/08/04/ARTI1628057805682379.shtml"
+      ],
+      "next": "第1题主要矛盾变化与初级阶段关系辨析"
     }
   },
   "legacyLawOnlyDays": [
@@ -6154,7 +6201,7 @@
     }
   },
   "politics": {
-    "status": "review_due",
+    "status": "in_progress",
     "diagnostic": {
       "status": "graded",
       "questionIds": [
@@ -6781,7 +6828,7 @@
         "assessment": "A、C、D选择及B、E判错均正确。B的规范纠正为党中央权威和集中统一领导，用户党的权威较概括；E把整体误写根本，应为全面的系统的整体的。判断与规范纠错分别记录，不视为整题全错或P02全章掌握。"
       }
     ],
-    "nextLesson": "11月15日先无提示复习P00R，再进入P01思想形成发展与历史地位；五个现代化特色后续分块讲解",
+    "nextLesson": "P03第1题，第一小节已讲，待答",
     "sourceFiles": {
       "2026高端班讲义-非法(修正版).pdf": "E:\\考公资料\\金标尺\\讲义\\00-【讲义&其他资料-第一批已完】\\2026高端班讲义-非法(修正版).pdf",
       "思维导图-非法.pdf": "E:\\考公资料\\金标尺\\讲义\\00-【讲义&其他资料-第一批已完】\\思维导图-非法.pdf",
@@ -6807,6 +6854,25 @@
           "第二个结合须保留优秀、传统限定"
         ],
         "next": "11月15日无提示复习三组表述、两个结合及系统观念与绿色；随后P01形成发展与历史地位"
+      },
+      "P03": {
+        "status": "instruction_started",
+        "startedDate": "2026-11-19",
+        "lastStudyDate": "2026-11-19",
+        "mastered": false,
+        "covered": [
+          "新时代社会主要矛盾：人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾",
+          "不平衡强调结构、地区等差距，不充分强调发展仍有不足与短板，二者相互联系",
+          "社会主要矛盾变化不等于走出初级阶段；初级阶段基本国情及世界最大发展中国家国际地位没有变"
+        ],
+        "pending": [
+          "第1题两个没有变应用",
+          "本模块其余章节尚未展开"
+        ],
+        "sources": [
+          "https://www.12371.cn/2021/08/04/ARTI1628057805682379.shtml"
+        ],
+        "next": "第1题主要矛盾变化与初级阶段关系辨析"
       }
     },
     "developmentConceptProblemMapping": {
@@ -9321,7 +9387,7 @@
     },
     "2026-11-19": {
       "status": "in_progress",
-      "answeredQuestions": 4,
+      "answeredQuestions": 5,
       "plannedMinutes": 150,
       "plannedAllocation": {
         "law": 90,
@@ -9329,17 +9395,16 @@
       },
       "actualMinutes": null,
       "mastered": false,
-      "lastQuestionId": "2026-11-19-M06-delayed-review-house-1",
-      "currentPhase": "M06房屋抵押隔日复测两项及理由正确；第二道短复习遗失物追回与起点待答，之后进入政治P03",
+      "lastQuestionId": "2026-11-19-M06-delayed-review-lost-1",
+      "currentPhase": "P03已开始：社会主要矛盾与两个没有变；第1题待答。法律短复习结束，房屋抵押通过一次、遗失物起点错误保留",
       "pendingQuestion": {
-        "lesson": "M06",
-        "status": "awaiting_answer",
-        "id": "2026-11-19-M06-delayed-review-lost-1",
-        "type": "next_calendar_day_retest",
-        "sourceQuestionId": "2026-11-18-M06-practice-4",
-        "question": "甲的相机三年前遗失，被乙捡到后以合理价格卖给丙并交付。丙购买时不知道是遗失物且无重大过失，直接从普通个人乙处购得。甲此前不知道也不应当知道丙是受让人，直到上个月才知道，随即请求返还。丙能否以自己善意、合理价格、已经交付，且相机已遗失三年为由拒绝返还？请说明理由。"
+        "id": "2026-11-19-P03-practice-1",
+        "lesson": "P03",
+        "type": "guided_application",
+        "question": "判断并说明理由：我国社会主要矛盾发生了变化，说明我国已经走出社会主义初级阶段。",
+        "status": "awaiting_answer"
       },
-      "nextQuestion": "2026-11-19-M06-delayed-review-lost-1",
+      "nextQuestion": "2026-11-19-P03-practice-1",
       "carryForward": {
         "fromDate": "2026-11-18",
         "outstandingMinutesUnknown": true,
@@ -9389,12 +9454,12 @@
   "resumeState": {
     "asOf": "2026-11-19",
     "timezone": "Asia/Hong_Kong",
-    "lesson": "M06",
-    "questionId": "2026-11-19-M06-delayed-review-lost-1",
+    "lesson": "P03",
+    "questionId": "2026-11-19-P03-practice-1",
     "questionStatus": "awaiting_answer",
-    "question": "甲的相机三年前遗失，被乙捡到后以合理价格卖给丙并交付。丙购买时不知道是遗失物且无重大过失，直接从普通个人乙处购得。甲此前不知道也不应当知道丙是受让人，直到上个月才知道，随即请求返还。丙能否以自己善意、合理价格、已经交付，且相机已遗失三年为由拒绝返还？请说明理由。",
-    "currentActivity": "M06房屋抵押隔日复测两项及理由正确；第二道短复习遗失物追回与起点待答，之后进入政治P03",
-    "politicsNext": "P03，尚未授课"
+    "question": "判断并说明理由：我国社会主要矛盾发生了变化，说明我国已经走出社会主义初级阶段。",
+    "currentActivity": "P03已开始：社会主要矛盾与两个没有变；第1题待答。法律短复习结束，房屋抵押通过一次、遗失物起点错误保留",
+    "politicsNext": "P03第1题，已讲第一小节尚未作答"
   },
   "syncProject": {
     "rootOnThisComputer": "E:\\文档\\公考学习",
