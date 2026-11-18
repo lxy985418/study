@@ -358,7 +358,7 @@
       "mastered": false
     }
   ],
-  "nextLesson": "M06维修费留置变式正确；第12题担保财产不得因事先约定自动归债权人待答，后做短复习转政治；P03尚未授课。",
+  "nextLesson": "M06事先自动取得质物题答对，开始两道短复习；当前待答房屋抵押合同与抵押权隔日复测，之后转政治P03；P03尚未授课。",
   "days": [
     {
       "day": 1,
@@ -4240,6 +4240,19 @@
       "conclusionCorrect": true,
       "reasonComplete": true,
       "assessment": "订正后维修费变式正确：可依法留置，手表与修理费属于同一维修法律关系，认可简洁回答。此前第10题不能留置的结论对但质押理由错仍保留，20日延迟复测不取消；不标全部掌握。"
+    },
+    {
+      "id": "2026-11-19-M06-practice-12",
+      "date": "2026-11-19",
+      "lesson": "M06",
+      "type": "guided_application",
+      "question": "甲向乙借款3000元，以自己价值1万元的手表依法设立质押。借款到期前，双方约定：甲到期不还钱，手表就直接归乙所有。后来甲未按期还款。乙能否仅凭这项事先约定，直接取得手表所有权？",
+      "userAnswer": "不可以",
+      "mastered": false,
+      "conclusionCorrect": true,
+      "reasonRequired": false,
+      "reasonExpressed": false,
+      "assessment": "正确否定凭到期前的自动归属约定直接取得质物所有权。本题仅问能否，简洁回答予以认可，补充只能依法优先受偿。不据此推定对全部实现程序已掌握。"
     }
   ],
   "lessonProgress": {
@@ -4728,12 +4741,13 @@
         14,
         17
       ],
-      "next": "M06维修费留置变式正确；第12题担保财产不得因事先约定自动归债权人待答，后做短复习转政治",
+      "next": "M06事先自动取得质物题答对，开始两道短复习；当前待答房屋抵押合同与抵押权隔日复测，之后转政治P03",
       "lastApplication": {
-        "questionId": "2026-11-19-M06-practice-11",
+        "questionId": "2026-11-19-M06-practice-12",
         "conclusionCorrect": true,
-        "reasonComplete": true,
-        "assessment": "订正后维修费变式正确：可依法留置，手表与修理费属于同一维修法律关系，认可简洁回答。此前第10题不能留置的结论对但质押理由错仍保留，20日延迟复测不取消；不标全部掌握。",
+        "reasonRequired": false,
+        "reasonExpressed": false,
+        "assessment": "正确否定凭到期前的自动归属约定直接取得质物所有权。本题仅问能否，简洁回答予以认可，补充只能依法优先受偿。不据此推定对全部实现程序已掌握。",
         "mastered": false
       }
     }
@@ -9293,7 +9307,7 @@
     },
     "2026-11-19": {
       "status": "in_progress",
-      "answeredQuestions": 2,
+      "answeredQuestions": 3,
       "plannedMinutes": 150,
       "plannedAllocation": {
         "law": 90,
@@ -9301,16 +9315,17 @@
       },
       "actualMinutes": null,
       "mastered": false,
-      "lastQuestionId": "2026-11-19-M06-practice-11",
-      "currentPhase": "M06维修费留置变式正确；第12题担保财产不得因事先约定自动归债权人待答，后做短复习转政治",
+      "lastQuestionId": "2026-11-19-M06-practice-12",
+      "currentPhase": "M06事先自动取得质物题答对，开始两道短复习；当前待答房屋抵押合同与抵押权隔日复测，之后转政治P03",
       "pendingQuestion": {
         "lesson": "M06",
         "status": "awaiting_answer",
-        "id": "2026-11-19-M06-practice-12",
-        "type": "guided_application",
-        "question": "甲向乙借款3000元，以自己价值1万元的手表依法设立质押。借款到期前，双方约定：甲到期不还钱，手表就直接归乙所有。后来甲未按期还款。乙能否仅凭这项事先约定，直接取得手表所有权？"
+        "id": "2026-11-19-M06-delayed-review-house-1",
+        "type": "next_calendar_day_retest",
+        "sourceQuestionId": "2026-11-18-M06-practice-8",
+        "question": "甲以自己的房屋为向乙所借款项提供抵押，双方依法订立的抵押合同已经生效，但尚未办理抵押登记。请分别判断：①抵押合同是否有效？②乙是否已经取得房屋抵押权？"
       },
-      "nextQuestion": "2026-11-19-M06-practice-12",
+      "nextQuestion": "2026-11-19-M06-delayed-review-house-1",
       "carryForward": {
         "fromDate": "2026-11-18",
         "outstandingMinutesUnknown": true,
@@ -9361,10 +9376,10 @@
     "asOf": "2026-11-19",
     "timezone": "Asia/Hong_Kong",
     "lesson": "M06",
-    "questionId": "2026-11-19-M06-practice-12",
+    "questionId": "2026-11-19-M06-delayed-review-house-1",
     "questionStatus": "awaiting_answer",
-    "question": "甲向乙借款3000元，以自己价值1万元的手表依法设立质押。借款到期前，双方约定：甲到期不还钱，手表就直接归乙所有。后来甲未按期还款。乙能否仅凭这项事先约定，直接取得手表所有权？",
-    "currentActivity": "M06维修费留置变式正确；第12题担保财产不得因事先约定自动归债权人待答，后做短复习转政治",
+    "question": "甲以自己的房屋为向乙所借款项提供抵押，双方依法订立的抵押合同已经生效，但尚未办理抵押登记。请分别判断：①抵押合同是否有效？②乙是否已经取得房屋抵押权？",
+    "currentActivity": "M06事先自动取得质物题答对，开始两道短复习；当前待答房屋抵押合同与抵押权隔日复测，之后转政治P03",
     "politicsNext": "P03，尚未授课"
   },
   "syncProject": {
