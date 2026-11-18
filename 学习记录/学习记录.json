@@ -8598,9 +8598,10 @@
         "法律/每日复盘/2026-11-18/知识点总结.md",
         "政治理论/每日复盘/2026-11-18/知识点总结.md"
       ],
-      "remoteStatus": "pending_push",
+      "remoteStatus": "synced",
       "newAnswersAdded": 0,
-      "masteryChanged": false
+      "masteryChanged": false,
+      "verifiedContentCommit": "0f9f5aad2eca4da832b76c8dbc179ca65962217c"
     }
   },
   "documentStoragePreference": {
@@ -9096,6 +9097,6 @@
     "verifiedVisibility": "private",
     "authenticatedAccount": "lxy985418",
     "branch": "main",
-    "lastVerifiedContentCommit": "669ab6c79bb761f6aba9e2a678c9b5ce3ad5733a"
+    "lastVerifiedContentCommit": "0f9f5aad2eca4da832b76c8dbc179ca65962217c"
   }
 }
