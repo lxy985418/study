@@ -199,6 +199,14 @@
         "11月18日首次遗失物应用误答丙可以拒还，理由未表达；订正后换渠道费用变式，原错保留。",
         "第5题拍卖购买费用变式答应当，订正后判断正确；未消除原追回题错误，仍需隔日复测。"
       ]
+    },
+    {
+      "id": "M06-house-mortgage-registration",
+      "topic": "房屋抵押合同生效与抵押登记设权分开",
+      "status": "needs_delayed_retest",
+      "observations": [
+        "11月18日第8题未登记误答取得了，在办理抵押时取得；已区分签约与登记，次日无提示复测。"
+      ]
     }
   ],
   "reviewQueue": [
@@ -317,9 +325,21 @@
       "sourceQuestionId": "2026-11-18-M06-practice-4",
       "status": "due",
       "mastered": false
+    },
+    {
+      "date": "2026-11-19",
+      "lesson": "M06",
+      "focus": [
+        "房屋抵押合同生效与登记设权区别",
+        "动产抵押合同生效设权及登记对抗",
+        "同汽车所有权交付转移分开"
+      ],
+      "sourceQuestionId": "2026-11-18-M06-practice-8",
+      "status": "due",
+      "mastered": false
     }
   ],
-  "nextLesson": "M06未交付未设立动产质权答对；进入抵押设立规则，第8题房屋未登记待答；P03尚未授课。",
+  "nextLesson": "M06房屋未登记误答已取得，已订正；第9题汽车抵押设立及登记对抗待答；P03尚未授课。",
   "days": [
     {
       "day": 1,
@@ -4129,6 +4149,18 @@
       "conclusionCorrect": true,
       "reasonComplete": true,
       "assessment": "正确区分质押合同有效与动产质权设立，因尚未交付而未取得质权，结论及理由正确。保留首次应用属性，不标全模块掌握。"
+    },
+    {
+      "id": "2026-11-18-M06-practice-8",
+      "date": "2026-11-18",
+      "lesson": "M06",
+      "type": "guided_application",
+      "question": "甲以自己有权处分的房屋为向乙所借款项设定抵押，双方依法签订的书面抵押合同已经生效，但尚未办理抵押登记。乙是否已经取得该房屋的抵押权？请说明理由。",
+      "userAnswer": "取得了，在办理抵押的时候就取得了",
+      "mastered": false,
+      "conclusionCorrect": false,
+      "reasonComplete": false,
+      "assessment": "题设明确房屋抵押合同已生效但尚未登记，乙尚未取得房屋抵押权。原答取得了错误，办理抵押表述未区分订立合同与完成抵押登记；补充合同生效与登记设权的区别，不推定为粗心。保留原答，讲解一次，再以汽车抵押变式检查并安排隔日复测。"
     }
   ],
   "lessonProgress": {
@@ -4612,12 +4644,12 @@
         14,
         17
       ],
-      "next": "M06未交付未设立动产质权答对；进入抵押设立规则，第8题房屋未登记待答",
+      "next": "M06房屋未登记误答已取得，已订正；第9题汽车抵押设立及登记对抗待答",
       "lastApplication": {
-        "questionId": "2026-11-18-M06-practice-7",
-        "conclusionCorrect": true,
-        "reasonComplete": true,
-        "assessment": "正确区分质押合同有效与动产质权设立，因尚未交付而未取得质权，结论及理由正确。保留首次应用属性，不标全模块掌握。",
+        "questionId": "2026-11-18-M06-practice-8",
+        "conclusionCorrect": false,
+        "reasonComplete": false,
+        "assessment": "题设明确房屋抵押合同已生效但尚未登记，乙尚未取得房屋抵押权。原答取得了错误，办理抵押表述未区分订立合同与完成抵押登记；补充合同生效与登记设权的区别，不推定为粗心。保留原答，讲解一次，再以汽车抵押变式检查并安排隔日复测。",
         "mastered": false
       }
     }
@@ -9135,7 +9167,7 @@
     },
     "2026-11-18": {
       "status": "in_progress",
-      "answeredQuestions": 8,
+      "answeredQuestions": 9,
       "plannedMinutes": 150,
       "plannedAllocation": {
         "law": 90,
@@ -9154,16 +9186,16 @@
         ],
         "newLessonProtection": "复习不在同一表述上反复至正确而挤占新课；本次优先购买权已答对，直接进入M06。"
       },
-      "lastQuestionId": "2026-11-18-M06-practice-7",
-      "currentPhase": "M06未交付未设立动产质权答对；进入抵押设立规则，第8题房屋未登记待答",
+      "lastQuestionId": "2026-11-18-M06-practice-8",
+      "currentPhase": "M06房屋未登记误答已取得，已订正；第9题汽车抵押设立及登记对抗待答",
       "pendingQuestion": {
         "lesson": "M06",
         "status": "awaiting_answer",
-        "id": "2026-11-18-M06-practice-8",
-        "type": "guided_application",
-        "question": "甲以自己有权处分的房屋为向乙所借款项设定抵押，双方依法签订的书面抵押合同已经生效，但尚未办理抵押登记。乙是否已经取得该房屋的抵押权？请说明理由。"
+        "id": "2026-11-18-M06-practice-9",
+        "type": "post_correction_transfer",
+        "question": "甲以自己有权处分的汽车向乙提供抵押担保，双方依法订立的书面抵押合同已经生效，但尚未办理抵押登记。①乙是否已经取得汽车抵押权？②该未经登记的抵押权能否对抗善意第三人？"
       },
-      "nextQuestion": "2026-11-18-M06-practice-8",
+      "nextQuestion": "2026-11-18-M06-practice-9",
       "documentationRequest": {
         "date": "2026-11-18",
         "scope": "2026-11-14至18学习记录、已讲知识、接续与私有Git同步准备",
@@ -9209,10 +9241,10 @@
     "asOf": "2026-11-18",
     "timezone": "Asia/Hong_Kong",
     "lesson": "M06",
-    "questionId": "2026-11-18-M06-practice-8",
+    "questionId": "2026-11-18-M06-practice-9",
     "questionStatus": "awaiting_answer",
-    "question": "甲以自己有权处分的房屋为向乙所借款项设定抵押，双方依法签订的书面抵押合同已经生效，但尚未办理抵押登记。乙是否已经取得该房屋的抵押权？请说明理由。",
-    "currentActivity": "M06未交付未设立动产质权答对；进入抵押设立规则，第8题房屋未登记待答",
+    "question": "甲以自己有权处分的汽车向乙提供抵押担保，双方依法订立的书面抵押合同已经生效，但尚未办理抵押登记。①乙是否已经取得汽车抵押权？②该未经登记的抵押权能否对抗善意第三人？",
+    "currentActivity": "M06房屋未登记误答已取得，已订正；第9题汽车抵押设立及登记对抗待答",
     "politicsNext": "P03，尚未授课"
   },
   "syncProject": {

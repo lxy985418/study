@@ -116,6 +116,18 @@
       "sourceQuestionId": "2026-11-18-M06-practice-4",
       "status": "due",
       "mastered": false
+    },
+    {
+      "date": "2026-11-19",
+      "lesson": "M06",
+      "focus": [
+        "房屋抵押合同生效与登记设权区别",
+        "动产抵押合同生效设权及登记对抗",
+        "同汽车所有权交付转移分开"
+      ],
+      "sourceQuestionId": "2026-11-18-M06-practice-8",
+      "status": "due",
+      "mastered": false
     }
   ],
   "politics": [
