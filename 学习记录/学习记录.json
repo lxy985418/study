@@ -298,7 +298,7 @@
       "status": "due"
     }
   ],
-  "nextLesson": "从M06第2题无偿赠与变式继续；P03尚未授课。",
+  "nextLesson": "M06第3题善意判断时点；P03尚未授课。",
   "days": [
     {
       "day": 1,
@@ -4035,6 +4035,18 @@
       "reasonComplete": true,
       "mastered": false,
       "assessment": "首次应用正确：结合题设识别受让时善意、合理价格及已交付，结论丙取得所有权正确。对题设的简洁概括予以认可；补充善意含不知道无处分权且无重大过失。不因一道有提示题答对标记全模块掌握。"
+    },
+    {
+      "id": "2026-11-18-M06-practice-2",
+      "date": "2026-11-18",
+      "lesson": "M06",
+      "type": "transfer_application",
+      "question": "仍是甲把相机交乙保管，乙无处分权。这次乙没有出售，而是把相机无偿赠给丙并已交付。丙受赠时不知道乙无处分权，也无重大过失；甲没有同意或追认，不存在其他取得所有权的依据。丙能否依据善意取得取得相机所有权？请说明缺少哪个条件。",
+      "userAnswer": "没有获得，缺少合理价格",
+      "conclusionCorrect": true,
+      "reasonComplete": true,
+      "mastered": false,
+      "assessment": "无偿赠与变式首次正确，识别不满足以合理价格转让条件；不因受赠时善意且已交付就认定善意取得。与有权所有人赠与的正常取得分开，不扩大为所有赠与都不能取得所有权。"
     }
   ],
   "lessonProgress": {
@@ -4481,7 +4493,9 @@
         "善意取得以转让人无处分权为前提，与M05合法所有权人出售的普通场景分开",
         "一般善意取得条件：受让时善意、以合理价格转让、完成依具体财产类型要求的登记或交付；排除法律另有规定的情形",
         "善意：受让时不知道转让人无处分权且无重大过失；不等于只要自己声称不知道就够",
-        "符合善意取得后，原所有权人可依法向无处分权人请求损害赔偿"
+        "符合善意取得后，原所有权人可依法向无处分权人请求损害赔偿",
+        "无偿赠与不满足以合理价格转让，不能依此善意取得",
+        "善意原则以依法完成不动产转移登记或动产交付时判断；本次先讲普通动产现实交付"
       ],
       "pending": [
         "善意判断时点及合理价格、公示的分别应用",
@@ -4496,11 +4510,12 @@
         311
       ],
       "interpretationArticles": [
-        14
+        14,
+        17
       ],
-      "next": "无偿赠与变式，检查合理价格条件；随后继续善意取得边界。",
+      "next": "善意判断时点变式，普通动产以交付时审查。",
       "lastApplication": {
-        "questionId": "2026-11-18-M06-practice-1",
+        "questionId": "2026-11-18-M06-practice-2",
         "conclusionCorrect": true,
         "reasonComplete": true,
         "mastered": false
@@ -9020,7 +9035,7 @@
     },
     "2026-11-18": {
       "status": "in_progress",
-      "answeredQuestions": 2,
+      "answeredQuestions": 3,
       "plannedMinutes": 150,
       "plannedAllocation": {
         "law": 90,
@@ -9039,16 +9054,16 @@
         ],
         "newLessonProtection": "复习不在同一表述上反复至正确而挤占新课；本次优先购买权已答对，直接进入M06。"
       },
-      "lastQuestionId": "2026-11-18-M06-practice-1",
-      "currentPhase": "M06善意取得：首题三条件应用正确，讲权利归属与赔偿；待答无偿赠与变式",
+      "lastQuestionId": "2026-11-18-M06-practice-2",
+      "currentPhase": "M06前两题正确，已讲普通动产善意以交付时判断，待答第3题",
       "pendingQuestion": {
-        "id": "2026-11-18-M06-practice-2",
+        "id": "2026-11-18-M06-practice-3",
         "lesson": "M06",
-        "type": "transfer_application",
-        "question": "仍是甲把相机交乙保管，乙无处分权。这次乙没有出售，而是把相机无偿赠给丙并已交付。丙受赠时不知道乙无处分权，也无重大过失；甲没有同意或追认，不存在其他取得所有权的依据。丙能否依据善意取得取得相机所有权？请说明缺少哪个条件。",
+        "type": "guided_application",
+        "question": "甲把相机交乙保管，乙无权出售。丙按合理价格购买，付款时不知道乙无处分权且无重大过失；在相机实际交付之前，丙已明确得知相机属于甲、乙无权出售，之后乙仍把相机交给丙。无其他取得所有权的依据。丙能否善意取得？应以付款时还是交付时判断善意？",
         "status": "awaiting_answer"
       },
-      "nextQuestion": "2026-11-18-M06-practice-2",
+      "nextQuestion": "2026-11-18-M06-practice-3",
       "documentationRequest": {
         "date": "2026-11-18",
         "scope": "2026-11-14至18学习记录、已讲知识、接续与私有Git同步准备",
@@ -9094,10 +9109,10 @@
     "asOf": "2026-11-18",
     "timezone": "Asia/Hong_Kong",
     "lesson": "M06",
-    "questionId": "2026-11-18-M06-practice-2",
+    "questionId": "2026-11-18-M06-practice-3",
     "questionStatus": "awaiting_answer",
-    "question": "仍是甲把相机交乙保管，乙无处分权。这次乙没有出售，而是把相机无偿赠给丙并已交付。丙受赠时不知道乙无处分权，也无重大过失；甲没有同意或追认，不存在其他取得所有权的依据。丙能否依据善意取得取得相机所有权？请说明缺少哪个条件。",
-    "currentActivity": "已恢复学习，M06首题正确；待答无偿赠与变式",
+    "question": "甲把相机交乙保管，乙无权出售。丙按合理价格购买，付款时不知道乙无处分权且无重大过失；在相机实际交付之前，丙已明确得知相机属于甲、乙无权出售，之后乙仍把相机交给丙。无其他取得所有权的依据。丙能否善意取得？应以付款时还是交付时判断善意？",
+    "currentActivity": "M06无偿赠与变式正确；待答交付前得知无处分权的时点题",
     "politicsNext": "P03，尚未授课"
   },
   "syncProject": {
