@@ -339,7 +339,7 @@
       "mastered": false
     }
   ],
-  "nextLesson": "M06第9题①汽车抵押权设立及理由正确，第②问登记对抗仍待答，整题未完成；P03尚未授课。",
+  "nextLesson": "M06第9题两问均正确且同题补答未重复计数；进入留置条件，第10题同一法律关系待答；P03尚未授课。",
   "days": [
     {
       "day": 1,
@@ -4170,19 +4170,31 @@
       "question": "甲以自己有权处分的汽车向乙提供抵押担保，双方依法订立的书面抵押合同已经生效，但尚未办理抵押登记。①乙是否已经取得汽车抵押权？②该未经登记的抵押权能否对抗善意第三人？",
       "userAnswer": "取得了，动产是抵押合同生效时",
       "mastered": false,
-      "status": "awaiting_remaining_answer",
-      "conclusionCorrect": null,
-      "reasonComplete": null,
+      "status": "graded",
+      "conclusionCorrect": true,
+      "reasonComplete": true,
       "answeredParts": {
         "1": {
           "conclusionCorrect": true,
           "reasonComplete": true
+        },
+        "2": {
+          "conclusionCorrect": true,
+          "reasonRequired": false
         }
       },
-      "unansweredParts": [
-        2
+      "unansweredParts": [],
+      "assessment": "第①问原答取得了，动产是抵押合同生效时，结论及理由正确；第②问补答不能，正确判断未登记不得对抗善意第三人。两问均正确，同题合并不重复计数；此前房屋抵押未登记题的初答错误仍保留隔日复测，不以本变式正确覆盖。",
+      "assessmentHistory": [
+        "只作答第①问：汽车抵押权已取得，因动产抵押合同已生效，结论和理由正确。第②问能否对抗善意第三人尚未作答，未判错、未代答、未记整题完成；补答更新同题，不重复计数。"
       ],
-      "assessment": "只作答第①问：汽车抵押权已取得，因动产抵押合同已生效，结论和理由正确。第②问能否对抗善意第三人尚未作答，未判错、未代答、未记整题完成；补答更新同题，不重复计数。"
+      "supplementalAnswers": [
+        {
+          "date": "2026-11-18",
+          "part": 2,
+          "userAnswer": "不能"
+        }
+      ]
     }
   ],
   "lessonProgress": {
@@ -4639,7 +4651,9 @@
         "担保通常为依法优先受偿，不使所有权直接自动转给债权人",
         "质押合同有效与动产质权设立分别判断；单纯签约未交付、无其他交付安排，尚未设立动产质权",
         "房屋等依法须登记的抵押权自登记时设立；动产抵押权自抵押合同生效时设立，未经登记不得对抗善意第三人",
-        "汽车所有权转移通常看交付，与汽车抵押权通常自抵押合同生效设立的规则分开"
+        "汽车所有权转移通常看交付，与汽车抵押权通常自抵押合同生效设立的规则分开",
+        "留置须债务到期未履行、债权人合法占有债务人动产；一般动产与债权属于同一法律关系，企业之间有例外，法律或约定禁止留置的不得留置",
+        "借钱并约定交付担保的动产质押，与送修欠费符合法定条件的留置区分"
       ],
       "pending": [
         "善意判断时点及合理价格、公示的分别应用",
@@ -4666,22 +4680,24 @@
         14,
         17
       ],
-      "next": "M06第9题①汽车抵押权设立及理由正确，第②问登记对抗仍待答，整题未完成",
+      "next": "M06第9题两问均正确且同题补答未重复计数；进入留置条件，第10题同一法律关系待答",
       "lastApplication": {
         "questionId": "2026-11-18-M06-practice-9",
-        "status": "awaiting_remaining_answer",
-        "conclusionCorrect": null,
-        "reasonComplete": null,
+        "status": "graded",
+        "conclusionCorrect": true,
+        "reasonComplete": true,
         "answeredParts": {
           "1": {
             "conclusionCorrect": true,
             "reasonComplete": true
+          },
+          "2": {
+            "conclusionCorrect": true,
+            "reasonRequired": false
           }
         },
-        "unansweredParts": [
-          2
-        ],
-        "assessment": "只作答第①问：汽车抵押权已取得，因动产抵押合同已生效，结论和理由正确。第②问能否对抗善意第三人尚未作答，未判错、未代答、未记整题完成；补答更新同题，不重复计数。",
+        "unansweredParts": [],
+        "assessment": "第①问原答取得了，动产是抵押合同生效时，结论及理由正确；第②问补答不能，正确判断未登记不得对抗善意第三人。两问均正确，同题合并不重复计数；此前房屋抵押未登记题的初答错误仍保留隔日复测，不以本变式正确覆盖。",
         "mastered": false
       }
     }
@@ -9219,21 +9235,15 @@
         "newLessonProtection": "复习不在同一表述上反复至正确而挤占新课；本次优先购买权已答对，直接进入M06。"
       },
       "lastQuestionId": "2026-11-18-M06-practice-9",
-      "currentPhase": "M06第9题①汽车抵押权设立及理由正确，第②问登记对抗仍待答，整题未完成",
+      "currentPhase": "M06第9题两问均正确且同题补答未重复计数；进入留置条件，第10题同一法律关系待答",
       "pendingQuestion": {
         "lesson": "M06",
-        "status": "awaiting_remaining_answer",
-        "id": "2026-11-18-M06-practice-9",
-        "type": "post_correction_transfer",
-        "answeredParts": [
-          1
-        ],
-        "remainingParts": [
-          2
-        ],
-        "question": "甲以自己有权处分的汽车向乙提供抵押担保，双方依法订立的书面抵押合同已经生效，但尚未办理抵押登记。①乙是否已经取得汽车抵押权？②该未经登记的抵押权能否对抗善意第三人？"
+        "status": "awaiting_answer",
+        "id": "2026-11-18-M06-practice-10",
+        "type": "guided_application",
+        "question": "甲因个人借款欠乙1万元，已经到期未还。乙此前因另一份借用合同，合法借用了甲的相机并占有至今。甲乙均非企业，不存在其他法定例外。乙能否仅因甲欠借款不还，就对这台相机行使留置权？请说明理由。"
       },
-      "nextQuestion": "2026-11-18-M06-practice-9",
+      "nextQuestion": "2026-11-18-M06-practice-10",
       "documentationRequest": {
         "date": "2026-11-18",
         "scope": "2026-11-14至18学习记录、已讲知识、接续与私有Git同步准备",
@@ -9279,10 +9289,10 @@
     "asOf": "2026-11-18",
     "timezone": "Asia/Hong_Kong",
     "lesson": "M06",
-    "questionId": "2026-11-18-M06-practice-9",
-    "questionStatus": "awaiting_remaining_answer",
-    "question": "甲以自己有权处分的汽车向乙提供抵押担保，双方依法订立的书面抵押合同已经生效，但尚未办理抵押登记。①乙是否已经取得汽车抵押权？②该未经登记的抵押权能否对抗善意第三人？",
-    "currentActivity": "M06第9题①汽车抵押权设立及理由正确，第②问登记对抗仍待答，整题未完成",
+    "questionId": "2026-11-18-M06-practice-10",
+    "questionStatus": "awaiting_answer",
+    "question": "甲因个人借款欠乙1万元，已经到期未还。乙此前因另一份借用合同，合法借用了甲的相机并占有至今。甲乙均非企业，不存在其他法定例外。乙能否仅因甲欠借款不还，就对这台相机行使留置权？请说明理由。",
+    "currentActivity": "M06第9题两问均正确且同题补答未重复计数；进入留置条件，第10题同一法律关系待答",
     "politicsNext": "P03，尚未授课"
   },
   "syncProject": {
