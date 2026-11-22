@@ -1113,5 +1113,26 @@
     "completionTargets": "政治12月15日、法律12月18日仍为原目标；补项及中断后尚未重新验证可行性",
     "teaching": "保留当前待答；减少同向简单重复题，增加案例、相近选项、条件变化及跨章节混测",
     "progressPercent": "此前15%—20%仅为两科课程范围粗估；非全科完成率、真题命中率或掌握率"
+  },
+  "gongwenPreparation": {
+    "preparedAt": "2026-11-23",
+    "status": "prepared_not_taught",
+    "entryRelativePath": "学习计划/课前备课/公文专项/课程入口.md",
+    "summaryRelativePath": "学习计划/课前备课/公文专项/考点总结.md",
+    "questionBankRelativePath": "学习计划/课前备课/公文专项/题目与衔接.json",
+    "mainQuestions": 30,
+    "remediationQuestions": 6,
+    "normalTotalMinutes": 300,
+    "shortTotalMinutes": 145,
+    "scheduledDate": null,
+    "scheduleStatus": "课次已备；每日预算分配与日历待确定",
+    "lessonIds": [
+      "GW01",
+      "GW02",
+      "GW03",
+      "GW04",
+      "GW05",
+      "GW06"
+    ]
   }
 }
