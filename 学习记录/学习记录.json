@@ -6294,6 +6294,46 @@
         ]
       },
       "scope": "仅法律与政治专项；其他考试科目尚未纳入该150分钟逐日计划。"
+    },
+    "supplementReview": {
+      "recordedAt": "2026-11-23",
+      "relativePath": "学习计划/2026-11-23_计划补项与进度核对.md",
+      "status": "缺口及建议已归档，具体课次与日期待安排",
+      "scope": "法律、政治专项；不代表全科备考",
+      "keepDailyBudget": {
+        "law": 90,
+        "politics": 60,
+        "total": 150
+      },
+      "supplementBacklog": [
+        {
+          "topic": "法人设立期间责任、合同等案例辨析细节",
+          "placement": "对应法律模块内补齐",
+          "status": "待查漏讲练"
+        },
+        {
+          "topic": "政治经济学基础",
+          "placement": "需明确安排课次，不能以马哲替代",
+          "status": "待安排"
+        },
+        {
+          "topic": "事业单位人事管理条例",
+          "placement": "其他法律法规板块",
+          "status": "待安排"
+        }
+      ],
+      "otherSubjectGaps": [
+        "经济管理",
+        "公文",
+        "科技文化",
+        "四川省情",
+        "职测",
+        "时事；综合能力测试按目标公告确认"
+      ],
+      "otherSubjectsTime": "未分配；若纳入现有150分钟需重新分配，不自动加课",
+      "completionTargets": "政治12月15日、法律12月18日仍为原目标；补项及中断后尚未重新验证可行性",
+      "teaching": "保留当前待答；减少同向简单重复题，增加案例、相近选项、条件变化及跨章节混测",
+      "progressPercent": "此前15%—20%仅为两科课程范围粗估；非全科完成率、真题命中率或掌握率"
     }
   },
   "politics": {
@@ -9768,5 +9808,15 @@
     "questionBankRelativePath": "学习计划/课前备课/2026-11-20/题目与衔接.json",
     "pendingQuestionPreserved": "2026-11-19-P04-practice-1",
     "preparedQuestionCount": 27
+  },
+  "targetExamContext": {
+    "recordedAt": "2026-11-23",
+    "source": "用户在本聊天明确说明",
+    "targetCity": "四川省泸州市",
+    "major": "软件工程",
+    "preferredPositions": "计算机相关岗位",
+    "targetPositionTableStatus": "用户表示目标岗位表尚未公布；本次同步未重新查询公告",
+    "examSubjects": "以目标批次公告及岗位表为准，尚未最终确认",
+    "examDateSource": "2026-12-26仍为用户提供的备考目标，未核实为目标岗位官方考试日期"
   }
 }
