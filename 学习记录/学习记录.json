@@ -16,7 +16,7 @@
     "effectiveDate": "2026-11-16"
   },
   "startedAt": "2026-11-14",
-  "lastSession": "2026-11-19",
+  "lastSession": "2026-11-23",
   "diagnostic": {
     "status": "graded_followup_needs_reteaching",
     "questions": 3,
@@ -4359,6 +4359,162 @@
       "reasonComplete": true,
       "mastered": false,
       "assessment": "判断错误表述并将建成现代化强国准确放到2035年至本世纪中叶阶段，纠正完整，未要求重复背答。补充2035节点为基本实现社会主义现代化。P03框架引导应用正确，完整清单回忆与延迟保持仍待检查。"
+    },
+    {
+      "id": "2026-11-19-P04-practice-1",
+      "date": "2026-11-23",
+      "lesson": "P04",
+      "type": "guided_application",
+      "question": "某地在提高居民收入、改善物质生活的同时，完善公共文化服务，加强公民道德建设，丰富群众精神文化生活。这最直接体现中国式现代化五个方面中国特色中的哪一个？",
+      "userAnswer": "协调，多方面发展",
+      "conclusionCorrect": false,
+      "reasonComplete": false,
+      "mastered": false,
+      "assessment": "抓住协调方向，但未明确物质文明与精神文明两个维度；部分正确，不按完整答对记录。讲解后用不同情境辨析，稍后间隔复测。"
+    },
+    {
+      "id": "2026-11-23-P04-transfer-1",
+      "date": "2026-11-23",
+      "lesson": "P04",
+      "type": "guided_transfer",
+      "question": "某地加大对低收入群体的帮扶，缩小城乡、区域和收入差距，让发展成果更多更公平惠及全体人民。这最直接体现中国式现代化的哪一个中国特色？请指出材料依据。",
+      "userAnswer": "城乡发展不平衡，依据是缩小城乡差距",
+      "conclusionCorrect": false,
+      "reasonComplete": false,
+      "mastered": false,
+      "assessment": "依据抓住缩小城乡差距，材料识别部分正确；但城乡发展不平衡是在描述问题，未回答所问中国特色。应为全体人民共同富裕的现代化，重点在缩小差距、成果公平惠及全体人民。"
+    },
+    {
+      "id": "2026-11-23-P04-transfer-2",
+      "date": "2026-11-23",
+      "lesson": "P04",
+      "type": "guided_application",
+      "question": "某地不再以破坏湿地为代价扩大工业园区，转而修复湿地、发展绿色产业。这最直接体现中国式现代化的哪一个中国特色？请简述依据。",
+      "userAnswer": "绿色，更多是生态方面的发展",
+      "conclusionCorrect": true,
+      "reasonComplete": true,
+      "mastered": false,
+      "assessment": "绿色、生态发展准确抓住人与自然关系的核心含义，结论与简要依据认可；补充规范名称为人与自然和谐共生的现代化，不因未逐字背诵判错。单题正确不标整模块掌握。"
+    },
+    {
+      "id": "2026-11-23-P04-transfer-3",
+      "date": "2026-11-23",
+      "lesson": "P04",
+      "type": "guided_application",
+      "question": "我国有十四亿多人口，要让这样大规模的人口整体迈入现代化社会，任务十分艰巨。这最直接体现中国式现代化的哪一个中国特色？",
+      "userAnswer": "不知道",
+      "conclusionCorrect": false,
+      "reasonComplete": false,
+      "mastered": false,
+      "assessment": "未能提取人口规模巨大的现代化这一名称；如实记未答出。补讲五方面完整框架，并区分人口规模巨大与全体人民共同富裕；不连续机械追问同一句。"
+    },
+    {
+      "id": "2026-11-23-P04-spaced-1",
+      "date": "2026-11-23",
+      "lesson": "P04",
+      "type": "same_day_spaced_transfer",
+      "question": "某地既发展经济、增加群众收入，又建设图书馆、丰富群众文化生活。这最直接体现中国式现代化的哪一个中国特色？",
+      "userAnswer": "物质文明和精神文明相协调",
+      "conclusionCorrect": true,
+      "reasonComplete": null,
+      "mastered": false,
+      "assessment": "名称准确；此前已重新展示完整框架，本次属于讲解后变式正确，不视为独立无提示保持或隔日掌握。本题只问名称，未另要求理由，不因未说理由扣错。"
+    },
+    {
+      "id": "2026-11-23-P04-application-5",
+      "date": "2026-11-23",
+      "lesson": "P04",
+      "type": "guided_application",
+      "question": "有观点认为，一个国家要实现现代化，就必须通过对外战争、殖民和掠夺来积累财富。中国式现代化是否认同这种观点？这对应哪一个中国特色？",
+      "userAnswer": "不认同，走和平发展道路",
+      "conclusionCorrect": true,
+      "reasonComplete": true,
+      "mastered": false,
+      "assessment": "判断和对应特色均正确；不要求补充题目未要求的长理由。五方面第一轮场景练习收束，人口规模及共同富裕仍待延迟复测，不标整模块掌握。"
+    },
+    {
+      "id": "2026-11-23-P04-essential-1",
+      "date": "2026-11-23",
+      "lesson": "P04",
+      "type": "guided_application",
+      "question": "有人说：中国式现代化只要经济总量不断增长就可以，不必关注发展质量。这个说法对吗？九个本质要求中的哪一项最直接反驳它？",
+      "userAnswer": "实现高质量发展",
+      "conclusionCorrect": true,
+      "reasonComplete": null,
+      "mastered": false,
+      "assessment": "准确识别实现高质量发展，接受其核心答案；未显式说原判断错误，不机械要求重复，补充增长不等于高质量。"
+    },
+    {
+      "id": "2026-11-23-P04-distinction-1",
+      "date": "2026-11-23",
+      "lesson": "P04",
+      "type": "concept_distinction",
+      "question": "全体人民共同富裕既出现在五个中国特色，也出现在九个本质要求。有人因此说两组清单完全一样，记一组即可。这个说法对吗？为什么？",
+      "userAnswer": "不对，一个阐述的是中国特色情况，一个是说明本质要求",
+      "conclusionCorrect": true,
+      "reasonComplete": true,
+      "mastered": false,
+      "assessment": "判断正确，核心区分成立：五个中国特色说明特点，九个本质要求说明必须坚持和实现什么；存在重合不等于两组相同。不强求逐字表述。"
+    },
+    {
+      "id": "2026-11-23-P04-essential-2",
+      "date": "2026-11-23",
+      "lesson": "P04",
+      "type": "guided_application",
+      "question": "某地在公共事务决策前听取居民意见，决策过程中组织协商，实施后还让居民参与监督和评价。这最直接对应九个本质要求中的哪一项？请指出依据。",
+      "userAnswer": "发展中全程人民民主",
+      "conclusionCorrect": true,
+      "reasonComplete": null,
+      "mastered": false,
+      "assessment": "核心概念识别正确，补充规范表述为发展全过程人民民主；材料依据未主动展开，由教师补充，不将术语笔误当概念错误。"
+    },
+    {
+      "id": "2026-11-23-P04-essential-3",
+      "date": "2026-11-23",
+      "lesson": "P04",
+      "type": "guided_application",
+      "question": "各国面对气候变化、公共卫生等共同挑战，应加强合作，而不是只顾本国、把风险转嫁给其他国家。这最直接对应九个本质要求中的哪一项？",
+      "userAnswer": "构建人类命运共同体",
+      "conclusionCorrect": true,
+      "reasonComplete": null,
+      "mastered": false,
+      "assessment": "核心名称准确，认可正确；完整条目为推动构建人类命运共同体。本题仅问名称，未要求理由，不扣理由分。"
+    },
+    {
+      "id": "2026-11-23-P04-principle-1",
+      "date": "2026-11-23",
+      "lesson": "P04",
+      "type": "guided_application",
+      "question": "某地推进改革时，把群众最关心的就业、教育、医疗问题作为重点，并以群众是否真正受益检验成效。这最直接体现五个重大原则中的哪一项？",
+      "userAnswer": "坚持以人民为中心的发展思想",
+      "conclusionCorrect": true,
+      "reasonComplete": null,
+      "mastered": false,
+      "assessment": "重大原则名称准确；本题只问对应项，未要求另述理由，不额外扣错。属于讲解后应用正确，仍待延迟复测。"
+    },
+    {
+      "id": "2026-11-23-P04-principle-2",
+      "date": "2026-11-23",
+      "lesson": "P04",
+      "type": "concept_distinction",
+      "question": "有人说：既然中国式现代化坚持走和平发展道路，就不应该再强调发扬斗争精神。这种说法对吗？为什么？",
+      "userAnswer": "不对，一个是本质要求，一个是原则要求，但是过程中需要拥有斗争精神，敢于斗争，不怕斗争跟和平发展并不冲突",
+      "conclusionCorrect": true,
+      "reasonComplete": false,
+      "mastered": false,
+      "assessment": "不冲突的判断及面对挑战敢于斗争的实质理解正确；分类误把走和平发展道路列为本质要求，应归五个中国特色。分属不同清单本身不能证明不矛盾，已解释斗争精神不等于发动战争。"
+    },
+    {
+      "id": "2026-11-23-P04-spaced-2",
+      "date": "2026-11-23",
+      "lesson": "P04",
+      "type": "same_day_spaced_transfer",
+      "question": "某地重点帮助低收入群体，缩小城乡、区域和收入差距，让发展成果更多更公平惠及全体人民。这最直接体现五个中国特色中的哪一个？",
+      "userAnswer": "全体人民共同富裕",
+      "conclusionCorrect": true,
+      "reasonComplete": null,
+      "mastered": false,
+      "assessment": "同日间隔变式名称正确，相较先前只答城乡不平衡已有改善；本题未要求另述理由，不扣理由分。仍不等同隔日掌握。"
     }
   ],
   "lessonProgress": {
@@ -4890,23 +5046,25 @@
     "P04": {
       "status": "instruction_started",
       "startedDate": "2026-11-19",
-      "lastStudyDate": "2026-11-19",
+      "lastStudyDate": "2026-11-23",
       "mastered": false,
       "covered": [
         "中国式现代化是中国共产党领导的社会主义现代化",
         "五方面中国特色：人口规模巨大、全体人民共同富裕、物质文明和精神文明相协调、人与自然和谐共生、走和平发展道路",
         "本次已逐项解释五方面，区别于11月14日仅作概览；应用与间隔复测尚待完成",
-        "两步走时间框架已在P03接续时讲过，后续不从零重复"
+        "两步走时间框架已在P03接续时讲过，后续不从零重复",
+        "九个本质要求第一轮完整讲解，按2+5+2理解分组；首题高质量发展待答",
+        "五个重大原则完整首讲，首题以人民为中心待答"
       ],
       "pending": [
-        "第1题材料应用",
         "五方面的其他情境、完整回忆与间隔复测",
-        "九个本质要求和五个重大原则尚未系统讲授"
+        "九个本质要求应用与延迟回忆",
+        "五个重大原则材料辨析及延迟回忆"
       ],
       "sources": [
         "https://www.12371.cn/2025/02/20/ARTI1740037057009237.shtml"
       ],
-      "next": "第1题物质与精神文明协调应用，未评分"
+      "next": "本轮收束，人口规模及三组归属后续延迟复测；九个要求与五个原则未全面检验，不标掌握"
     }
   },
   "legacyLawOnlyDays": [
@@ -9659,7 +9817,8 @@
         "lesson": "P04",
         "type": "guided_application",
         "question": "某地在提高居民收入、改善物质生活的同时，完善公共文化服务，加强公民道德建设，丰富群众精神文化生活。这最直接体现中国式现代化五个方面中国特色中的哪一个？",
-        "status": "awaiting_answer"
+        "status": "answered_on_2026-11-23",
+        "answeredDate": "2026-11-23"
       },
       "nextQuestion": "2026-11-19-P04-practice-1",
       "carryForward": {
@@ -9688,6 +9847,29 @@
         "law": 30,
         "politics": 20,
         "total": 50
+      }
+    },
+    "2026-11-23": {
+      "status": "in_progress",
+      "answeredQuestions": 13,
+      "actualMinutes": null,
+      "mastered": false,
+      "lastQuestionId": "2026-11-23-P04-spaced-2",
+      "currentPhase": "P04本轮收束，用户报告政治学了半个多小时；转法律M04旧错点复测",
+      "pendingQuestion": {
+        "id": "2026-11-23-M04-review-1",
+        "lesson": "M04",
+        "type": "spaced_review",
+        "question": "甲欠乙一笔普通借款，诉讼时效已经届满。此后甲明确向乙承诺这笔钱我会还，后来又以原诉讼时效已经届满为由拒绝还款。甲还能以原诉讼时效届满进行抗辩吗？请说明理由。",
+        "status": "awaiting_answer"
+      },
+      "nextQuestion": "2026-11-23-M04-review-1",
+      "timeReport": {
+        "original": "半个多小时吧",
+        "reportedBlock": "本次P04政治学习至小节收束",
+        "basis": "user_report_estimate",
+        "interpretation": "政治学习三十多分钟，未核实精确分钟，不擅自写为35分钟",
+        "subject": "politics"
       }
     }
   },
@@ -9744,15 +9926,15 @@
     "preparation": "每次学习收尾提前准备下一课完整小节讲解、题目、答案、错因分支、出处、预算及时间不足版本。开课先读最新进度及备课包；不每题临时规划。预备内容不计已学已答，课堂一题一答。"
   },
   "resumeState": {
-    "asOf": "2026-11-19",
+    "asOf": "2026-11-23",
     "timezone": "Asia/Hong_Kong",
-    "lesson": "P04",
-    "questionId": "2026-11-19-P04-practice-1",
+    "lesson": "M04",
+    "questionId": "2026-11-23-M04-review-1",
     "questionStatus": "awaiting_answer",
-    "question": "某地在提高居民收入、改善物质生活的同时，完善公共文化服务，加强公民道德建设，丰富群众精神文化生活。这最直接体现中国式现代化五个方面中国特色中的哪一个？",
-    "currentActivity": "P03两步走纠正正确，核心框架待间隔复习；进入P04五方面中国特色，第1题物质与精神文明应用待答",
-    "politicsNext": "P04第1题，五个方面已展开第一轮讲解，应用待答",
-    "deliveryNote": "按新执行节奏接续当前P04首题，不把节奏讨论算回答；本日剩余计划法律30、政治20分钟（依用户估计）。"
+    "question": "甲欠乙一笔普通借款，诉讼时效已经届满。此后甲明确向乙承诺这笔钱我会还，后来又以原诉讼时效已经届满为由拒绝还款。甲还能以原诉讼时效届满进行抗辩吗？请说明理由。",
+    "currentActivity": "P04本轮收束，用户报告政治学了半个多小时；转法律M04旧错点复测",
+    "politicsNext": "后续复测人口规模名称、三组清单归属及完整回忆；不重复已会场景",
+    "deliveryNote": "用户自报政治半个多小时，仅粗估；不按150分钟减去精确分钟。法律用时尚无报告。"
   },
   "syncProject": {
     "rootOnThisComputer": "E:\\文档\\公考学习",
