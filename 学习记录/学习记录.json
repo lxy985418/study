@@ -335,9 +335,17 @@
       "sourceQuestionId": "2026-11-18-M06-practice-4",
       "status": "reviewed_failed",
       "mastered": false,
-      "lastReviewDate": "2026-11-19",
-      "resultQuestionId": "2026-11-19-M06-delayed-review-lost-1",
-      "nextReviewDate": "2026-11-20"
+      "lastReviewDate": "2026-11-23",
+      "resultQuestionId": "2026-11-23-M06-delayed-review-lost-2",
+      "nextReviewDate": "2026-11-26",
+      "reviewHistory": [
+        {
+          "date": "2026-11-23",
+          "questionId": "2026-11-23-M06-delayed-review-lost-2",
+          "assessment": "间隔复测本次结论正确；结合题目语境，知道事实及牵扯的人表达了知道受让人的核心，认可同义表达，补规范术语知道或应当知道受让人，不另扣理由分。遗失物二年起点由11月19日复测错误改善为本次独立复测正确；保留原错，不据一次正确认定整个M06掌握。"
+        }
+      ],
+      "latestSubpointResult": "遗失物二年起点独立复测正确一次；同队列其他考点状态不变"
     },
     {
       "date": "2026-11-19",
@@ -362,7 +370,18 @@
       ],
       "sourceQuestionId": "2026-11-18-M06-practice-10",
       "status": "due",
-      "mastered": false
+      "mastered": false,
+      "reviewHistory": [
+        {
+          "date": "2026-11-23",
+          "questionId": "2026-11-23-M06-delayed-review-borrow-1",
+          "assessment": "主张不了质权或留置权的结论正确；未约定以表担保可解释没有质权。留置理由未完整，借款和借表属于不同法律关系，甲乙自然人不适用企业间例外。所有权不变不是否定质押留置的标准，教师已补讲区别。保留原答，不记完整独立掌握；复习预算收束，后续混测，不继续堆同向题。"
+        }
+      ],
+      "lastReviewDate": "2026-11-23",
+      "resultQuestionId": "2026-11-23-M06-delayed-review-borrow-1",
+      "latestSubpointResult": "结论正确，质权理由正确；留置关系及所有权判准已补讲，待间隔复测",
+      "nextReviewDate": "2026-11-26"
     },
     {
       "date": "2026-11-20",
@@ -373,7 +392,18 @@
       ],
       "sourceQuestionId": "2026-11-18-M06-practice-4",
       "status": "due",
-      "mastered": false
+      "mastered": false,
+      "reviewHistory": [
+        {
+          "date": "2026-11-23",
+          "questionId": "2026-11-23-M06-delayed-review-lost-2",
+          "assessment": "间隔复测本次结论正确；结合题目语境，知道事实及牵扯的人表达了知道受让人的核心，认可同义表达，补规范术语知道或应当知道受让人，不另扣理由分。遗失物二年起点由11月19日复测错误改善为本次独立复测正确；保留原错，不据一次正确认定整个M06掌握。"
+        }
+      ],
+      "lastReviewDate": "2026-11-23",
+      "resultQuestionId": "2026-11-23-M06-delayed-review-lost-2",
+      "latestSubpointResult": "遗失物二年起点独立复测正确一次；同队列其他考点状态不变",
+      "nextReviewDate": "2026-11-26"
     },
     {
       "id": "2026-11-23-M04-after-expiry-followup",
@@ -385,7 +415,7 @@
       "note": "同一错因再次出现；本次补讲后仅一次对照，不将提示后正确当隔日掌握。"
     }
   ],
-  "nextLesson": "M04对照订正后收束，保留理由复测；接M06遗失物二年起点间隔复测",
+  "nextLesson": "M06复习收束：遗失物起点复测正确，质押留置理由补讲；进入M07第一小节要约、要约邀请及撤回撤销，首题待答",
   "days": [
     {
       "day": 1,
@@ -4565,6 +4595,54 @@
         192,
         195
       ]
+    },
+    {
+      "id": "2026-11-23-M06-delayed-review-lost-2",
+      "date": "2026-11-23",
+      "lesson": "M06",
+      "type": "delayed_review",
+      "userAnswer": "**2026年10月1日**  ，知道事实以及牵扯的人算起",
+      "conclusionCorrect": true,
+      "reasonCorrect": true,
+      "reasonComplete": true,
+      "mastered": false,
+      "assessment": "间隔复测本次结论正确；结合题目语境，知道事实及牵扯的人表达了知道受让人的核心，认可同义表达，补规范术语知道或应当知道受让人，不另扣理由分。遗失物二年起点由11月19日复测错误改善为本次独立复测正确；保留原错，不据一次正确认定整个M06掌握。",
+      "expected": "2026年10月1日；自权利人知道或者应当知道受让人之日起二年内请求返还，不从遗失日或购买日起算。",
+      "sourceArticles": [
+        312
+      ],
+      "sources": [
+        "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_60fb3863b7364b759123a42d1df568ca.html"
+      ],
+      "question": "甲于2024年1月10日丢失相机，乙于2024年6月1日从拾得人处买到相机。甲直到2026年10月1日才知道相机在乙手中，此前也不应当知道受让人是谁。甲请求乙返还遗失物的二年期间，应从哪一天开始计算？请简述理由。"
+    },
+    {
+      "id": "2026-11-23-M06-delayed-review-borrow-1",
+      "date": "2026-11-23",
+      "lesson": "M06",
+      "type": "delayed_review",
+      "userAnswer": "不能，因为未约定手表为担保，所有权是不会更改的",
+      "conclusionCorrect": true,
+      "reasonCorrect": false,
+      "reasonComplete": false,
+      "mastered": false,
+      "reasonAssessment": {
+        "pledge": "未约定担保，未因借用取得质权，理由正确",
+        "lien": "未说出债权与占有动产来自不同法律关系",
+        "ownership": "以所有权不变否定担保物权不成立，质押留置通常也不改变所有权"
+      },
+      "assessment": "主张不了质权或留置权的结论正确；未约定以表担保可解释没有质权。留置理由未完整，借款和借表属于不同法律关系，甲乙自然人不适用企业间例外。所有权不变不是否定质押留置的标准，教师已补讲区别。保留原答，不记完整独立掌握；复习预算收束，后续混测，不继续堆同向题。",
+      "expected": "不能。未约定以手表出质，借用交付不设立质权；借款与借用的法律关系不同，本题不符合留置条件。是否转移所有权不是是否存在担保物权的判断标准。",
+      "sourceArticles": [
+        425,
+        429,
+        447,
+        448
+      ],
+      "sources": [
+        "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_60fb3863b7364b759123a42d1df568ca.html"
+      ],
+      "question": "甲向乙借款1万元，未约定以手表作担保。后来甲另将手表借给乙佩戴。借款到期甲未还钱。甲乙均为自然人，乙能否仅凭手表在自己手里就主张质权或留置权？请说明理由。"
     }
   ],
   "lessonProgress": {
@@ -5069,11 +5147,26 @@
         14,
         17
       ],
-      "next": "当前遗失物二年起点复测待答；之后按备课承接质押留置对照及M07合同。",
+      "next": "M06细则未全讲；遗失物起点本次独立复测正确，借用与担保结论对理由待保持，转M07新课。",
       "lastApplication": {
         "questionId": "2026-11-19-M06-delayed-review-lost-1",
         "conclusionCorrect": false,
         "reasonComplete": false,
+        "mastered": false
+      },
+      "lastReview": "2026-11-23",
+      "latestReviewResult": {
+        "conclusionCorrect": true,
+        "reasonCorrect": false,
+        "reasonComplete": false,
+        "mastered": false,
+        "questionId": "2026-11-23-M06-delayed-review-borrow-1",
+        "note": "主张不了质权或留置权的结论正确；未约定以表担保可解释没有质权。留置理由未完整，借款和借表属于不同法律关系，甲乙自然人不适用企业间例外。所有权不变不是否定质押留置的标准，教师已补讲区别。保留原答，不记完整独立掌握；复习预算收束，后续混测，不继续堆同向题。"
+      },
+      "latestLostPropertyReview": {
+        "questionId": "2026-11-23-M06-delayed-review-lost-2",
+        "date": "2026-11-23",
+        "status": "delayed_review_correct_once",
         "mastered": false
       }
     },
@@ -5131,6 +5224,38 @@
         "https://www.12371.cn/2025/02/20/ARTI1740037057009237.shtml"
       ],
       "next": "本轮收束，人口规模及三组归属后续延迟复测；九个要求与五个原则未全面检验，不标掌握"
+    },
+    "M07": {
+      "status": "instruction_started",
+      "startedDate": "2026-11-23",
+      "lastStudyDate": "2026-11-23",
+      "mastered": false,
+      "covered": [
+        "要约两个条件：内容具体确定、承诺即受约束",
+        "要约邀请与符合要约条件的广告例外",
+        "非对话到达生效与对话知道内容时生效的基本区分",
+        "撤回在到达前或同时，撤销针对已生效要约并须符合时点和例外",
+        "确定承诺期限等不可撤销情形"
+      ],
+      "pending": [
+        "第一小节第1题及后续应用",
+        "承诺与实质性变更小节未讲",
+        "合同成立、效力与履行小节未讲"
+      ],
+      "sources": [
+        "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_60fb3863b7364b759123a42d1df568ca.html"
+      ],
+      "sourceArticles": [
+        137,
+        141,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477
+      ],
+      "next": "2026-11-23-M07-practice-1待答"
     }
   },
   "legacyLawOnlyDays": [
@@ -9917,19 +10042,19 @@
     },
     "2026-11-23": {
       "status": "in_progress",
-      "answeredQuestions": 15,
+      "answeredQuestions": 17,
       "actualMinutes": null,
       "mastered": false,
-      "lastQuestionId": "2026-11-23-M04-correction-1",
-      "currentPhase": "M04对照订正后收束，保留理由复测；接M06遗失物二年起点间隔复测",
+      "lastQuestionId": "2026-11-23-M06-delayed-review-borrow-1",
+      "currentPhase": "M06复习收束：遗失物起点复测正确，质押留置理由补讲；进入M07第一小节要约、要约邀请及撤回撤销，首题待答",
       "pendingQuestion": {
-        "id": "2026-11-23-M06-delayed-review-lost-2",
-        "lesson": "M06",
-        "type": "delayed_review",
+        "id": "2026-11-23-M07-practice-1",
+        "lesson": "M07",
+        "type": "guided_application",
         "status": "awaiting_answer",
-        "question": "甲于2024年1月10日丢失相机，乙于2024年6月1日从拾得人处买到相机。甲直到2026年10月1日才知道相机在乙手中，此前也不应当知道受让人是谁。甲请求乙返还遗失物的二年期间，应从哪一天开始计算？请简述理由。"
+        "question": "甲给乙发消息：把指定相机以3000元卖给你，你在明天下午5点前同意我就受约束。该表示具备要约条件吗？请说明理由。"
       },
-      "nextQuestion": "2026-11-23-M06-delayed-review-lost-2",
+      "nextQuestion": "2026-11-23-M07-practice-1",
       "timeReport": {
         "original": "半个多小时吧",
         "reportedBlock": "本次P04政治学习至小节收束",
@@ -9994,13 +10119,13 @@
   "resumeState": {
     "asOf": "2026-11-23",
     "timezone": "Asia/Hong_Kong",
-    "lesson": "M06",
-    "questionId": "2026-11-23-M06-delayed-review-lost-2",
+    "lesson": "M07",
+    "questionId": "2026-11-23-M07-practice-1",
     "questionStatus": "awaiting_answer",
-    "question": "甲于2024年1月10日丢失相机，乙于2024年6月1日从拾得人处买到相机。甲直到2026年10月1日才知道相机在乙手中，此前也不应当知道受让人是谁。甲请求乙返还遗失物的二年期间，应从哪一天开始计算？请简述理由。",
-    "currentActivity": "M04对照订正后收束，保留理由复测；接M06遗失物二年起点间隔复测",
+    "question": "甲给乙发消息：把指定相机以3000元卖给你，你在明天下午5点前同意我就受约束。该表示具备要约条件吗？请说明理由。",
+    "currentActivity": "M06复习收束：遗失物起点复测正确，质押留置理由补讲；进入M07第一小节要约、要约邀请及撤回撤销，首题待答",
     "politicsNext": "后续复测人口规模名称、三组清单归属及完整回忆；不重复已会场景",
-    "deliveryNote": "M04讲解后核心结论正确，非独立掌握；不再循环追问。按备课复测M06旧错后进入M07。法律实际用时未报告。"
+    "deliveryNote": "先按备课讲完整M07第一小节再答第1题；不把内容具体确定等同合同已成立。M07后两小节尚未讲；本题作为首次讲解后应用，不计独立掌握。法律实际用时未报告。"
   },
   "syncProject": {
     "rootOnThisComputer": "E:\\文档\\公考学习",
@@ -10068,7 +10193,7 @@
     "entryRelativePath": "学习计划/课前备课/备课入口.md",
     "currentRemainingStatus": "prepared_not_taught",
     "nextPlannedDate": "2026-11-20",
-    "nextStatus": "prepared_not_taught",
+    "nextStatus": "partially_taught",
     "nextTopics": [
       "M07合同订立成立与生效",
       "P04未完核心承接",
@@ -10097,7 +10222,8 @@
         "GW05",
         "GW06"
       ]
-    }
+    },
+    "nextDeliveryNote": "M07第一小节开始，第1题待答；承诺、合同成立效力后两小节及P05仍未讲。"
   },
   "targetExamContext": {
     "recordedAt": "2026-11-23",
