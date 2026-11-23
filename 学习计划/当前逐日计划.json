@@ -1134,5 +1134,24 @@
       "GW05",
       "GW06"
     ]
+  },
+  "latestPreparedPackage": {
+    "preparedAt": "2026-11-24",
+    "entryRelativePath": "学习计划/课前备课/2026-11-24_接续课/课程入口.md",
+    "questionBankRelativePath": "学习计划/课前备课/2026-11-24_接续课/题目与衔接.json",
+    "status": "prepared_not_delivered",
+    "nextUseDate": null,
+    "topics": [
+      "P05现有首题及应用承接",
+      "M07履行与债权债务转移入门",
+      "P06改革主干"
+    ],
+    "normalMinutes": 150,
+    "shortMinutes": 50,
+    "questionItems": 24,
+    "existingPendingItems": 1,
+    "newSelfWrittenItems": 23,
+    "remediationItems": 4,
+    "preservePendingQuestionId": "2026-11-24-P05-practice-1"
   }
 }
