@@ -1,0 +1,300 @@
+{
+  "preparedAt": "2026-11-26",
+  "entryRelativePath": "学习计划/课前备课/2026-11-26_接续课/课程入口.md",
+  "questionBankRelativePath": "学习计划/课前备课/2026-11-26_接续课/题目与衔接.json",
+  "status": "prepared_not_delivered",
+  "nextUseDate": null,
+  "topics": [
+    "三种合同履行抗辩",
+    "债务加入与债务转移",
+    "完善高水平对外开放体制机制"
+  ],
+  "normalMinutes": 150,
+  "shortMinutes": 50,
+  "questionItems": 19,
+  "existingPendingItems": 0,
+  "newSelfWrittenItems": 19,
+  "remediationItems": 2,
+  "preservePendingQuestionId": null,
+  "lessons": [
+    {
+      "id": "LAW-A",
+      "subject": "法律",
+      "title": "三种合同履行抗辩",
+      "source": "民法典第525—528条",
+      "minutes": 25,
+      "text": "先判断双方的义务是否对应，是否有先后顺序，再定位有权提出抗辩的一方。判断题里的“拒绝相应履行”通常是暂时挡住对方的履行请求。合同解除需要另外的要件。\n \n| 何时适用 | 谁能主张 | 要件与效果 |\n|---|---|---|\n| 无先后顺序 | 双方都可能主张同时履行抗辩 | 对方尚未履行时，可以拒绝其履行请求。对方履行不符合约定时，可以拒绝相应部分。 |\n| 有先后顺序，先履行方违约 | 后履行方主张先履行抗辩 | 先履行方未履行时，后履行方可以拒绝其请求。先履行方履行不合约时，可以拒绝相应部分。 |\n| 有先后顺序，后履行方的履行能力有危险 | 先履行方主张不安抗辩 | 须有确切证据，才可中止履行。经营严重恶化、转移财产或抽逃资金逃债、丧失商业信誉等符合要件的情形均可考。 |\n\n不安抗辩按程序作答：有确切证据→中止并及时通知→对方提供适当担保则恢复履行。合理期限后，对方既未恢复履行能力，也未提供适当担保，才进入可解除并请求承担违约责任的阶段。单凭传闻中止，应承担相应违约责任。三种题最常混的是“先履行抗辩”的主张人恰好是后履行方，以及把不安抗辩的中止直接写成解除。"
+    },
+    {
+      "id": "LAW-B",
+      "subject": "法律",
+      "title": "债务加入与债务转移",
+      "source": "民法典第551—552条",
+      "minutes": 18,
+      "text": "甲欠乙款。若约定丙取代甲，在转移范围内甲退出，这是债务转移。须经乙同意。甲或丙催告后，乙在合理期限内不表态，视为不同意。\n \n若甲保留债务，同时丙也愿对乙承担一定债务，这是债务加入。要看丙是否与甲作了加入约定并通知乙，或者是否直接向乙表示愿意加入。满足其中一条路径，乙在合理期限内未明确拒绝，乙可以请求丙在愿意承担的范围内与甲承担连带债务。乙可以请求其中一方履行该范围内的债务，超出部分仍由甲依原债务负责。\n \n比较题先看甲是否退出，再看乙的意思和丙承诺的范围。当丙只说“帮忙转付款项”而没有对乙承担债务的意思，不能自动把丙当作加入人。本节依据题干明确意思练习，保证与债务加入的争议性识别留到以后。"
+    },
+    {
+      "id": "POL-A",
+      "subject": "政治",
+      "title": "完善高水平对外开放体制机制",
+      "source": "二十届三中全会《决定》第七部分，第24—28条",
+      "minutes": 24,
+      "text": "对外开放是基本国策。二十届三中全会《决定》把开放放在中国式现代化的语境中，强调以开放促改革，依托超大规模市场，在扩大国际合作中提升开放能力。这里的五项部署属于开放专题，答题先看设问是在问改革总目标、六项原则，还是开放的具体部署。\n\n| 部署 | 案例识别线索 |\n|---|---|\n| 稳步扩大制度型开放 | 对接国际高标准经贸规则，推动规则、规制、管理、标准相通相容，改善制度环境。 |\n| 深化外贸体制改革 | 内外贸一体化，数字贸易、跨境电商综合试验区，通关等监管改进。 |\n| 深化外商投资和对外投资管理体制改革 | 外资准入与国民待遇，依法保护外商投资，健全境外投资管理服务。 |\n| 优化区域开放布局 | 让沿海、沿边、沿江及交通枢纽各展所长，改善中西部、东北等区域开放水平。 |\n| 完善推进高质量共建“一带一路”机制 | 国际互联互通，多边合作平台，重大标志性工程和“小而美”民生项目统筹推进。 |\n\n材料可能同时涉及电子商务和规则衔接。先找动作：如果主要是试验区建设或通关流程，偏外贸体制改革。如果主要是与国际高标准经贸规则衔接，偏制度型开放。对外投资是本国主体向境外投资，和国际合作布局题的角度不同。题目问外资企业获得待遇时，认准投资管理体制改革。各项表述在本课以2024年《决定》为准。"
+    }
+  ],
+  "questions": [
+    {
+      "id": "R01",
+      "section": "REVIEW",
+      "kind": "spaced_review",
+      "prompt": "甲的书面要约10点到达乙，约定两天内承诺。10点半取消通知到达，乙尚未承诺。谁在取消要约？按哪类判断？能否有效取消？",
+      "answer": "甲是要约人，按撤销判断。确定承诺期限使要约不得撤销。",
+      "criteria": "角色、分类、效力理由分开给分。",
+      "onError": "画到达与承诺两点，只补错项，转下次间隔提取。",
+      "source": "民法典第475—477条",
+      "reviewSourceQuestionId": "2026-11-23-M07-practice-3",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "R02",
+      "section": "REVIEW",
+      "kind": "spaced_review",
+      "prompt": "有效服务合同的履行地点仍不清楚。写出用法定补充规则之前要依次检查的两层依据。",
+      "answer": "先协议补充。不能达成，再看合同相关条款或交易习惯。仍不明确才进入法定补充规则。",
+      "criteria": "先后及两层完整，可用同义表述。",
+      "onError": "避免把法定默认地点列为第一步，补一次流程后继续。",
+      "source": "民法典第510—511条",
+      "reviewSourceQuestionId": "2026-11-25-M07-performance-1",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "R03",
+      "section": "REVIEW",
+      "kind": "spaced_review",
+      "prompt": "甲、乙约定甲的一笔货款债权不得转让。甲仍转给明知约定的丙。乙可用约定对抗丙吗？",
+      "answer": "不能，金钱债权的禁止转让约定不能对抗第三人。",
+      "criteria": "结论与金钱债权对应。",
+      "onError": "提示先分标的是钱还是其他给付，反馈后进入新课。",
+      "source": "民法典第545条",
+      "reviewSourceQuestionId": "2026-11-26-M07-transfer-3",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "R04",
+      "section": "REVIEW",
+      "kind": "spaced_review",
+      "prompt": "用自己的话说出进一步全面深化改革总目标的两部分。",
+      "answer": "继续完善和发展中国特色社会主义制度，推进国家治理体系和治理能力现代化。",
+      "criteria": "两部分都要，治理体系与治理能力分开看。",
+      "onError": "只提示漏项，提示后的回忆单记。",
+      "source": "二十届三中全会《决定》第一部分",
+      "reviewSourceQuestionId": "2026-11-25-P06-practice-1",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "R05",
+      "section": "REVIEW",
+      "kind": "spaced_review",
+      "prompt": "列出进一步全面深化改革的六项原则。另说明经济体制改革在总体部署中起什么作用。",
+      "answer": "党的全面领导、以人民为中心、守正创新、以制度建设为主线、全面依法治国、系统观念。经济体制改革起牵引作用。",
+      "criteria": "六条分开评价。牵引属于总体部署。",
+      "onError": "只补漏项，尤其守正创新，后续间隔保持。",
+      "source": "二十届三中全会《决定》第一部分",
+      "reviewSourceQuestionId": "2026-11-26-P06-practice-4",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "A01",
+      "section": "LAW-A",
+      "kind": "application",
+      "prompt": "约定当面交货和付款同时进行。甲没有带货，却先要求乙付全款。乙能否暂时拒付？依据哪种抗辩？",
+      "answer": "能。同时履行抗辩。双方无先后顺序且对方尚未履行。",
+      "criteria": "结论、顺序、未履行三点。",
+      "onError": "把同一时点的两项义务画在一起，补后转A02。",
+      "source": "民法典第525条",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "A02",
+      "section": "LAW-A",
+      "kind": "application",
+      "prompt": "甲应先交货，乙一周后付款。到付款日甲一直未交货，甲要求乙付款。谁能抗辩？属于哪一种？",
+      "answer": "乙可以拒绝甲的支付请求，属于先履行抗辩。甲是未履行的先履行方。",
+      "criteria": "必须认出乙是后履行方。",
+      "onError": "把先履行抗辩中的名称和行使人拆开说明。",
+      "source": "民法典第526条",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "A03",
+      "section": "LAW-A",
+      "kind": "application",
+      "prompt": "甲应先供货，乙后付款。甲有确切证据证明乙正在转移财产逃避债务。合同继续期间，甲可以先采取什么措施？乙后来提供适当担保又怎么办？",
+      "answer": "甲可中止履行并及时通知乙。乙提供适当担保后，应恢复履行。",
+      "criteria": "证据、先履行方、中止通知、担保后恢复。",
+      "onError": "若写成直接解除，用A05辨别中止到解除的阶段。",
+      "source": "民法典第527—528条",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "A04",
+      "section": "LAW-A",
+      "kind": "application",
+      "prompt": "甲应先交货，却只听到未经核实的传闻说乙经营困难，便停止交货。甲能据此主张不安抗辩吗？",
+      "answer": "不能。须有确切证据，无确切证据中止履行应承担违约责任。",
+      "criteria": "写出证据门槛即可。",
+      "onError": "用未经核实传闻与确切证据对比，转下一题。",
+      "source": "民法典第527条",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "A05",
+      "section": "LAW-A",
+      "kind": "application",
+      "prompt": "甲依法中止履行并及时通知。合理期限过后，乙仍未恢复履行能力，也未提供适当担保。甲可以做什么？",
+      "answer": "可以解除合同并请求乙承担违约责任。",
+      "criteria": "合理期限与两个未满足条件对应。",
+      "onError": "补全条件链，避免把中止当天当解除时点。",
+      "source": "民法典第528条",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "B01",
+      "section": "LAW-B",
+      "kind": "application",
+      "prompt": "乙欠甲10万元。丙向甲明确表示加入其中4万元债务，乙继续承担原债务。甲在合理期限内未明确拒绝。甲能向丙请求多少？",
+      "answer": "可以在4万元范围内请求丙与乙承担连带债务。",
+      "criteria": "加入、原债务人保留、4万元范围三点。",
+      "onError": "画乙与丙并列，标出愿意承担的范围。",
+      "source": "民法典第552条",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "B02",
+      "section": "LAW-B",
+      "kind": "application",
+      "prompt": "丙准备完全接替乙还款，乙在转移范围内退出。丙催告债权人甲，甲在合理期限内没表态。丙是否有效替换了乙？",
+      "answer": "没有。债务转移须经甲同意，催告后合理期限未表态视为不同意。",
+      "criteria": "先确认原债务人退出，再判断沉默。",
+      "onError": "对照B01的原债务人保留。",
+      "source": "民法典第551—552条",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "B03",
+      "section": "LAW-B",
+      "kind": "application",
+      "prompt": "丙和债务人乙约定丙加入一部分债务，但两人均未通知债权人甲，丙也未向甲表达。甲能否直接依据第552条向丙请求承担债务？",
+      "answer": "不能。约定加入这一途径还要求通知债权人，题设也没有向甲直接表示。",
+      "criteria": "说清两条路径在题干中都欠缺。",
+      "onError": "补通知对象，后续间隔复测。",
+      "source": "民法典第552条",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "P01",
+      "section": "POL-A",
+      "kind": "application",
+      "prompt": "对接国际高标准经贸规则，使政府采购和环境标准等方面的规则更好衔接。对应哪项开放部署？",
+      "answer": "稳步扩大制度型开放。",
+      "criteria": "抓国际经贸规则和标准衔接。",
+      "onError": "若答外贸改革，对照P02的业务流程。",
+      "source": "二十届三中全会《决定》第24条",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "P02",
+      "section": "POL-A",
+      "kind": "application",
+      "prompt": "推进跨境电商综合试验区，并改进相应通关和税务监管。这主要对应哪项开放部署？",
+      "answer": "深化外贸体制改革。",
+      "criteria": "点出跨境电商试验区或外贸流程。",
+      "onError": "同为电商材料，按政策的主要动作区分。",
+      "source": "二十届三中全会《决定》第25条",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "P03",
+      "section": "POL-A",
+      "kind": "application",
+      "prompt": "一项措施保障外资企业在政府采购等方面的国民待遇。另一项措施依托沿边口岸和交通干线优化开放功能。分别属于哪项部署？",
+      "answer": "前者是深化外商投资和对外投资管理体制改革。后者是优化区域开放布局。",
+      "criteria": "两项分开计，允许不逐字但要区分对象。",
+      "onError": "找外资待遇和区域分工两个动作词。",
+      "source": "二十届三中全会《决定》第26—27条",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "P04",
+      "section": "POL-A",
+      "kind": "same_day_recall",
+      "prompt": "《决定》提出统筹国际合作中的重大标志性工程和“小而美”民生项目。对应哪项开放部署？再闭卷说出其余四项。",
+      "answer": "完善推进高质量共建“一带一路”机制。其余为制度型开放、外贸体制改革、外商投资和对外投资管理体制改革、区域开放布局。",
+      "criteria": "先计定位，再计其他四项。",
+      "onError": "若只漏一项，补一次并留独立间隔回忆。",
+      "source": "二十届三中全会《决定》第24—28条",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "B-A",
+      "section": "LAW-A",
+      "kind": "remedial",
+      "prompt": "甲已依法中止供货并及时通知乙。乙随后提供了适当担保，甲还能继续中止履行吗？",
+      "answer": "应当恢复履行。对方提供适当担保后，应恢复履行。",
+      "criteria": "识别提供适当担保后应当恢复履行。",
+      "onError": "错点说明一次，安排间隔复测。",
+      "source": "民法典第527—528条",
+      "status": "prepared_not_asked",
+      "answered": false
+    },
+    {
+      "id": "B-P",
+      "section": "POL-A",
+      "kind": "remedial",
+      "prompt": "两项措施都涉及电商。甲促进国内电商标准与国际经贸规则衔接，乙在试验区优化跨境电商通关。分别属于哪项？",
+      "answer": "甲对应制度型开放，乙对应深化外贸体制改革。",
+      "criteria": "用行动区分，不按电商一词归类。",
+      "onError": "仍混则留待次日辨析。",
+      "source": "二十届三中全会《决定》第24—25条",
+      "status": "prepared_not_asked",
+      "answered": false
+    }
+  ],
+  "normalBudget": {
+    "law": 90,
+    "politics": 60,
+    "total": 150
+  },
+  "shortBudget": {
+    "law": 30,
+    "politics": 20,
+    "total": 50
+  },
+  "order": [
+    "先选一到两个法律错点做独立提取，再讲LAW-A并练，再讲LAW-B并练。",
+    "政治先抽P06原错，再讲POL-A并分项练，最后做一次闭卷。",
+    "先讲完整小节再一题一答。一个错点补讲一次，变式一次，仍错留间隔复测。"
+  ],
+  "nextEntry": "先按最新学习记录核对待答状态，无待答时从R01或R02起。",
+  "sources": {
+    "law": "https://www.court.gov.cn/zixun/xiangqing/233181.html",
+    "pol": "https://www.sport.gov.cn/n4/n28140250/n28140389/c28176073/content.html"
+  }
+}

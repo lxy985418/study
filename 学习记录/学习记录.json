@@ -412,7 +412,18 @@
       "dueDate": "2026-11-24",
       "status": "review_due",
       "sourceQuestionId": "2026-11-23-M04-review-1",
-      "note": "同一错因再次出现；本次补讲后仅一次对照，不将提示后正确当隔日掌握。"
+      "note": "同一错因再次出现；本次补讲后仅一次对照，不将提示后正确当隔日掌握。",
+      "reviewHistory": [
+        {
+          "date": "2026-11-26",
+          "questionId": "2026-11-26-M04-review-1",
+          "assessment": "结论、理由均正确。承接题设中履行承诺发生在时效届满之后，正确识别原时效届满抗辩不得再主张，没有混为时效中断。记本子点隔日独立复测正确一次，届满前中断未在本题单独检验，原错保留。"
+        }
+      ],
+      "lastReviewDate": "2026-11-26",
+      "resultQuestionId": "2026-11-26-M04-review-1",
+      "latestSubpointResult": "时效届满后同意履行的法律效果独立复测正确一次。届满前中断未单独复测。",
+      "nextReviewDate": "2026-11-29"
     },
     {
       "id": "2026-11-23-M07-offer-effective-review",
@@ -437,12 +448,22 @@
           "date": "2026-11-25",
           "questionId": "2026-11-25-M07-review-remedial-1",
           "assessment": "对照题仍把已生效要约的取消误称撤回，按撤销判断。认为本题取消生效正确。理由回答不知道，未写可撤销且通知在乙作出承诺前到达。原答分项保留，一次补救已用，转下次间隔复测。"
+        },
+        {
+          "date": "2026-11-26",
+          "questionId": "2026-11-26-M07-review-3",
+          "assessment": "两情形分类均正确，9:55先于要约到达，可有效撤回，亦答对。补完整撤回时点含同时到达。10:05要约已经生效，按撤销判断，但固定三天承诺期限使该要约不得撤销。乙未作出承诺不足以使取消有效。分类较前次进步，承诺期限例外仍错，讲解后只做一次对照。"
+        },
+        {
+          "date": "2026-11-26",
+          "questionId": "2026-11-26-M07-review-remedial-2",
+          "assessment": "答都可以撤销，丙的效力判断正确，甲的判断错误。固定三天承诺期使甲的要约不得撤销，不要求另写不可撤销。把承诺人当作撤销要约的一方，角色混淆。讲解后一次对照已完成，保留分类隔日正确和效力例外仍错两项结果，转间隔复测，下一题改测P05。"
         }
       ],
-      "lastReviewDate": "2026-11-25",
-      "resultQuestionId": "2026-11-25-M07-review-remedial-1",
-      "latestSubpointResult": "讲解后对照仅有效性判断正确，撤销仍误作撤回，理由未答，间隔复测",
-      "nextReviewDate": "2026-11-26"
+      "lastReviewDate": "2026-11-26",
+      "resultQuestionId": "2026-11-26-M07-review-remedial-2",
+      "latestSubpointResult": "一次对照仍误判甲可撤销，且把要约人与受要约人混淆。撤回撤销分类的隔日正确结果保留。",
+      "nextReviewDate": "2026-11-27"
     },
     {
       "id": "2026-11-23-M07-formation-effectiveness-review",
@@ -478,12 +499,17 @@
           "date": "2026-11-25",
           "questionId": "2026-11-25-P05-practice-6",
           "assessment": "三个维度与问题对应均正确，并各举行动例子：为人民修路对应目的，听取意见依靠群众力量对应力量来源，修路便利群众对应成果归属。第三项可补公平惠及更多群众以突出共享，但核心已成立，不扣理由分。记为同日回忆正确，未验证隔日独立保持，原首题不会及共享误选保留。"
+        },
+        {
+          "date": "2026-11-26",
+          "questionId": "2026-11-26-P05-review-1",
+          "assessment": "两项核心均正确：全面为民按发展为了人民认可，成果全面与民分享按发展成果由人民共享认可。题目只要求判断各对应方面，无理由扣分。记为目的与共享一轮隔日独立辨析正确，补规范名称。原错保留，不认定P05整章掌握。"
         }
       ],
-      "lastReviewDate": "2026-11-25",
-      "resultQuestionId": "2026-11-25-P05-practice-6",
-      "latestSubpointResult": "三个维度同日回忆及例子正确，隔日保持未检验",
-      "nextReviewDate": "2026-11-26"
+      "lastReviewDate": "2026-11-26",
+      "resultQuestionId": "2026-11-26-P05-review-1",
+      "latestSubpointResult": "目的与成果归属一轮隔日独立辨析均正确，表述补规范名称",
+      "nextReviewDate": "2026-11-29"
     },
     {
       "id": "2026-11-25-P05-sharing-purpose-review",
@@ -504,12 +530,17 @@
           "date": "2026-11-25",
           "questionId": "2026-11-25-P05-practice-6",
           "assessment": "三个维度与问题对应均正确，并各举行动例子：为人民修路对应目的，听取意见依靠群众力量对应力量来源，修路便利群众对应成果归属。第三项可补公平惠及更多群众以突出共享，但核心已成立，不扣理由分。记为同日回忆正确，未验证隔日独立保持，原首题不会及共享误选保留。"
+        },
+        {
+          "date": "2026-11-26",
+          "questionId": "2026-11-26-P05-review-1",
+          "assessment": "两项核心均正确：全面为民按发展为了人民认可，成果全面与民分享按发展成果由人民共享认可。题目只要求判断各对应方面，无理由扣分。记为目的与共享一轮隔日独立辨析正确，补规范名称。原错保留，不认定P05整章掌握。"
         }
       ],
-      "lastReviewDate": "2026-11-25",
-      "resultQuestionId": "2026-11-25-P05-practice-6",
-      "latestSubpointResult": "三个维度同日回忆及例子正确，隔日保持未检验",
-      "nextReviewDate": "2026-11-26"
+      "lastReviewDate": "2026-11-26",
+      "resultQuestionId": "2026-11-26-P05-review-1",
+      "latestSubpointResult": "目的与成果归属一轮隔日独立辨析均正确，表述补规范名称",
+      "nextReviewDate": "2026-11-29"
     },
     {
       "id": "2026-11-25-M07-supplement-order-review",
@@ -519,7 +550,23 @@
       "status": "review_due",
       "sourceQuestionId": "2026-11-25-M07-performance-1",
       "mastered": false,
-      "note": "首题结论正确，列出地点分类但未答处理顺序；解释后独立提取未检验。"
+      "note": "首题结论正确，列出地点分类但未答处理顺序；解释后独立提取未检验。",
+      "reviewHistory": [
+        {
+          "date": "2026-11-26",
+          "questionId": "2026-11-26-M07-review-1",
+          "assessment": "想到了补充协议、惯常做法和国家标准，但先列国家标准，未答正确顺序，也未提合同相关条款。市场常规可视为想到了惯例，须明确是适用于该合同的交易习惯。题目问约定不明的确定顺序，国家标准属于进入法定质量补充规则后的内容，强制性标准仍须遵守。讲解一次后用交货情境做一次对照。"
+        },
+        {
+          "date": "2026-11-26",
+          "questionId": "2026-11-26-M07-review-remedial-1",
+          "assessment": "按语境将买房仓库理解为买方仓库，结论正确。能从合同中找依据，认可核心。具体依据为原合同已有的运输条款，双方没有另行达成补充协议，所以属于按合同相关条款确定。记为讲解后对照正确，原顺序仍待独立提取。"
+        }
+      ],
+      "lastReviewDate": "2026-11-26",
+      "resultQuestionId": "2026-11-26-M07-review-remedial-1",
+      "latestSubpointResult": "讲解后对照题地点正确，能够依据合同，已补原有条款与补充协议之别；完整顺序待独立复测",
+      "nextReviewDate": "2026-11-27"
     },
     {
       "id": "2026-11-25-M07-place-role-review",
@@ -528,10 +575,70 @@
       "dueDate": "2026-11-26",
       "status": "review_due",
       "sourceQuestionId": "2026-11-25-M07-performance-3",
+      "mastered": false,
+      "reviewHistory": [
+        {
+          "date": "2026-11-26",
+          "questionId": "2026-11-26-M07-review-2",
+          "assessment": "按本题意图考查的民法典511条一般规则，成功识别甲是交货义务方，宜宾及核心理由正确。买卖合同标的物交付地点另有603条特别规定，出题时未限定只考一般规则，也没交代是否需运输、订约时是否知道货物所在地，不能据现有题干给出唯一买卖交付地点。对用户不扣题设范围造成的缺漏，已补特别规则。"
+        }
+      ],
+      "lastReviewDate": "2026-11-26",
+      "resultQuestionId": "2026-11-26-M07-review-2",
+      "latestSubpointResult": "一般规则下识别交货义务方正确一次，修正原题未限定规则的不足，603条尚未独立检验",
+      "nextReviewDate": "2026-11-29"
+    },
+    {
+      "id": "2026-11-26-P06-overall-goal-review",
+      "lesson": "P06",
+      "topic": "进一步全面深化改革总目标完整提取：制度、治理体系与治理能力",
+      "dueDate": "2026-11-27",
+      "status": "review_due",
+      "sourceQuestionId": "2026-11-25-P06-practice-1",
+      "mastered": false,
+      "reviewHistory": [
+        {
+          "date": "2026-11-26",
+          "questionId": "2026-11-26-P06-remedial-1",
+          "assessment": "两部分均补全。中国特色社会主义制度、国家治理体系和治理能力现代化均正确。第二项把整段写出，已含题干给出的现代化，核心正确。只要求填空，没有理由评分。记为提示后正确，原题未能独立回忆仍保留。"
+        }
+      ],
+      "lastReviewDate": "2026-11-26",
+      "resultQuestionId": "2026-11-26-P06-remedial-1",
+      "latestSubpointResult": "讲解并提示后两部分填空正确，待独立间隔复测",
+      "nextReviewDate": "2026-11-27"
+    },
+    {
+      "id": "2026-11-26-P06-principles-review",
+      "lesson": "P06",
+      "topic": "六项原则完整提取，区分守正创新与经济体制改革为牵引的归属",
+      "dueDate": "2026-11-27",
+      "status": "review_due",
+      "sourceQuestionId": "2026-11-26-P06-practice-4",
       "mastered": false
+    },
+    {
+      "id": "2026-11-26-M07-assignment-restriction-review",
+      "lesson": "M07",
+      "topic": "约定不得转让时，区分金钱债权对第三人和非金钱债权对善意第三人的效力",
+      "dueDate": "2026-11-27",
+      "status": "review_due",
+      "sourceQuestionId": "2026-11-26-M07-transfer-3",
+      "mastered": false,
+      "reviewHistory": [
+        {
+          "date": "2026-11-26",
+          "questionId": "2026-11-26-M07-transfer-remedial-1",
+          "assessment": "结论正确，交付设备属于非金钱债权，丙明知限制，乙可以用约定对抗丙。原答未写题目要求的理由，不计理由错误。补充支付货款属于金钱债权，限制转让的约定不能对抗第三人。本题记为讲解后正确识别结论，完整理由和独立保持待复测。"
+        }
+      ],
+      "lastReviewDate": "2026-11-26",
+      "resultQuestionId": "2026-11-26-M07-transfer-remedial-1",
+      "latestSubpointResult": "讲解后选中非金钱债权，理由未写。留待独立复测。",
+      "nextReviewDate": "2026-11-27"
     }
   ],
-  "nextLesson": "要约撤销补救结果部分正确，分类与理由保留间隔复测。开始P06进一步全面深化改革主干，首题检验总目标。",
+  "nextLesson": "11月26日备课：履行抗辩、债务加入、高水平对外开放",
   "days": [
     {
       "day": 1,
@@ -5341,6 +5448,366 @@
         477
       ],
       "question": "甲的书面要约已到达乙并生效。要约可以撤销，甲随后发出的取消通知也在乙作出承诺之前到达。甲的这次取消属于撤回还是撤销？能否生效？请说明理由。"
+    },
+    {
+      "id": "2026-11-25-P06-practice-1",
+      "date": "2026-11-26",
+      "lesson": "P06",
+      "type": "guided_application",
+      "userAnswer": "不准确，我不太记得了",
+      "conclusionCorrect": true,
+      "reasonCorrect": null,
+      "reasonComplete": false,
+      "mastered": false,
+      "answerStatus": "partially_correct",
+      "subpointAssessment": {
+        "judgment": "判断不准确正确",
+        "overallGoal": "未能回忆总目标，未写两部分"
+      },
+      "assessment": "判断正确。总目标未能回忆，记为未答，不推定错误理解。跨日保留原题ID，归11月26日。已补讲制度与治理现代化两部分，接预备B04提示后填空一次，隔日再独立提取。",
+      "expected": "不准确。总目标是继续完善和发展中国特色社会主义制度，推进国家治理体系和治理能力现代化。",
+      "preparedQuestionId": "P06-01",
+      "question": "有人认为，进一步全面深化改革只是改一改具体的办事流程，与完善制度、提升治理能力无关。这种理解准确吗？请概括进一步全面深化改革的总目标。"
+    },
+    {
+      "id": "2026-11-26-P06-remedial-1",
+      "date": "2026-11-26",
+      "lesson": "P06",
+      "type": "remedial_after_explanation",
+      "userAnswer": "中国特色社会主义制度  国家治理体系和治理能力现代化",
+      "conclusionCorrect": true,
+      "reasonCorrect": null,
+      "reasonComplete": null,
+      "mastered": false,
+      "assessment": "两部分均补全。中国特色社会主义制度、国家治理体系和治理能力现代化均正确。第二项把整段写出，已含题干给出的现代化，核心正确。只要求填空，没有理由评分。记为提示后正确，原题未能独立回忆仍保留。",
+      "expected": "中国特色社会主义制度。国家治理体系和治理能力（填入第二空，合成国家治理体系和治理能力现代化）。",
+      "preparedQuestionId": "B04",
+      "question": "请补全进一步全面深化改革总目标的两部分：继续完善和发展________；推进________现代化。"
+    },
+    {
+      "id": "2026-11-26-P06-practice-2",
+      "date": "2026-11-26",
+      "lesson": "P06",
+      "type": "guided_application",
+      "userAnswer": "听取人民意见\n依法治国",
+      "conclusionCorrect": false,
+      "reasonCorrect": null,
+      "reasonComplete": null,
+      "mastered": false,
+      "answerStatus": "partially_correct",
+      "assessment": "第一项抓住听取人民意见这一材料线索，方向正确，但未答出设问要求的原则名称坚持以人民为中心。第二项依法治国命中原则，认可为正确，规范名称为坚持全面依法治国。题目只问对应项，不另计理由。",
+      "subpointAssessment": {
+        "first": {
+          "matchedClue": true,
+          "namedPrinciple": false
+        },
+        "second": {
+          "conclusionCorrect": true,
+          "fullName": "坚持全面依法治国"
+        }
+      },
+      "expected": "① 坚持以人民为中心。② 坚持全面依法治国。",
+      "preparedQuestionId": "P06-02",
+      "question": "两项改革措施分别最直接体现六项原则中的哪一项？① 涉及群众切身利益，先听取群众意见，尊重群众的首创经验。② 依法将试点成果固定下来，确保重大改革有法律依据。"
+    },
+    {
+      "id": "2026-11-26-P06-practice-3",
+      "date": "2026-11-26",
+      "lesson": "P06",
+      "type": "guided_application",
+      "userAnswer": "全面系统处理的原则\n全面建立制度体系",
+      "conclusionCorrect": false,
+      "reasonCorrect": null,
+      "reasonComplete": null,
+      "mastered": false,
+      "answerStatus": "partially_correct",
+      "subpointAssessment": {
+        "first": {
+          "conclusionCorrect": true,
+          "fullName": "坚持系统观念"
+        },
+        "second": {
+          "matchedClue": true,
+          "conclusionCorrect": false,
+          "fullName": "坚持以制度建设为主线"
+        }
+      },
+      "assessment": "第一项按系统统筹的等义核心认可，补规范名称坚持系统观念。第二项抓到制度线索，但全面建立制度体系未提以制度建设贯穿和统筹改革任务，第二项部分命中。题目只要求原则对应，不另计理由。接同日回忆，后续留间隔保持检查。",
+      "expected": "① 坚持系统观念。② 坚持以制度建设为主线。",
+      "preparedQuestionId": "P06-03",
+      "question": "① 某项改革只追求一个领域的效率，忽视与其他领域的衔接，也没兼顾公平和安全。哪项原则体现不足？② 另一项改革通过制度设计来统筹各项任务，最直接体现哪项原则？"
+    },
+    {
+      "id": "2026-11-26-P06-practice-4",
+      "date": "2026-11-26",
+      "lesson": "P06",
+      "type": "same_day_recall",
+      "userAnswer": "坚持党的全面领导 坚持以民为本 坚持系统观念 坚持以制度建设为主线 坚持以经济建设为牵引带动其他领域 坚持全面依法治国， 是",
+      "conclusionCorrect": false,
+      "reasonCorrect": null,
+      "reasonComplete": null,
+      "mastered": false,
+      "answerStatus": "partially_correct",
+      "subpointAssessment": {
+        "recall": {
+          "correctCoreCount": 5,
+          "total": 6,
+          "equivalentWording": "以民为本按以人民为中心的核心接受",
+          "omitted": "坚持守正创新",
+          "extra": "以经济建设为牵引带动其他领域"
+        },
+        "classification": {
+          "conclusionCorrect": false,
+          "correctCategory": "以经济体制改革为牵引属于总体部署"
+        }
+      },
+      "assessment": "六项原则答出五项核心：党的全面领导、人民中心、系统观念、制度建设主线、全面依法治国。以民为本按核心认可，规范表述补为坚持以人民为中心。漏坚持守正创新，把经济体制改革为牵引混入原则，并答属于，归类错误。按回忆和归类分项保存，随后转法律间隔复测，不追加同向默写。",
+      "expected": "六项原则为坚持党的全面领导、坚持以人民为中心、坚持守正创新、坚持以制度建设为主线、坚持全面依法治国、坚持系统观念。以经济体制改革为牵引属于改革总体部署。",
+      "preparedQuestionId": "P06-04",
+      "question": "先不看前文，试着列出进一步全面深化改革的六项原则（顺序不限）。再判断：以经济体制改革为牵引，是否属于六项原则之一？"
+    },
+    {
+      "id": "2026-11-26-M07-review-1",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "spaced_review",
+      "userAnswer": "是否符合国家标准，是否有补充协议，是否符合市场常规",
+      "conclusionCorrect": false,
+      "reasonCorrect": null,
+      "reasonComplete": false,
+      "mastered": false,
+      "answerStatus": "partially_correct",
+      "assessment": "想到了补充协议、惯常做法和国家标准，但先列国家标准，未答正确顺序，也未提合同相关条款。市场常规可视为想到了惯例，须明确是适用于该合同的交易习惯。题目问约定不明的确定顺序，国家标准属于进入法定质量补充规则后的内容，强制性标准仍须遵守。讲解一次后用交货情境做一次对照。",
+      "expected": "先协议补充。不能达成补充协议，按合同相关条款或者交易习惯确定。仍不能确定，再适用法定补充规则。",
+      "subpointAssessment": {
+        "supplementAgreement": "正确识别，顺序放后",
+        "relatedTerms": "未写",
+        "tradeUsage": "市场常规接近惯例，须具体到交易习惯",
+        "statutoryDefault": "提到质量标准，但放在首位"
+      },
+      "reviewSourceQuestionId": "2026-11-25-M07-performance-1",
+      "sourceArticles": [
+        510,
+        511
+      ],
+      "question": "一份有效的装修合同没有写清工程质量标准。双方因此产生争议。先不说具体适用哪个标准，应按哪三个步骤确定质量要求？"
+    },
+    {
+      "id": "2026-11-26-M07-review-remedial-1",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "remedial_after_explanation",
+      "userAnswer": "买房仓库，合同中补充约定了",
+      "conclusionCorrect": true,
+      "reasonCorrect": true,
+      "reasonComplete": false,
+      "mastered": false,
+      "assessment": "按语境将买房仓库理解为买方仓库，结论正确。能从合同中找依据，认可核心。具体依据为原合同已有的运输条款，双方没有另行达成补充协议，所以属于按合同相关条款确定。记为讲解后对照正确，原顺序仍待独立提取。",
+      "expected": "在买方仓库交付。未达成补充协议，但原合同的运输条款已经能确定地点，按合同相关条款确定。",
+      "reviewSourceQuestionId": "2026-11-25-M07-performance-1",
+      "sourceArticles": [
+        510
+      ],
+      "question": "一份买卖合同的“交货地点”栏空着，双方也没能达成补充协议，但合同的运输条款写明卖方送货到买方仓库。交货地点应怎么确定？为什么？"
+    },
+    {
+      "id": "2026-11-26-M07-review-2",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "spaced_review",
+      "userAnswer": "宜宾，如果没有约定就以卖方所在地为准",
+      "conclusionCorrect": true,
+      "reasonCorrect": true,
+      "reasonComplete": false,
+      "mastered": false,
+      "assessment": "按本题意图考查的民法典511条一般规则，成功识别甲是交货义务方，宜宾及核心理由正确。买卖合同标的物交付地点另有603条特别规定，出题时未限定只考一般规则，也没交代是否需运输、订约时是否知道货物所在地，不能据现有题干给出唯一买卖交付地点。对用户不扣题设范围造成的缺漏，已补特别规则。",
+      "expected": "一般规则下，依510条仍不能确定时，其他标的在履行义务方所在地履行。买卖标的物适用603条：需要运输的，交第一承运人；不需要运输的，按双方订约时知道的标的物所在地交付，订约时不知道的，在出卖人订约时营业地交付。题干信息不足以直接判定买卖交付地点。",
+      "reviewSourceQuestionId": "2026-11-25-M07-performance-3",
+      "sourceArticles": [
+        510,
+        511,
+        603
+      ],
+      "sources": [
+        "https://www.court.gov.cn/zixun/xiangqing/233181.html"
+      ],
+      "questionScope": "选择题题干没有写清一般规则与买卖特别规则的区分；按一般规则评价角色识别，具体买卖地点不设唯一答案。",
+      "question": "甲在宜宾，乙在泸州。甲卖给乙一台打印机。合同未约定交货地点，双方未达成补充协议，合同相关条款和交易习惯也无法确定。按法定规则，打印机应在宜宾还是泸州交付？依据是什么？"
+    },
+    {
+      "id": "2026-11-26-M07-review-3",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "spaced_review",
+      "userAnswer": "撤回、撤销，要看取消通知是否先于要约，都能取消",
+      "conclusionCorrect": false,
+      "reasonCorrect": null,
+      "reasonComplete": false,
+      "mastered": false,
+      "answerStatus": "partially_correct",
+      "subpointAssessment": {
+        "firstClassification": true,
+        "secondClassification": true,
+        "firstEffectiveness": true,
+        "secondEffectiveness": false,
+        "timing": "正确识别本题到达先后，完整撤回规则包括同时到达",
+        "exception": "未识别三天承诺期导致不得撤销"
+      },
+      "assessment": "两情形分类均正确，9:55先于要约到达，可有效撤回，亦答对。补完整撤回时点含同时到达。10:05要约已经生效，按撤销判断，但固定三天承诺期限使该要约不得撤销。乙未作出承诺不足以使取消有效。分类较前次进步，承诺期限例外仍错，讲解后只做一次对照。",
+      "expected": "①撤回，可以有效撤回，通知先于要约到达。②按撤销判断，不能有效撤销，要约人已确定三天承诺期限。",
+      "reviewSourceQuestionId": "2026-11-23-M07-practice-3",
+      "sourceArticles": [
+        141,
+        475,
+        476,
+        477
+      ],
+      "question": "甲上午发出一份书面要约，明确给乙三天承诺期。要约在10:00到达乙。比较两种情形：① 取消通知9:55到达乙。② 取消通知10:05到达乙，此时乙尚未承诺。两种情形分别按撤回还是撤销判断？各能否有效取消？"
+    },
+    {
+      "id": "2026-11-26-M07-review-remedial-2",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "remedial_after_explanation",
+      "userAnswer": "都可以撤销，承诺人 都拥有撤销权",
+      "conclusionCorrect": false,
+      "reasonCorrect": false,
+      "reasonComplete": false,
+      "mastered": false,
+      "answerStatus": "partially_correct",
+      "subpointAssessment": {
+        "offerA": {
+          "conclusionCorrect": false,
+          "expected": "甲规定三天承诺期，不得撤销"
+        },
+        "offerC": {
+          "conclusionCorrect": true,
+          "expected": "丙可撤销，通知在对方作出承诺前到达"
+        },
+        "actor": {
+          "conclusionCorrect": false,
+          "expected": "在本题中，撤销要约的是发出要约的要约人"
+        }
+      },
+      "assessment": "答都可以撤销，丙的效力判断正确，甲的判断错误。固定三天承诺期使甲的要约不得撤销，不要求另写不可撤销。把承诺人当作撤销要约的一方，角色混淆。讲解后一次对照已完成，保留分类隔日正确和效力例外仍错两项结果，转间隔复测，下一题改测P05。",
+      "expected": "只有丙可以有效撤销。甲明确承诺期限，依民法典第476条不得撤销。丙没有不得撤销情形，撤销通知在受要约人作出承诺前到达。撤销要约的是发出要约的要约人。",
+      "reviewSourceQuestionId": "2026-11-23-M07-practice-3",
+      "sourceArticles": [
+        476,
+        477
+      ],
+      "question": "两份要约都已生效，撤销通知都在对方作出承诺前到达。甲的要约写明“三天内承诺”，但没写“不可撤销”。丙的要约没规定承诺期限，也没有其他不得撤销的情形。哪一份可以有效撤销？为什么？"
+    },
+    {
+      "id": "2026-11-26-P05-review-1",
+      "date": "2026-11-26",
+      "lesson": "P05",
+      "type": "spaced_review",
+      "userAnswer": "全面为民\n成果全面与民分享",
+      "conclusionCorrect": true,
+      "reasonCorrect": null,
+      "reasonComplete": null,
+      "mastered": false,
+      "assessment": "两项核心均正确：全面为民按发展为了人民认可，成果全面与民分享按发展成果由人民共享认可。题目只要求判断各对应方面，无理由扣分。记为目的与共享一轮隔日独立辨析正确，补规范名称。原错保留，不认定P05整章掌握。",
+      "expected": "① 发展为了人民。② 发展成果由人民共享。",
+      "reviewSourceQuestionIds": [
+        "2026-11-24-P05-practice-1",
+        "2026-11-25-P05-practice-3"
+      ],
+      "question": "社区改造有两个环节。① 定方案时，项目组优先解决居民最迫切的出行难题。② 完工后，无障碍设施也覆盖了过去难以通行的偏远楼栋，让那里的居民同样享有出行便利。两处分别最直接体现以人民为中心的发展思想的哪一方面？"
+    },
+    {
+      "id": "2026-11-26-M04-review-1",
+      "date": "2026-11-26",
+      "lesson": "M04",
+      "type": "spaced_review",
+      "userAnswer": "不能，同意偿还之后就不能以诉讼时效届满来抗辩",
+      "conclusionCorrect": true,
+      "reasonCorrect": true,
+      "reasonComplete": true,
+      "mastered": false,
+      "assessment": "结论、理由均正确。承接题设中履行承诺发生在时效届满之后，正确识别原时效届满抗辩不得再主张，没有混为时效中断。记本子点隔日独立复测正确一次，届满前中断未在本题单独检验，原错保留。",
+      "expected": "不能。诉讼时效届满后债务人同意履行的，不得再以该诉讼时效已届满为由抗辩。",
+      "preparedQuestionId": "R01",
+      "reviewSourceQuestionId": "2026-11-23-M04-review-1",
+      "sourceArticles": [
+        192
+      ],
+      "question": "乙借钱未还，诉讼时效已经届满。之后，乙明确同意偿还。甲起诉时，乙还能以原诉讼时效已届满为由抗辩吗？为什么？"
+    },
+    {
+      "id": "2026-11-26-M07-transfer-1",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "guided_application",
+      "userAnswer": "有，债权转移只是债权人不同，债务人的权利和义务还是相同的",
+      "conclusionCorrect": true,
+      "reasonCorrect": true,
+      "reasonComplete": true,
+      "mastered": false,
+      "assessment": "结论及理由正确。结合题问，回答有表示乙仍可对丙主张原抗辩，债权人变动不消灭原有抗辩。将笼统的权利义务相同具体化为债务人对让与人的抗辩可向受让人主张。本题未要求推导转让的全部法律效果，不作额外泛化。",
+      "expected": "可以。债权转让通知到达后，乙对让与人甲的抗辩，可以向受让人丙主张。",
+      "preparedQuestionId": "L08",
+      "sourceArticles": [
+        548
+      ],
+      "question": "乙原本对甲享有一项针对该债权的合法抗辩。甲把这笔债权转给丙，并已经通知乙。丙向乙主张债权时，乙还能向丙主张原来的抗辩吗？为什么？"
+    },
+    {
+      "id": "2026-11-26-M07-transfer-2",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "guided_application",
+      "userAnswer": "甲，甲主张甲承担",
+      "conclusionCorrect": true,
+      "reasonCorrect": null,
+      "reasonComplete": null,
+      "mastered": false,
+      "assessment": "新增费用选择甲正确。题目只问由谁承担，不计理由分。补明法律依据：甲是让与人，因债权转让增加的履行费用依法由让与人负担。保留原答甲主张甲承担，不推定其掌握任何关于主张费用的通则。",
+      "expected": "甲承担这笔新增履行费用，因为甲是让与人。",
+      "sourceArticles": [
+        550
+      ],
+      "question": "甲把对乙的债权转让给丙。乙原有的履行费用之外，又因为这次转让多出一笔必要费用。只问这笔新增的履行费用，依法由甲、乙、丙中的谁承担？"
+    },
+    {
+      "id": "2026-11-26-M07-transfer-3",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "guided_application",
+      "userAnswer": "能，已经约定了债权不能转让，但是如果丙不知道不能对抗善意第三人",
+      "conclusionCorrect": false,
+      "reasonCorrect": false,
+      "reasonComplete": false,
+      "mastered": false,
+      "assessment": "结论错误。题设是金钱债权，不得转让的约定不能对抗第三人，即使丙知道也一样。用户记得非金钱债权的善意第三人保护规则，但将它错误套用在金钱债权。按类型区分后做一次对照。",
+      "subpointAssessment": {
+        "moneyClaim": "答能对抗，错误",
+        "clue": "善意第三人规则适用于约定不得转让的非金钱债权，所述概念有依据但适用对象不同"
+      },
+      "expected": "乙不能用该约定对抗丙。金钱债权不得转让的约定不能对抗第三人，不以第三人善意为条件。",
+      "sourceArticles": [
+        545
+      ],
+      "question": "甲对乙有一笔金钱债权。两人约定这笔债权不得转让，甲后来仍把债权转给了丙，并通知了乙。丙知道这项约定。乙能否用这项约定对抗丙？为什么？"
+    },
+    {
+      "id": "2026-11-26-M07-transfer-remedial-1",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "remedial_after_explanation",
+      "userAnswer": "交付设备那一项",
+      "conclusionCorrect": true,
+      "reasonCorrect": null,
+      "reasonComplete": false,
+      "mastered": false,
+      "assessment": "结论正确，交付设备属于非金钱债权，丙明知限制，乙可以用约定对抗丙。原答未写题目要求的理由，不计理由错误。补充支付货款属于金钱债权，限制转让的约定不能对抗第三人。本题记为讲解后正确识别结论，完整理由和独立保持待复测。",
+      "expected": "交付设备那一项。它是非金钱债权，丙明知不得转让的约定，乙可以用约定对抗丙。货款是金钱债权，约定不得转让不能对抗第三人。",
+      "reviewSourceQuestionId": "2026-11-26-M07-transfer-3",
+      "sourceArticles": [
+        545
+      ],
+      "question": "甲有两项债权，分别是要求乙支付货款、要求乙交付一台设备。甲和乙都约定不得转让，甲后来把这两项债权转给丙。丙知道这些约定。乙能用约定对抗丙的是哪一项？为什么？"
     }
   ],
   "lessonProgress": {
@@ -5591,13 +6058,14 @@
         }
       ],
       "coreInstructionStatus": "core_rules_covered_retention_review_due",
-      "lastReview": "2026-11-23",
+      "lastReview": "2026-11-26",
       "latestReviewResult": {
-        "questionId": "2026-11-23-M04-review-1",
         "conclusionCorrect": true,
-        "reasonComplete": false,
-        "reasonCorrect": false,
-        "note": "结论正确；理由错误。原题时效已经届满，此后明确同意履行，不得再以原诉讼时效届满抗辩，不是届满前的时效中断。该混淆在间隔复测中仍出现，保留原错，不记掌握。补讲一次后安排一次对照变式，再作间隔复测。"
+        "reasonCorrect": true,
+        "reasonComplete": true,
+        "mastered": false,
+        "questionId": "2026-11-26-M04-review-1",
+        "note": "结论、理由均正确。承接题设中履行承诺发生在时效届满之后，正确识别原时效届满抗辩不得再主张，没有混为时效中断。记本子点隔日独立复测正确一次，届满前中断未在本题单独检验，原错保留。"
       },
       "latestCorrection": {
         "questionId": "2026-11-23-M04-correction-1",
@@ -5926,7 +6394,7 @@
     "M07": {
       "status": "core_instruction_covered_review_due",
       "startedDate": "2026-11-23",
-      "lastStudyDate": "2026-11-25",
+      "lastStudyDate": "2026-11-26",
       "mastered": false,
       "covered": [
         "要约两个条件：内容具体确定、承诺即受约束",
@@ -5946,7 +6414,8 @@
         "第511条质量、价款、地点、期限、方式、费用六类补充规则首次系统讲解，尚待应用检验",
         "依法转让债权通常须通知债务人，未通知对债务人不发生效力。限制转让、通知撤销、从权利、抗辩、增加费用的规则已讲",
         "债务转移须债权人同意，催告后合理期限不表示视为不同意。合同权利义务一并转让须对方同意",
-        "合同变更须当事人协商一致，变更内容不明推定未变更"
+        "合同变更须当事人协商一致，变更内容不明推定未变更",
+        "买卖合同交货地点不明且依第510条仍不能确定时，适用第603条特别规则，按是否需要运输、订约时是否知道货物所在地处理"
       ],
       "pending": [
         "要约两要件及广告例外理由待独立提取",
@@ -5988,24 +6457,25 @@
         551,
         555,
         556,
+        603,
         679
       ],
       "next": "L06债权转让通知及对债务人效力待答。",
       "lastApplication": {
-        "conclusionCorrect": false,
+        "conclusionCorrect": true,
         "reasonCorrect": null,
         "reasonComplete": false,
         "mastered": false,
-        "questionId": "2026-11-25-M07-review-remedial-1",
-        "note": "对照题仍把已生效要约的取消误称撤回，按撤销判断。认为本题取消生效正确。理由回答不知道，未写可撤销且通知在乙作出承诺前到达。原答分项保留，一次补救已用，转下次间隔复测。"
+        "questionId": "2026-11-26-M07-transfer-remedial-1",
+        "note": "结论正确，交付设备属于非金钱债权，丙明知限制，乙可以用约定对抗丙。原答未写题目要求的理由，不计理由错误。补充支付货款属于金钱债权，限制转让的约定不能对抗第三人。本题记为讲解后正确识别结论，完整理由和独立保持待复测。"
       },
       "latestConceptMistake": {
         "questionId": "2026-11-23-M07-practice-3",
         "correctionQuestionId": "2026-11-23-M07-correction-1",
-        "latestSpacedReviewId": "2026-11-25-M07-review-1",
-        "latestRemedialId": "2026-11-25-M07-review-remedial-1",
-        "topic": "要约生效与承诺、撤回撤销及确定承诺期限例外",
-        "status": "remedial_partly_correct_independent_review_due",
+        "latestSpacedReviewId": "2026-11-26-M07-review-3",
+        "latestRemedialId": "2026-11-26-M07-review-remedial-2",
+        "topic": "撤回撤销分类隔日正确，固定承诺期不得撤销及撤销主体仍待保持",
+        "status": "classification_correct_exception_and_actor_review_due",
         "mastered": false
       },
       "latestFormationEffectivenessMistake": {
@@ -6036,21 +6506,25 @@
         "tested": [
           "债权转让通知",
           "债务转移催告及沉默",
-          "合同权利义务一并转让"
+          "合同权利义务一并转让",
+          "抗辩延续",
+          "增加费用",
+          "限制转让对照结论"
         ],
         "notYetTested": [
-          "从权利、抗辩延续、费用及限制转让细则"
+          "从权利",
+          "限制转让完整理由及独立保持"
         ],
         "mastered": false
       },
-      "lastReview": "2026-11-25",
+      "lastReview": "2026-11-26",
       "latestReviewResult": {
         "conclusionCorrect": false,
-        "reasonCorrect": false,
+        "reasonCorrect": null,
         "reasonComplete": false,
         "mastered": false,
-        "questionId": "2026-11-25-M07-review-1",
-        "note": "间隔复测仍把已生效要约的取消归为撤回。乙尚未表态指承诺阶段，与题设已生效的要约状态不同。能否有效取消未明确作答，且未识别三日承诺期限是不得撤销的依据。已讲解生效与承诺两节点及承诺期限例外，接一次无例外的对照应用。"
+        "questionId": "2026-11-26-M07-review-3",
+        "note": "两情形分类均正确，9:55先于要约到达，可有效撤回，亦答对。补完整撤回时点含同时到达。10:05要约已经生效，按撤销判断，但固定三天承诺期限使该要约不得撤销。乙未作出承诺不足以使取消有效。分类较前次进步，承诺期限例外仍错，讲解后只做一次对照。"
       }
     },
     "P05": {
@@ -6083,12 +6557,21 @@
         "mastered": false,
         "questionId": "2026-11-25-P05-practice-6",
         "note": "三个维度与问题对应均正确，并各举行动例子：为人民修路对应目的，听取意见依靠群众力量对应力量来源，修路便利群众对应成果归属。第三项可补公平惠及更多群众以突出共享，但核心已成立，不扣理由分。记为同日回忆正确，未验证隔日独立保持，原首题不会及共享误选保留。"
+      },
+      "lastReview": "2026-11-26",
+      "latestReviewResult": {
+        "conclusionCorrect": true,
+        "reasonCorrect": null,
+        "reasonComplete": null,
+        "mastered": false,
+        "questionId": "2026-11-26-P05-review-1",
+        "note": "两项核心均正确：全面为民按发展为了人民认可，成果全面与民分享按发展成果由人民共享认可。题目只要求判断各对应方面，无理由扣分。记为目的与共享一轮隔日独立辨析正确，补规范名称。原错保留，不认定P05整章掌握。"
       }
     },
     "P06": {
-      "status": "instruction_started",
+      "status": "core_application_completed_review_due",
       "startedDate": "2026-11-25",
-      "lastStudyDate": "2026-11-25",
+      "lastStudyDate": "2026-11-26",
       "mastered": false,
       "covered": [
         "改革开放是决定当代中国命运的关键一招",
@@ -6097,13 +6580,22 @@
         "经济体制改革是牵引，促进社会公平正义、增进人民福祉是出发点和落脚点。与总目标及原则分开"
       ],
       "pending": [
-        "总目标、六原则、总体部署分别应用",
+        "总目标独立提取",
+        "六项原则完整回忆，重点守正创新、经济体制改革牵引的归类",
         "开放具体政策及其他改革专题未讲"
       ],
       "sources": [
         "https://www.moe.gov.cn/jyb_xwfb/s6052/moe_838/202407/t20240722_1142205.html"
       ],
-      "next": "P06-01总目标应用待答。"
+      "next": "下次间隔复测总目标及六原则。",
+      "lastApplication": {
+        "conclusionCorrect": false,
+        "reasonCorrect": null,
+        "reasonComplete": null,
+        "mastered": false,
+        "questionId": "2026-11-26-P06-practice-4",
+        "note": "六项原则答出五项核心：党的全面领导、人民中心、系统观念、制度建设主线、全面依法治国。以民为本按核心认可，规范表述补为坚持以人民为中心。漏坚持守正创新，把经济体制改革为牵引混入原则，并答属于，归类错误。按回忆和归类分项保存，随后转法律间隔复测，不追加同向默写。"
+      }
     }
   },
   "legacyLawOnlyDays": [
@@ -7554,23 +8046,23 @@
       ]
     },
     "latestPreparedPackage": {
-      "preparedAt": "2026-11-24",
-      "entryRelativePath": "学习计划/课前备课/2026-11-24_接续课/课程入口.md",
-      "questionBankRelativePath": "学习计划/课前备课/2026-11-24_接续课/题目与衔接.json",
+      "preparedAt": "2026-11-26",
+      "entryRelativePath": "学习计划/课前备课/2026-11-26_接续课/课程入口.md",
+      "questionBankRelativePath": "学习计划/课前备课/2026-11-26_接续课/题目与衔接.json",
       "status": "prepared_not_delivered",
       "nextUseDate": null,
       "topics": [
-        "P05现有首题及应用承接",
-        "M07履行与债权债务转移入门",
-        "P06改革主干"
+        "三种合同履行抗辩",
+        "债务加入与债务转移",
+        "完善高水平对外开放体制机制"
       ],
       "normalMinutes": 150,
       "shortMinutes": 50,
-      "questionItems": 24,
-      "existingPendingItems": 1,
-      "newSelfWrittenItems": 23,
-      "remediationItems": 4,
-      "preservePendingQuestionId": "2026-11-24-P05-practice-1"
+      "questionItems": 19,
+      "existingPendingItems": 0,
+      "newSelfWrittenItems": 19,
+      "remediationItems": 2,
+      "preservePendingQuestionId": null
     }
   },
   "politics": {
@@ -10942,17 +11434,28 @@
       "answeredQuestions": 17,
       "actualMinutes": null,
       "mastered": false,
-      "pendingQuestion": {
-        "id": "2026-11-25-P06-practice-1",
-        "lesson": "P06",
-        "type": "guided_application",
-        "status": "awaiting_answer",
-        "question": "有人认为，进一步全面深化改革只是改一改具体的办事流程，与完善制度、提升治理能力无关。这种理解准确吗？请概括进一步全面深化改革的总目标。",
-        "preparedQuestionId": "P06-01"
-      },
+      "pendingQuestion": null,
       "lastQuestionId": "2026-11-25-M07-review-remedial-1",
-      "nextQuestion": "2026-11-25-P06-practice-1",
-      "currentPhase": "要约撤销补救结果部分正确，分类与理由保留间隔复测。开始P06进一步全面深化改革主干，首题检验总目标。"
+      "nextQuestion": null,
+      "currentPhase": "要约撤销补救结果部分正确，分类与理由保留间隔复测。开始P06进一步全面深化改革主干，首题检验总目标。",
+      "pendingCarriedTo": "2026-11-26"
+    },
+    "2026-11-26": {
+      "status": "session_closed",
+      "answeredQuestions": 16,
+      "actualMinutes": 30,
+      "mastered": false,
+      "pendingQuestion": null,
+      "lastQuestionId": "2026-11-26-M07-transfer-remedial-1",
+      "nextQuestion": null,
+      "currentPhase": "本轮已收束，合计约30分钟。下一课已备，开课时按最新状态进入。",
+      "actualMinutesEstimated": true,
+      "timeReport": {
+        "reference": "2026-11-26-combined-block-report-1",
+        "scope": "本轮两科合计",
+        "original": "半小时左右",
+        "subjectSplit": null
+      }
     }
   },
   "studyExecutionPolicy": {
@@ -11010,15 +11513,15 @@
     "syncCadenceSource": "用户：等最后的时候一起同步吧，现在一题一同步很慢"
   },
   "resumeState": {
-    "asOf": "2026-11-25",
+    "asOf": "2026-11-26",
     "timezone": "Asia/Hong_Kong",
-    "lesson": "P06",
-    "questionId": "2026-11-25-P06-practice-1",
-    "questionStatus": "awaiting_answer",
-    "question": "有人认为，进一步全面深化改革只是改一改具体的办事流程，与完善制度、提升治理能力无关。这种理解准确吗？请概括进一步全面深化改革的总目标。",
-    "currentActivity": "要约撤销补救结果部分正确，分类与理由保留间隔复测。开始P06进一步全面深化改革主干，首题检验总目标。",
-    "politicsNext": "P06改革主干已首讲，P06-01总目标应用待答。",
-    "deliveryNote": "本轮法律收束，已答及错点保存。P06仅首讲改革定位、总目标、六原则与总体部署区分，开放具体政策及其他专题未授。每题本机保存，整段结束统一同步。"
+    "lesson": "M07",
+    "questionId": null,
+    "questionStatus": "ready_for_prepared_lesson",
+    "question": null,
+    "currentActivity": "本轮已收束，下一次按11月26日备课包接续。",
+    "politicsNext": "先按时抽查P06总目标或六项原则，再进入高水平对外开放。",
+    "deliveryNote": "本轮约30分钟为两科合计估计。下次无待答时从R01或R02开始，再进入履行抗辩、债务加入和高水平对外开放。"
   },
   "syncProject": {
     "rootOnThisComputer": "E:\\文档\\公考学习",
@@ -11093,7 +11596,7 @@
       "P05坚持以人民为中心"
     ],
     "questionBankRelativePath": "学习计划/课前备课/2026-11-20/题目与衔接.json",
-    "pendingQuestionPreserved": "2026-11-24-P05-practice-1",
+    "pendingQuestionPreserved": null,
     "preparedQuestionCount": 27,
     "gongwen": {
       "preparedAt": "2026-11-23",
@@ -11118,23 +11621,23 @@
     },
     "nextDeliveryNote": "M07本轮核心与自然人借款已讲练，P05核心首讲第1题待答；扩展和独立保持不标完成。",
     "latestPackage": {
-      "preparedAt": "2026-11-24",
-      "entryRelativePath": "学习计划/课前备课/2026-11-24_接续课/课程入口.md",
-      "questionBankRelativePath": "学习计划/课前备课/2026-11-24_接续课/题目与衔接.json",
+      "preparedAt": "2026-11-26",
+      "entryRelativePath": "学习计划/课前备课/2026-11-26_接续课/课程入口.md",
+      "questionBankRelativePath": "学习计划/课前备课/2026-11-26_接续课/题目与衔接.json",
       "status": "prepared_not_delivered",
       "nextUseDate": null,
       "topics": [
-        "P05现有首题及应用承接",
-        "M07履行与债权债务转移入门",
-        "P06改革主干"
+        "三种合同履行抗辩",
+        "债务加入与债务转移",
+        "完善高水平对外开放体制机制"
       ],
       "normalMinutes": 150,
       "shortMinutes": 50,
-      "questionItems": 24,
-      "existingPendingItems": 1,
-      "newSelfWrittenItems": 23,
-      "remediationItems": 4,
-      "preservePendingQuestionId": "2026-11-24-P05-practice-1"
+      "questionItems": 19,
+      "existingPendingItems": 0,
+      "newSelfWrittenItems": 19,
+      "remediationItems": 2,
+      "preservePendingQuestionId": null
     }
   },
   "targetExamContext": {
@@ -11158,6 +11661,20 @@
       "reportedMinutes": 40,
       "basis": "user_report_estimate",
       "crossMidnightSplit": "用户未拆分跨午夜的分日用时；记录为本轮总估计，不将40分钟全部计入任一日，也不替政治三十多分钟指定精确值。"
+    },
+    {
+      "id": "2026-11-26-combined-block-report-1",
+      "reportedOn": "2026-11-26",
+      "timezone": "Asia/Hong_Kong",
+      "subject": "combined",
+      "original": "半小时左右",
+      "reportedBlock": "本轮法律与政治学习合计",
+      "reportedMinutes": 30,
+      "basis": "user_report_estimate",
+      "subjectMinutes": {
+        "law": null,
+        "politics": null
+      }
     }
   ]
 }

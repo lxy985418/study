@@ -1136,22 +1136,22 @@
     ]
   },
   "latestPreparedPackage": {
-    "preparedAt": "2026-11-24",
-    "entryRelativePath": "学习计划/课前备课/2026-11-24_接续课/课程入口.md",
-    "questionBankRelativePath": "学习计划/课前备课/2026-11-24_接续课/题目与衔接.json",
+    "preparedAt": "2026-11-26",
+    "entryRelativePath": "学习计划/课前备课/2026-11-26_接续课/课程入口.md",
+    "questionBankRelativePath": "学习计划/课前备课/2026-11-26_接续课/题目与衔接.json",
     "status": "prepared_not_delivered",
     "nextUseDate": null,
     "topics": [
-      "P05现有首题及应用承接",
-      "M07履行与债权债务转移入门",
-      "P06改革主干"
+      "三种合同履行抗辩",
+      "债务加入与债务转移",
+      "完善高水平对外开放体制机制"
     ],
     "normalMinutes": 150,
     "shortMinutes": 50,
-    "questionItems": 24,
-    "existingPendingItems": 1,
-    "newSelfWrittenItems": 23,
-    "remediationItems": 4,
-    "preservePendingQuestionId": "2026-11-24-P05-practice-1"
+    "questionItems": 19,
+    "existingPendingItems": 0,
+    "newSelfWrittenItems": 19,
+    "remediationItems": 2,
+    "preservePendingQuestionId": null
   }
 }
