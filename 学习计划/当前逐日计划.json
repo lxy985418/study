@@ -1137,20 +1137,20 @@
   },
   "latestPreparedPackage": {
     "preparedAt": "2026-11-26",
-    "entryRelativePath": "学习计划/课前备课/2026-11-26_接续课/课程入口.md",
-    "questionBankRelativePath": "学习计划/课前备课/2026-11-26_接续课/题目与衔接.json",
+    "entryRelativePath": "学习计划/课前备课/2026-11-26_合同终止与全过程人民民主/课程入口.md",
+    "questionBankRelativePath": "学习计划/课前备课/2026-11-26_合同终止与全过程人民民主/题目与衔接.json",
     "status": "prepared_not_delivered",
     "nextUseDate": null,
     "topics": [
-      "三种合同履行抗辩",
-      "债务加入与债务转移",
-      "完善高水平对外开放体制机制"
+      "合同终止与解除",
+      "违约责任的请求方式",
+      "全过程人民民主与制度体系"
     ],
     "normalMinutes": 150,
     "shortMinutes": 50,
-    "questionItems": 19,
+    "questionItems": 18,
     "existingPendingItems": 0,
-    "newSelfWrittenItems": 19,
+    "newSelfWrittenItems": 18,
     "remediationItems": 2,
     "preservePendingQuestionId": null
   }

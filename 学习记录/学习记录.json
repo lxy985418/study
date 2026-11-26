@@ -636,9 +636,65 @@
       "resultQuestionId": "2026-11-26-M07-transfer-remedial-1",
       "latestSubpointResult": "讲解后选中非金钱债权，理由未写。留待独立复测。",
       "nextReviewDate": "2026-11-27"
+    },
+    {
+      "id": "2026-11-26-M07-simultaneous-defense-review",
+      "lesson": "M07",
+      "topic": "同时履行抗辩与不安抗辩的区别：顺序、主张人、触发事实",
+      "dueDate": "2026-11-27",
+      "status": "review_due",
+      "sourceQuestionId": "2026-11-26-M07-performance-defense-1",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-26-M07-defense-procedure-review",
+      "lesson": "M07",
+      "topic": "不安抗辩中止后及时通知，适当担保后恢复履行",
+      "dueDate": "2026-11-27",
+      "status": "review_due",
+      "sourceQuestionId": "2026-11-26-M07-performance-defense-3",
+      "mastered": false,
+      "reviewHistory": [
+        {
+          "date": "2026-11-26",
+          "questionId": "2026-11-26-M07-performance-defense-remedial-1",
+          "assessment": "不能继续中止答对，但理由不准确。题设已给适当担保，应恢复履行，无须再把对方恢复原履行能力作为另一个前提。中止后合理期限内未恢复履行能力且未提供适当担保，才可解除合同并请求承担违约责任。B-A只做一次，恢复规则留间隔复测；转A05考解除阶段。"
+        }
+      ],
+      "lastReviewDate": "2026-11-26",
+      "resultQuestionId": "2026-11-26-M07-performance-defense-remedial-1",
+      "latestSubpointResult": "对照题知道不能继续中止，但将恢复履行附加核实对方履行能力条件，适当担保后的恢复待复测。",
+      "nextReviewDate": "2026-11-27"
+    },
+    {
+      "id": "2026-11-26-M07-debt-accession-scope-review",
+      "lesson": "M07",
+      "topic": "债务加入中原债务人仍负全债务，加入人仅在愿承担的范围内连带，区分加入与实际清偿",
+      "dueDate": "2026-11-27",
+      "status": "review_due",
+      "sourceQuestionId": "2026-11-26-M07-debt-accession-1",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-26-P06-institutional-opening-review",
+      "lesson": "P06",
+      "topic": "对接国际高标准经贸规则对应制度型开放，区别外贸流程和国际共建项目",
+      "dueDate": "2026-11-27",
+      "status": "review_due",
+      "sourceQuestionId": "2026-11-26-P06-opening-1",
+      "mastered": false
+    },
+    {
+      "id": "2026-11-26-P06-opening-project-review",
+      "lesson": "P06",
+      "topic": "重大标志性工程和小而美民生项目归入高质量共建一带一路，区分外贸体制改革",
+      "dueDate": "2026-11-27",
+      "status": "review_due",
+      "sourceQuestionId": "2026-11-26-P06-opening-4",
+      "mastered": false
     }
   ],
-  "nextLesson": "11月26日备课：履行抗辩、债务加入、高水平对外开放",
+  "nextLesson": "11月26日两轮已收束，下次接合同终止与解除、违约责任、全过程人民民主。",
   "days": [
     {
       "day": 1,
@@ -5808,6 +5864,250 @@
         545
       ],
       "question": "甲有两项债权，分别是要求乙支付货款、要求乙交付一台设备。甲和乙都约定不得转让，甲后来把这两项债权转给丙。丙知道这些约定。乙能用约定对抗丙的是哪一项？为什么？"
+    },
+    {
+      "id": "2026-11-26-M07-performance-defense-1",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "guided_application",
+      "userAnswer": "可以，不安抗辩",
+      "conclusionCorrect": true,
+      "reasonCorrect": false,
+      "reasonComplete": false,
+      "mastered": false,
+      "answerStatus": "partially_correct",
+      "assessment": "可暂时拒付答对，抗辩类型答错。甲乙约定交货与付款同时进行，甲未交货，乙可主张同时履行抗辩。不安抗辩的主张人是有先履行义务的一方，且须有确切证据证明对方有履行能力风险。已补看履行顺序和主张人，按备课转A02对照。",
+      "subpointAssessment": {
+        "mayRefuse": true,
+        "namedDefense": false
+      },
+      "expected": "可以暂时拒付。交货和付款同时履行，甲未交货，乙可以主张同时履行抗辩。",
+      "preparedQuestionId": "A01",
+      "sourceArticles": [
+        525,
+        527
+      ],
+      "question": "约定当面交货和付款同时进行。甲没有带货，却先要求乙付全款。乙能否暂时拒付？依据哪种抗辩？"
+    },
+    {
+      "id": "2026-11-26-M07-performance-defense-2",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "guided_application",
+      "userAnswer": "可以，先履行抗辩",
+      "conclusionCorrect": true,
+      "reasonCorrect": true,
+      "reasonComplete": true,
+      "mastered": false,
+      "assessment": "两问均正确。乙可以拒付，依据先履行抗辩。题目只要求结论与抗辩类型，均已答出。补明甲是未交货的先履行方，主张抗辩的是后履行方乙。记录为本题应用正确，A01错点仍留间隔复测。",
+      "expected": "可以。先履行方甲未交货，后履行方乙可以主张先履行抗辩，拒绝甲的付款请求。",
+      "preparedQuestionId": "A02",
+      "sourceArticles": [
+        526
+      ],
+      "question": "甲应先交货，乙一周后付款。到付款日，甲一直没交货，却要求乙付款。乙能拒付吗？依据哪种抗辩？"
+    },
+    {
+      "id": "2026-11-26-M07-performance-defense-3",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "guided_application",
+      "userAnswer": "中止履行，提供足够的证据提出不安抗辩",
+      "conclusionCorrect": true,
+      "reasonCorrect": true,
+      "reasonComplete": false,
+      "mastered": false,
+      "answerStatus": "partially_correct",
+      "subpointAssessment": {
+        "suspend": true,
+        "identifiedDefense": true,
+        "evidence": "抓到要有证据，规范用词是确切证据",
+        "notice": "未写及时通知",
+        "adequateSecurity": "未回答应恢复履行"
+      },
+      "assessment": "第一问中止履行及不安抗辩答对，抓到证据要求，规范表述是确切证据。中止后及时通知未写，第二问适当担保后的恢复履行未答。结论与理由按已答部分认可。补程序后按备课B-A检验一次。",
+      "expected": "甲有确切证据，可中止履行并及时通知乙。乙提供适当担保后，甲应恢复履行。",
+      "preparedQuestionId": "A03",
+      "sourceArticles": [
+        527,
+        528
+      ],
+      "question": "甲应先供货，乙后付款。甲有确切证据证明乙正在转移财产逃避债务。甲现在可以采取什么措施？如果乙随后提供了适当担保，甲又该怎么做？"
+    },
+    {
+      "id": "2026-11-26-M07-performance-defense-remedial-1",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "remedial_after_explanation",
+      "userAnswer": "不能，应该核实是否真的能履行约定，不能可以合法解除，不然就要履行合同",
+      "conclusionCorrect": true,
+      "reasonCorrect": false,
+      "reasonComplete": false,
+      "mastered": false,
+      "answerStatus": "partially_correct",
+      "subpointAssessment": {
+        "continueSuspension": "答不能，正确",
+        "resumePerformance": "仅条件式回答履行，未识别题设已提供适当担保就应恢复",
+        "termination": "把再次核实履行能力当成解除条件，缺合理期限及没有适当担保"
+      },
+      "assessment": "不能继续中止答对，但理由不准确。题设已给适当担保，应恢复履行，无须再把对方恢复原履行能力作为另一个前提。中止后合理期限内未恢复履行能力且未提供适当担保，才可解除合同并请求承担违约责任。B-A只做一次，恢复规则留间隔复测；转A05考解除阶段。",
+      "expected": "不能继续中止，甲应恢复履行，因为乙已经提供适当担保。",
+      "preparedQuestionId": "B-A",
+      "sourceArticles": [
+        528
+      ],
+      "question": "甲已依法中止供货并及时通知乙。乙随后提供了适当担保，甲还能继续中止履行吗？"
+    },
+    {
+      "id": "2026-11-26-M07-performance-defense-4",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "guided_application",
+      "userAnswer": "解除合同并请求乙承担违约责任",
+      "conclusionCorrect": true,
+      "reasonCorrect": null,
+      "reasonComplete": null,
+      "mastered": false,
+      "assessment": "解除合同和请求乙承担违约责任两项措施均正确。题干已给出依法中止、及时通知、合理期限后既未恢复能力又无适当担保，题目只问可采取措施，不另要求复述条件。中止与解除的结论本次应用正确，适当担保后的恢复仍待间隔检验。",
+      "expected": "甲可以解除合同，并请求乙承担违约责任。",
+      "preparedQuestionId": "A05",
+      "sourceArticles": [
+        528
+      ],
+      "question": "甲已依法中止履行并及时通知乙。合理期限过后，乙仍未恢复履行能力，也未提供适当担保。此时甲可以采取什么措施？"
+    },
+    {
+      "id": "2026-11-26-M07-debt-accession-1",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "guided_application",
+      "userAnswer": "四万，需要承担原债务的六万",
+      "conclusionCorrect": false,
+      "reasonCorrect": null,
+      "reasonComplete": false,
+      "mastered": false,
+      "answerStatus": "partially_correct",
+      "subpointAssessment": {
+        "thirdPartyCap": {
+          "conclusionCorrect": true,
+          "amount": 40000
+        },
+        "originalDebtor": {
+          "staysLiable": true,
+          "amountCorrect": false,
+          "answer": 60000,
+          "expected": 100000
+        }
+      },
+      "assessment": "丙的承担上限4万元正确，知道乙仍须承担债务也正确，但误将乙的债务缩为6万元。加入并不让乙退出任何部分，未发生清偿时乙仍承担10万元，丙仅在其中4万元范围内与乙承担连带债务。丙实际偿还4万元后，对甲的未清偿余额才为6万元。补一次后转B02比较替换。",
+      "expected": "甲可向丙请求最多4万元。乙仍承担原来的10万元，其中4万元由乙、丙承担连带债务，丙承诺加入并不等于已经偿还。",
+      "preparedQuestionId": "B01",
+      "sourceArticles": [
+        552
+      ],
+      "question": "乙欠甲10万元。丙向甲明确表示愿意加入其中4万元的债务，乙继续承担原债务。甲在合理期限内没有明确拒绝。甲能向丙要求偿还多少？乙还要不要承担原债务？"
+    },
+    {
+      "id": "2026-11-26-M07-debt-accession-2",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "guided_application",
+      "userAnswer": "不能，没表态视为拒绝",
+      "conclusionCorrect": true,
+      "reasonCorrect": true,
+      "reasonComplete": true,
+      "mastered": false,
+      "assessment": "结论与核心理由均正确。结合题设的催告及合理期限，没表态视为拒绝按未同意理解。法条规范表达为视为不同意。因为此处原债务人将退出，属于债务转移，需要债权人同意。",
+      "expected": "不能。属于债务转移，需甲同意。经催告后甲在合理期限内未作表示，视为不同意。",
+      "preparedQuestionId": "B02",
+      "sourceArticles": [
+        551
+      ],
+      "question": "乙欠甲一笔钱。丙准备完全接替乙还款，乙将退出。丙催告债权人甲，甲在合理期限内没表态。丙是否已经有效替换了乙？为什么？"
+    },
+    {
+      "id": "2026-11-26-M07-debt-accession-3",
+      "date": "2026-11-26",
+      "lesson": "M07",
+      "type": "guided_application",
+      "userAnswer": "不可以，需要通知债权人或者直接向债权人表示愿意加入",
+      "conclusionCorrect": true,
+      "reasonCorrect": true,
+      "reasonComplete": true,
+      "mastered": false,
+      "assessment": "结论和理由正确。题设中与原债务人已约定加入，但双方均未通知甲，丙也没有向甲直接表示，两条路径均未成立。准确写出两种使债权人知悉加入的方式。记本题应用正确，原债务人责任范围错点留间隔复测。",
+      "expected": "不能。丙与乙约定加入，应当通知甲；也可以由丙直接向甲表示加入。两条路径在本题都未满足。",
+      "preparedQuestionId": "B03",
+      "sourceArticles": [
+        552
+      ],
+      "question": "乙欠甲钱。丙和乙约定由丙加入一部分债务，但两人都没有通知甲，丙也没有直接向甲表示愿意加入。甲能直接依据债务加入的规则要求丙还款吗？为什么？"
+    },
+    {
+      "id": "2026-11-26-P06-opening-1",
+      "date": "2026-11-26",
+      "lesson": "P06",
+      "type": "guided_application",
+      "userAnswer": "**完善推进高质量共建“一带一路”机制**",
+      "conclusionCorrect": false,
+      "reasonCorrect": null,
+      "reasonComplete": null,
+      "mastered": false,
+      "assessment": "开放部署名称本身正确，但材料对应错。国际高标准经贸规则衔接、政府采购规则和环境标准匹配是扩大制度型开放的线索；共建一带一路题重点看共同项目、互联互通或合作平台。只问名称，不另计理由。补题干线索后进入P02。",
+      "expected": "稳步扩大制度型开放。",
+      "preparedQuestionId": "P01",
+      "question": "主动对接国际高标准经贸规则，让政府采购、环境标准等方面的规则更好衔接。这最直接对应哪一项开放部署？"
+    },
+    {
+      "id": "2026-11-26-P06-opening-2",
+      "date": "2026-11-26",
+      "lesson": "P06",
+      "type": "guided_application",
+      "userAnswer": "**深化外贸体制改革**",
+      "conclusionCorrect": true,
+      "reasonCorrect": null,
+      "reasonComplete": null,
+      "mastered": false,
+      "assessment": "开放部署名称正确。跨境电商综合试验区、通关和税务监管属于外贸业态和流程，直接对应深化外贸体制改革。题目只要求分类，不另计理由。规则衔接题原错留待复测。",
+      "expected": "深化外贸体制改革。",
+      "preparedQuestionId": "P02",
+      "question": "推进跨境电商综合试验区，并改进相应的通关和税务监管。这最直接对应哪一项开放部署？"
+    },
+    {
+      "id": "2026-11-26-P06-opening-3",
+      "date": "2026-11-26",
+      "lesson": "P06",
+      "type": "guided_application",
+      "userAnswer": "**深化外商投资和对外投资管理体制改革**   **优化区域开放布局**",
+      "conclusionCorrect": true,
+      "reasonCorrect": null,
+      "reasonComplete": null,
+      "mastered": false,
+      "assessment": "两项分类均准确，名称完整。外资企业国民待遇对应外商投资和对外投资管理体制改革，沿边口岸和交通干线的地区功能分工对应优化区域开放布局。题目只要求对应项目，不另计理由。",
+      "expected": "① 深化外商投资和对外投资管理体制改革。② 优化区域开放布局。",
+      "preparedQuestionId": "P03",
+      "question": "下面两项措施分别最直接对应哪项开放部署？① 保障外资企业在政府采购等方面享有国民待遇。② 依托沿边口岸和交通干线，优化各地区的开放功能分工。"
+    },
+    {
+      "id": "2026-11-26-P06-opening-4",
+      "date": "2026-11-26",
+      "lesson": "P06",
+      "type": "same_day_recall",
+      "userAnswer": "深化外贸体制改革\n\n深化‘一带一路’外贸思想 优化区域开放布局  深化外商投资和对外投资管理体制改革&#x20;\n**稳步扩大制度型开放**",
+      "conclusionCorrect": false,
+      "reasonCorrect": null,
+      "reasonComplete": false,
+      "mastered": false,
+      "answerStatus": "partially_correct",
+      "subpointAssessment": {
+        "caseClassification": "答深化外贸体制改革，分类错误",
+        "remainingFour": "在其余四项里正确列出制度型开放、投资管理和区域布局。外贸体制改革写在了案例答案处，未归入其余四项",
+        "distinctNames": "全文共写出四项规范名称，未写出完善推进高质量共建一带一路机制的完整名称"
+      },
+      "assessment": "案例对应错误。国际合作中的重大标志性工程和小而美民生项目对应完善推进高质量共建一带一路机制。外贸体制改革的名称本身正确，应列入其余四项。制度型开放、区域开放和投资改革三项均准确。“深化一带一路外贸思想”非这项规范表述。记本轮名称回忆四项、案例定位错，留间隔复测。",
+      "expected": "案例对应完善推进高质量共建“一带一路”机制。其余四项为稳步扩大制度型开放、深化外贸体制改革、深化外商投资和对外投资管理体制改革、优化区域开放布局。",
+      "preparedQuestionId": "P04",
+      "question": "《决定》提出，在国际合作中统筹推进重大标志性工程和“小而美”民生项目。这对应哪项开放部署？答完后，先不看前文，试着说出其余四项部署，顺序不限。"
     }
   ],
   "lessonProgress": {
@@ -6415,7 +6715,12 @@
         "依法转让债权通常须通知债务人，未通知对债务人不发生效力。限制转让、通知撤销、从权利、抗辩、增加费用的规则已讲",
         "债务转移须债权人同意，催告后合理期限不表示视为不同意。合同权利义务一并转让须对方同意",
         "合同变更须当事人协商一致，变更内容不明推定未变更",
-        "买卖合同交货地点不明且依第510条仍不能确定时，适用第603条特别规则，按是否需要运输、订约时是否知道货物所在地处理"
+        "买卖合同交货地点不明且依第510条仍不能确定时，适用第603条特别规则，按是否需要运输、订约时是否知道货物所在地处理",
+        "同时履行抗辩：双方互负债务且无先后履行顺序，对对方未履行或不合约的履行请求可以拒绝或拒绝相应部分",
+        "先履行抗辩：有履行先后，后履行方可对先履行方未履行或不合约履行拒绝或拒绝相应部分",
+        "不安抗辩：先履行方有对方履行风险的确切证据才可中止，及时通知；有适当担保恢复履行，合理期内未恢复且无适当担保才可解除并请求违约责任",
+        "债务加入保留原债务人。第三人与债务人约定加入并通知债权人，或者第三人直接向债权人表示愿意加入，而债权人合理期限内未明确拒绝的，第三人在愿意承担的范围内与债务人承担连带债务",
+        "区分债务转移的替换与债务加入的并存。仅代为付款而无加入意思的，不据此认定加入"
       ],
       "pending": [
         "要约两要件及广告例外理由待独立提取",
@@ -6447,6 +6752,10 @@
         509,
         510,
         511,
+        525,
+        526,
+        527,
+        528,
         543,
         544,
         545,
@@ -6455,19 +6764,20 @@
         548,
         550,
         551,
+        552,
         555,
         556,
         603,
         679
       ],
-      "next": "L06债权转让通知及对债务人效力待答。",
+      "next": "B01债务加入的承担范围与原债务人保留待答。",
       "lastApplication": {
         "conclusionCorrect": true,
-        "reasonCorrect": null,
-        "reasonComplete": false,
+        "reasonCorrect": true,
+        "reasonComplete": true,
         "mastered": false,
-        "questionId": "2026-11-26-M07-transfer-remedial-1",
-        "note": "结论正确，交付设备属于非金钱债权，丙明知限制，乙可以用约定对抗丙。原答未写题目要求的理由，不计理由错误。补充支付货款属于金钱债权，限制转让的约定不能对抗第三人。本题记为讲解后正确识别结论，完整理由和独立保持待复测。"
+        "questionId": "2026-11-26-M07-debt-accession-3",
+        "note": "结论和理由正确。题设中与原债务人已约定加入，但双方均未通知甲，丙也没有向甲直接表示，两条路径均未成立。准确写出两种使债权人知悉加入的方式。记本题应用正确，原债务人责任范围错点留间隔复测。"
       },
       "latestConceptMistake": {
         "questionId": "2026-11-23-M07-practice-3",
@@ -6525,6 +6835,26 @@
         "mastered": false,
         "questionId": "2026-11-26-M07-review-3",
         "note": "两情形分类均正确，9:55先于要约到达，可有效撤回，亦答对。补完整撤回时点含同时到达。10:05要约已经生效，按撤销判断，但固定三天承诺期限使该要约不得撤销。乙未作出承诺不足以使取消有效。分类较前次进步，承诺期限例外仍错，讲解后只做一次对照。"
+      },
+      "performanceDefenseProgress": {
+        "status": "core_application_completed_review_due",
+        "pending": [
+          "同时履行与不安抗辩类型区分",
+          "中止后及时通知和适当担保后恢复"
+        ],
+        "mastered": false
+      },
+      "debtAccessionProgress": {
+        "status": "core_application_completed_review_due",
+        "tested": [
+          "债务加入的范围",
+          "债务转移沉默规则",
+          "加入通知及直接表示"
+        ],
+        "pending": [
+          "原债务人全额责任与实际清偿辨析"
+        ],
+        "mastered": false
       }
     },
     "P05": {
@@ -6577,24 +6907,34 @@
         "改革开放是决定当代中国命运的关键一招",
         "总目标是继续完善和发展中国特色社会主义制度，推进国家治理体系和治理能力现代化",
         "进一步全面深化改革的六项原则：党的全面领导、以人民为中心、守正创新、以制度建设为主线、全面依法治国、系统观念",
-        "经济体制改革是牵引，促进社会公平正义、增进人民福祉是出发点和落脚点。与总目标及原则分开"
+        "经济体制改革是牵引，促进社会公平正义、增进人民福祉是出发点和落脚点。与总目标及原则分开",
+        "高水平对外开放体制机制五项部署：制度型开放、外贸体制改革、外商投资和对外投资管理体制改革、区域开放布局、高质量共建一带一路机制",
+        "对外开放基本国策，以开放促改革。区分对接国际高标准经贸规则和跨境电商通关流程"
       ],
       "pending": [
-        "总目标独立提取",
-        "六项原则完整回忆，重点守正创新、经济体制改革牵引的归类",
-        "开放具体政策及其他改革专题未讲"
+        "改革总目标独立提取",
+        "六项原则完整回忆及牵引归类",
+        "开放部署中制度型开放和共建一带一路的材料对应及完整名称",
+        "其他改革专题未讲"
       ],
       "sources": [
-        "https://www.moe.gov.cn/jyb_xwfb/s6052/moe_838/202407/t20240722_1142205.html"
+        "https://www.moe.gov.cn/jyb_xwfb/s6052/moe_838/202407/t20240722_1142205.html",
+        "https://www.sport.gov.cn/n4/n28140250/n28140389/c28176073/content.html"
       ],
-      "next": "下次间隔复测总目标及六原则。",
+      "next": "下次抽制度型开放与共建项目材料，再按计划推进。",
       "lastApplication": {
         "conclusionCorrect": false,
         "reasonCorrect": null,
-        "reasonComplete": null,
+        "reasonComplete": false,
         "mastered": false,
-        "questionId": "2026-11-26-P06-practice-4",
-        "note": "六项原则答出五项核心：党的全面领导、人民中心、系统观念、制度建设主线、全面依法治国。以民为本按核心认可，规范表述补为坚持以人民为中心。漏坚持守正创新，把经济体制改革为牵引混入原则，并答属于，归类错误。按回忆和归类分项保存，随后转法律间隔复测，不追加同向默写。"
+        "questionId": "2026-11-26-P06-opening-4",
+        "note": "案例对应错误。国际合作中的重大标志性工程和小而美民生项目对应完善推进高质量共建一带一路机制。外贸体制改革的名称本身正确，应列入其余四项。制度型开放、区域开放和投资改革三项均准确。“深化一带一路外贸思想”非这项规范表述。记本轮名称回忆四项、案例定位错，留间隔复测。"
+      },
+      "openingProgress": {
+        "status": "core_application_completed_review_due",
+        "recallCorrectNames": 4,
+        "recallTotal": 5,
+        "mastered": false
       }
     }
   },
@@ -8047,20 +8387,20 @@
     },
     "latestPreparedPackage": {
       "preparedAt": "2026-11-26",
-      "entryRelativePath": "学习计划/课前备课/2026-11-26_接续课/课程入口.md",
-      "questionBankRelativePath": "学习计划/课前备课/2026-11-26_接续课/题目与衔接.json",
+      "entryRelativePath": "学习计划/课前备课/2026-11-26_合同终止与全过程人民民主/课程入口.md",
+      "questionBankRelativePath": "学习计划/课前备课/2026-11-26_合同终止与全过程人民民主/题目与衔接.json",
       "status": "prepared_not_delivered",
       "nextUseDate": null,
       "topics": [
-        "三种合同履行抗辩",
-        "债务加入与债务转移",
-        "完善高水平对外开放体制机制"
+        "合同终止与解除",
+        "违约责任的请求方式",
+        "全过程人民民主与制度体系"
       ],
       "normalMinutes": 150,
       "shortMinutes": 50,
-      "questionItems": 19,
+      "questionItems": 18,
       "existingPendingItems": 0,
-      "newSelfWrittenItems": 19,
+      "newSelfWrittenItems": 18,
       "remediationItems": 2,
       "preservePendingQuestionId": null
     }
@@ -11442,20 +11782,29 @@
     },
     "2026-11-26": {
       "status": "session_closed",
-      "answeredQuestions": 16,
-      "actualMinutes": 30,
+      "answeredQuestions": 28,
+      "actualMinutes": 70,
       "mastered": false,
       "pendingQuestion": null,
-      "lastQuestionId": "2026-11-26-M07-transfer-remedial-1",
+      "lastQuestionId": "2026-11-26-P06-opening-4",
       "nextQuestion": null,
-      "currentPhase": "本轮已收束，合计约30分钟。下一课已备，开课时按最新状态进入。",
+      "currentPhase": "11月26日两轮已收束，合计约70分钟，下一课已备。",
       "actualMinutesEstimated": true,
       "timeReport": {
-        "reference": "2026-11-26-combined-block-report-1",
-        "scope": "本轮两科合计",
-        "original": "半小时左右",
+        "references": [
+          "2026-11-26-combined-block-report-1",
+          "2026-11-26-combined-block-report-2"
+        ],
+        "scope": "本日两轮两科合计",
+        "reportedBlockMinutes": [
+          30,
+          40
+        ],
+        "confirmedTotalMinutes": 70,
+        "confirmedOriginal": "就是七十分钟",
         "subjectSplit": null
-      }
+      },
+      "currentBlockTimeStatus": "reported"
     }
   },
   "studyExecutionPolicy": {
@@ -11515,13 +11864,13 @@
   "resumeState": {
     "asOf": "2026-11-26",
     "timezone": "Asia/Hong_Kong",
-    "lesson": "M07",
+    "lesson": "P06",
     "questionId": null,
     "questionStatus": "ready_for_prepared_lesson",
     "question": null,
-    "currentActivity": "本轮已收束，下一次按11月26日备课包接续。",
-    "politicsNext": "先按时抽查P06总目标或六项原则，再进入高水平对外开放。",
-    "deliveryNote": "本轮约30分钟为两科合计估计。下次无待答时从R01或R02开始，再进入履行抗辩、债务加入和高水平对外开放。"
+    "currentActivity": "11月26日两轮已收束，下次接合同终止与解除、违约责任、全过程人民民主。",
+    "politicsNext": "复测开放归类或改革总目标，再进入全过程人民民主。",
+    "deliveryNote": "按用户最终确认记两轮实际学习合计约70分钟，未拆分学科。无待答题，开课按间隔日期抽查，再进入已备新课。"
   },
   "syncProject": {
     "rootOnThisComputer": "E:\\文档\\公考学习",
@@ -11622,20 +11971,20 @@
     "nextDeliveryNote": "M07本轮核心与自然人借款已讲练，P05核心首讲第1题待答；扩展和独立保持不标完成。",
     "latestPackage": {
       "preparedAt": "2026-11-26",
-      "entryRelativePath": "学习计划/课前备课/2026-11-26_接续课/课程入口.md",
-      "questionBankRelativePath": "学习计划/课前备课/2026-11-26_接续课/题目与衔接.json",
+      "entryRelativePath": "学习计划/课前备课/2026-11-26_合同终止与全过程人民民主/课程入口.md",
+      "questionBankRelativePath": "学习计划/课前备课/2026-11-26_合同终止与全过程人民民主/题目与衔接.json",
       "status": "prepared_not_delivered",
       "nextUseDate": null,
       "topics": [
-        "三种合同履行抗辩",
-        "债务加入与债务转移",
-        "完善高水平对外开放体制机制"
+        "合同终止与解除",
+        "违约责任的请求方式",
+        "全过程人民民主与制度体系"
       ],
       "normalMinutes": 150,
       "shortMinutes": 50,
-      "questionItems": 19,
+      "questionItems": 18,
       "existingPendingItems": 0,
-      "newSelfWrittenItems": 19,
+      "newSelfWrittenItems": 18,
       "remediationItems": 2,
       "preservePendingQuestionId": null
     }
@@ -11670,6 +12019,20 @@
       "original": "半小时左右",
       "reportedBlock": "本轮法律与政治学习合计",
       "reportedMinutes": 30,
+      "basis": "user_report_estimate",
+      "subjectMinutes": {
+        "law": null,
+        "politics": null
+      }
+    },
+    {
+      "id": "2026-11-26-combined-block-report-2",
+      "reportedOn": "2026-11-26",
+      "timezone": "Asia/Hong_Kong",
+      "subject": "combined",
+      "original": "四十分钟左右",
+      "reportedBlock": "第二轮：合同履行抗辩、债务加入与高水平对外开放",
+      "reportedMinutes": 40,
       "basis": "user_report_estimate",
       "subjectMinutes": {
         "law": null,
